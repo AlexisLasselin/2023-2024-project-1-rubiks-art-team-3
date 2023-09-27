@@ -9,11 +9,16 @@
   - [Team 3](#team-3)
   - [Overview](#overview)
   - [Project Scope](#project-scope)
+  - [Do Not](#do-not)
   - [Fresco](#fresco)
-  - [Proposed Solutions](#proposed-solutions)
+  - [Final Solution](#final-solution)
+    - [Set up](#set-up)
+    - [Transportation](#transportation)
+  - [Other solutions](#other-solutions)
   - [Equipment](#equipment)
     - [Available](#available)
     - [Needed](#needed)
+  - [Risks](#risks)
   - [Milestones](#milestones)
   - [Sources](#sources)
   - [Glossary](#glossary)
@@ -24,8 +29,12 @@
 
 This project is for ALGOSUP school. We need to make a Rubik's cube fresco for the building.
 <!-- What? -->
+
 ## Project Scope
 <!-- Why? -->
+
+## Do Not
+<!-- What not to do -->
 
 ## Fresco
 
@@ -33,11 +42,19 @@ This project is for ALGOSUP school. We need to make a Rubik's cube fresco for th
 <!-- befre after of the room -->
 <!-- elments and why? -->
 <!-- reel and pixelize inspiration -->
-## Proposed Solutions
+
+## Final Solution
+
+### Set up
+
+### Transportation
+
+## Other solutions
 
 <!-- Shelve + mockup-->
 <!-- Integration of the plugs with a drawer + mockup-->
 <!-- Above and under the plugs + mockup-->
+<!-- Why and why not? -->
 
 ## Equipment
 
@@ -45,9 +62,12 @@ This project is for ALGOSUP school. We need to make a Rubik's cube fresco for th
 <!-- rubik's cubes  weight and mesures and colors-->
 <!-- Access to a 24 inches tracer -->
 <!-- the room with the mesures -->
+
 ### Needed
 
-<!-- wood, scotch double face -->
+<!-- double-sided adhesive -->
+
+## Risks
 
 ## Milestones
 
