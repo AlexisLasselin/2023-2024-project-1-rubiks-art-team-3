@@ -50,18 +50,13 @@ This project is for ALGOSUP school. We need to make a Rubik's cube fresco for th
 <!-- elments and why? -->
 <!-- reel and pixelize inspiration -->
 
-## Final Solution
+## Thinking Process
+
+Our main issue was the integration of the plugs with the fresco, we had to keep the access to them while exposing it. Our first idea was to keep the “natural” separation by putting Rubik’s cubes under and above it, but we realised that it was too much of a constraint for the design of the fresco. We then thought of adding a drawer system so all the cubes would be glued to each other, and removing the ones in front of the plugs would have given access to those electric outlets, but cancelled that idea because it made the access to the library to cleaning personal harder. Our next idea was to add a shelf right above the plugs so all the Rubik’s cubes could stand on it, but in terms of balance it wouldn’t have been the best solution. We finally thought of using double-sided adhesive in order to stick the cubes to the wall, we thought that it was the simplest and most efficient way to place the cubes.
 
 ### Set up
 
 ### Transportation
-
-## Other solutions
-
-<!-- Shelf + mockup-->
-<!-- Integration of the plugs with a drawer + mockup-->
-<!-- Above and under the plugs + mockup-->
-<!-- Why and why not? -->
 
 ## Equipment
 
