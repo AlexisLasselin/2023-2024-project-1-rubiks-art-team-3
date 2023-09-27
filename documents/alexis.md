@@ -3,6 +3,8 @@
 - Break the cube to form the fresco, it must be assembled without damaging it;
 - Paint the cube, it must be returned in its original state;
 - Assemble the fresco with less than 2000 cubes and more than 3000 cubes;
+- Use the fresco to denigrate a member of the staff or the school;
+- Choose a too complex fresco, it would be a shame not to finish it;s
 
 ## Milestones
 
