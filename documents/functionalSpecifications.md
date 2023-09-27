@@ -18,6 +18,7 @@
   - [Equipment](#equipment)
     - [Available](#available)
     - [Needed](#needed)
+  - [Cost analysis](#cost-analysis)
   - [Risks](#risks)
   - [Milestones](#milestones)
   - [Sources](#sources)
@@ -51,7 +52,7 @@ This project is for ALGOSUP school. We need to make a Rubik's cube fresco for th
 
 ## Other solutions
 
-<!-- Shelve + mockup-->
+<!-- Shelf + mockup-->
 <!-- Integration of the plugs with a drawer + mockup-->
 <!-- Above and under the plugs + mockup-->
 <!-- Why and why not? -->
@@ -59,13 +60,31 @@ This project is for ALGOSUP school. We need to make a Rubik's cube fresco for th
 ## Equipment
 
 ### Available
-<!-- rubik's cubes  weight and mesures and colors-->
-<!-- Access to a 24 inches tracer -->
-<!-- the room with the mesures -->
+
+To carry out the project, these elements are available:
+- **3000 Rubik's cubes 3x3**
+  - Square,
+  - 5,5 cm³ / 2.16535 inches³,
+  - 64 grammes / 2.25753 onces,
+  - Red, blue, green, orange, white and yellow
+- **60 cm / 24 inches tracer**
+- **Project room**
+- **Library's wall**
+  - 600 cm / 236.22 inches horizontally,
+  - 220 cm / 86.6142 inches vertically
 
 ### Needed
 
-<!-- double-sided adhesive -->
+To be able to build the freso, we will need:
+- **Double-sided adhesive**
+
+<img src="../images/adhesive.png" style="height:200px">
+
+- **Bubble level**
+
+<img src="../images/bubbleLevel.png" style="height:200px">
+
+## Cost analysis
 
 ## Risks
 
@@ -74,3 +93,10 @@ This project is for ALGOSUP school. We need to make a Rubik's cube fresco for th
 ## Sources
 
 ## Glossary
+
+Rubik's cube
+cm / inches
+grammes / onces
+bubble level
+fresco
+double-sized adhesive
