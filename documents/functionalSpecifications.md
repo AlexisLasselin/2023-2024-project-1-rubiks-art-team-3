@@ -11,14 +11,12 @@
   - [Project Scope](#project-scope)
   - [Do Not](#do-not)
   - [Fresco](#fresco)
-  - [Final Solution](#final-solution)
+  - [Thinking Process](#thinking-process)
     - [Set up](#set-up)
     - [Transportation](#transportation)
-  - [Other solutions](#other-solutions)
   - [Equipment](#equipment)
     - [Available](#available)
     - [Needed](#needed)
-  - [Cost analysis](#cost-analysis)
   - [Risks](#risks)
   - [Milestones](#milestones)
   - [Sources](#sources)
@@ -77,15 +75,32 @@ To carry out the project, these elements are available:
 ### Needed
 
 To be able to build the freso, we will need:
+
 - **Double-sided adhesive**
+
+To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59.0551 feet of double-sided adhesive foam tape will be needed. 
+
+- 88 columns of Rubik's cubes.
+- 34 rows of Rubik's cubes.
+- 2.5 cm / 0.984252 inches for the length needed of tape for each cube.
+- 88 * 34 * 2.5 = 7480
+- 7480 cm / 2944.882 inches of tape are needed.
+- 74.8 m / 245.4068 feet of double-sided foam tape are needed.
+- This tape is about 0.59 cents for 4m / 13.1234 feet. 
+- 74.8 / 4 = 18.7
+- 18.7 tapes are needed for the middle of the cubes.
+- 25 double-sided foam tapes are needed, because of the potential errors during the installation and to strengthen the counters of the Rubik's cubes. 
+- 25 * 0.59 = 14.75
+- The total for the tape needed is 14.75 euros.
+- These tapes are available at Action. Av. du 19 Mars 1962, 18100 Vierzon.
 
 <img src="../images/adhesive.png" style="height:200px">
 
 - **Bubble level**
 
-<img src="../images/bubbleLevel.png" style="height:200px">
+To be sure that the Rubik's cubes are well aligned, a bubble level would help us to be sure. People in the team already own a bubble level, so there is no need to buy one.
 
-## Cost analysis
+<img src="../images/bubbleLevel.png" style="height:200px">
 
 ## Risks
 
