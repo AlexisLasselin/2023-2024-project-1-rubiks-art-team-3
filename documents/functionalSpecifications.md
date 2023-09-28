@@ -62,15 +62,15 @@ Our main issue was the integration of the plugs with the fresco, we had to keep 
 
 To carry out the project, these elements are available:
 - **3000 Rubik's cubes 3x3**
-  - Square,
-  - 5,5 cm³ / 2.16535 inches³,
-  - 64 grammes / 2.25753 onces,
-  - Red, blue, green, orange, white and yellow
+  - Square;
+  - 5,5 cm³ / 2.16535 inches³;
+  - 64 grammes / 2.25753 onces;
+  - Red, blue, green, orange, white and yellow.
 - **60 cm / 24 inches tracer**
 - **Project room**
 - **Library's wall**
-  - 600 cm / 236.22 inches horizontally,
-  - 220 cm / 86.6142 inches vertically
+  - 600 cm / 236.22 inches horizontally;
+  - 220 cm / 86.6142 inches vertically.
 
 ### Needed
 
@@ -80,18 +80,18 @@ To be able to build the freso, we will need:
 
 To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59.0551 feet of double-sided adhesive foam tape will be needed. 
 
-- 88 columns of Rubik's cubes.
-- 34 rows of Rubik's cubes.
-- 2.5 cm / 0.984252 inches for the length needed of tape for each cube.
-- 88 * 34 * 2.5 = 7480
-- 7480 cm / 2944.882 inches of tape are needed.
-- 74.8 m / 245.4068 feet of double-sided foam tape are needed.
-- This tape is about 0.59 cents for 4m / 13.1234 feet. 
-- 74.8 / 4 = 18.7
-- 18.7 tapes are needed for the middle of the cubes.
-- 25 double-sided foam tapes are needed, because of the potential errors during the installation and to strengthen the counters of the Rubik's cubes. 
-- 25 * 0.59 = 14.75
-- The total for the tape needed is 14.75 euros.
+- 88 columns of Rubik's cubes;
+- 34 rows of Rubik's cubes;
+- 2.5 cm / 0.984252 inches for the length needed of tape for each cube;
+- 88 * 34 * 2.5 = 7480;
+- 7480 cm / 2944.882 inches of tape are needed;
+- 74.8 m / 245.4068 feet of double-sided foam tape are needed;
+- This tape is about 0.59 cents for 4m / 13.1234 feet;
+- 74.8 / 4 = 18.7;
+- 18.7 tapes are needed for the middle of the cubes;
+- 25 double-sided foam tapes are needed, because of the potential errors during the installation and to strengthen the counters of the Rubik's cubes;
+- 25 * 0.59 = 14.75;
+- The total for the tape needed is 14.75 euros;
 - These tapes are available at Action. Av. du 19 Mars 1962, 18100 Vierzon.
 
 <img src="../images/adhesive.png" style="height:200px">
