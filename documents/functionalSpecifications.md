@@ -64,20 +64,21 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 ### Timelapse
 
-<!-- | Le groupe qui reçoit le projet |Scene|
+<!-- | The group receives the project |Scene|
 |---|---|
-| le groupe qui reçoit un rubiks cube | Caméra près de la télé et regarde vers la porte, tout le monde est assis et victor rentre avec un cube en faisant une danse |
-| le groupe qui prend des mesures d'un rubiks (on le mesure et on le pèse) | plan de près où l’on pose un rubiks cube sur une balance et on le mesure avec un mètre et la caméra se tourne vers quelqu’un d’autre qui écoute les mesures et qui hoche de la tête et qui note sur une feuille |
-| On aligne les rubiks cube au mur pour voir la taille | on fait une tour de rubiks cube et on met quelqu’un a cote a cote pour comparer (clémentine) et on dézoome et ça révèle la personne |
-| le group devant le tableau qui discute des 4 façons de montage | on a le tableau divisé en 4 et quelqu’un est debout pour recuieillir les votes et on peut montrer un plan d’un SWOT |
-| Brainstorm : On partage tous des éléments | tout le monde autour de la table avec une feuille qui tourne entre les gens (timelapse) |
-| Brainstorm : On dessine peu à peu au tableau | timelapse du tableau qui est de plus en plus rempli |
-| Design : Vectorisation des monuments de Vierzon | screen recording de la création de la voute principale |
-| Design : Vectorisation du tracteur | pareil mais avec le tracteur |
-| Management : Création de la documentation | Faire un Git history animation |
-| Le groupe mange | On MANGE |
-| Fabrication :  On apprend a configurer un rubiks cube dans n'importe quelle position | Alexis nous montre  |
-| On galère avec le Rubiks | quelqu’un Ragequit et l’éclate contre le mur | -->
+| The group gets their first Rubik's cubes | Camera close to the TV filming towards the door, everyone is seated and Victor enters the room dancing with a cube |
+| The group measures and weighs the Rubik’s cubes | close camera angle, we weighs the Rubik’s and measure them with a meter and the camera rotates towards someone else that listens to the measures nodding and noting them on a paper|
+| We align the Rubik’s cubes on the wall to see their height | we do a Rubik’s cube tower and compare it with a group member|
+| The group is in front of the whiteboard discussing about how to place the cubes | The whiteboard is split in 4 parts and someone is standing to collect votes so we can show SWOT|
+| Brainstorm : We share our ideas | everyone is around the table with a sheet that everyone checks |
+| Brainstorm : We draw step by step on the whiteboard | timelapse of the whiteboard |
+| Design : Vectorization of Vierzon’s monuments | screen recording of the creation of the principal arch |
+| Design : Vectorization of the tractor | same with the tractor |
+| Management : Creation of the documentation | Do a Git history animation |
+| The group eats | We eat |
+| Fabrication :  We learn how to configure a Rubik’s cube in any position | Alexis teaches us  |
+| We struggle with Rubiks | someone ragequit and throw it on the wall | -->
+
 
 ### Fresco
 
