@@ -292,7 +292,9 @@ The total budget needed for this project is 30.22€ all taxes incuded.
 - Damage on the wall -> clean with water and soap;
 - A Rubik's cube fall from the fresco -> fix the cubes on the four corners;
 - A Rubik's cube in the wrong place -> Display the grid on the wall and a picture of he final fresco on the library;
-- Rubik's cube size variation, some cubes might be smaller or bigger than other ones -> Do a mold in order to check if the size of the Rubik's cube before placing them.
+- Rubik's cube size variation, some cubes might be smaller or bigger than other ones -> Do a mold in order to check if the size of the Rubik's cube before placing them. 
+
+<img src="../images/rubikTest.png" style="height:350px">
 
 ## Milestones
 
