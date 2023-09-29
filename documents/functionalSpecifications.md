@@ -14,9 +14,11 @@
     - [Persona 1](#persona-1)
     - [Persona 2](#persona-2)
   - [Thinking Process](#thinking-process)
+  - [Fresco](#fresco)
+    - [The idea](#the-idea)
+    - [The Final](#the-final)
   - [Tasks](#tasks)
     - [Timelapse](#timelapse)
-    - [Fresco](#fresco)
     - [Division of the work](#division-of-the-work)
     - [Creation of the fresco](#creation-of-the-fresco)
     - [Transfer](#transfer)
@@ -110,6 +112,24 @@ Our next idea was to add a shelf right above the plugs so all the Rubik’s cube
 
 We finally thought of using double-sided adhesive in order to stick the cubes to the wall, we thought that it was the simplest and most efficient way to place the cubes.
 
+## Fresco
+
+<!-- Mathis -->
+
+### The idea
+
+<img src="../images/idea.png" style="height:400px">
+
+### The Final
+
+<!-- Image + dimension 
+4,872m * 1,904m = 9,28m² 
+15,984ft * 6,247ft ≈ 99.85 ft²
+-->
+<!-- before after of the room -->
+<!-- elements and why? -->
+<!-- real and pixelized inspiration -->
+
 ## Tasks
 
 ### Timelapse
@@ -128,18 +148,6 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 | The group eats | We eat |
 | Fabrication :  We learn how to configure a Rubik’s cube in any position | Alexis teaches us  |
 | We struggle with Rubiks | someone ragequit and throw it on the wall |
-
-### Fresco
-
-<!-- Mathis -->
-
-<!-- Image + dimension 
-4,872m * 1,904m = 9,28m² 
-15,984ft * 6,247ft ≈ 99.85 ft²
--->
-<!-- before after of the room -->
-<!-- elements and why? -->
-<!-- real and pixelized inspiration -->
 
 ### Division of the work
 
