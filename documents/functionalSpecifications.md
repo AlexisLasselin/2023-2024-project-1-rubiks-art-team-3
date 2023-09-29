@@ -250,11 +250,13 @@ Two 1m ruler will be needed to to create straight marks on the wall and on the c
 
 ## Glossary
 
-[^1]: Rubik's cube: A three-dimensional puzzle with each side covered by nine coloured squares invented in 1974 by Ernő Rubik. [Wikipedia](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
-[^2]: Centimeter / Inches: A unit of length equal to one hundredth of a meter or 2.54 centimeters. [Wikipedia](https://en.wikipedia.org/wiki/Inch)
-[^3]: Grammes / Onces: A unit of weight equal to one sixteenth of a pound or 16 drams or 28.349 grams. [Wikipedia](https://en.wikipedia.org/wiki/Ounce)
-[^4]: Meter / Feet: A unit of length equal to 0.3048 meters or 12 inches. [Wikipedia](https://en.wikipedia.org/wiki/Foot_(unit))
-[^5]: Bubble level: A tool used to indicate how parallel (level) or perpendicular (plumb) a surface is relative to the earth. [Wikipedia](https://en.wikipedia.org/wiki/Spirit_level)
-[^6]: Double-sized Adhesive: A tape with adhesive on both sides. [Wikipedia](https://en.wikipedia.org/wiki/Double-sided_tape)
-[^7]: Fresco: Mural painting technique in which permanent pigments, ground in water and applied to wet plaster, are absorbed to become part of the wall itself. [Wikipedia](https://en.wikipedia.org/wiki/Fresco)
-[^8]: [ALGOSUP](https://algosup.com/fr.html): School of Computer Science and Management located in Vierzon, France.
+| Words                 | Definition                                                                                                                                        | Sources                                                      |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| ALGOSUP               | School of Computer Science and Management located in Vierzon, France.                                                                             | [ALGOSUP](https://algosup.com/fr.html)                       |
+| Rubik's cube          | A three-dimensional puzzle with each side covered by nine coloured squares invented in 1974 by Ernő Rubik                                         | [Wikipedia](https://en.wikipedia.org/wiki/Inch)              |
+| Fresco                | Mural painting technique in which permanent pigments, ground in water and applied to wet plaster, are absorbed to become part of the wall itself. | [Wikipedia](https://en.wikipedia.org/wiki/Fresco)            |
+| Grammes (Onces)       | A unit of weight equal to one sixteenth of a pound or 16 drams or 28.349 grams.                                                                   | [Wikipedia](https://en.wikipedia.org/wiki/Ounce)             |
+| Centimeter (Inches)   | A unit of length equal to one hundredth of a meter or 2.54 centimeters.                                                                           | [Wikipedia](https://en.wikipedia.org/wiki/Inch)              |
+| Double-sized Adhesive | A tape with adhesive on both sides.                                                                                                               | [Wikipedia](https://en.wikipedia.org/wiki/Double-sided_tape) |
+| Meter (Feet)          | A unit of length equal to 0.3048 meters or 12 inches.                                                                                             | [Wikipedia](https://en.wikipedia.org/wiki/Foot_(unit))       |
+| Bubble level          | A tool used to indicate how parallel (level) or perpendicular (plumb) a surface is relative to the earth.                                         | [Wikipedia](https://en.wikipedia.org/wiki/Spirit_level)      |
