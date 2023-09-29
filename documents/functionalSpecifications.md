@@ -164,6 +164,7 @@ To carry out the project, these elements are available:
 - **Library's wall**
   - 6m (236.22 inches) horizontally;
   - 2,2m (86.6142 inches) vertically.
+- **Tripod**
 
 ### Needed
 
@@ -194,6 +195,25 @@ To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59
 To be sure that the Rubik's cubes are well aligned, a bubble level would help us to be sure. People in the team already own a bubble level, so there is no need to buy one.
 
 <img src="../images/bubbleLevel.png" style="height:200px">
+
+- **Go Pro**
+
+To realise the timelapse, a Go Pro would be use with the tripod provided by the school. People in the team already own a bubble level, so there is no need to buy one.
+
+<!-- ------------------------ Add reference + image ------------------------ -->
+- **Cardboards**
+  
+The cardboard will be used as a surface to assemble the fresco in the project rooms and to facilitate transport to the current library.People in the team already own a bubble level, so there is no need to buy one.
+
+- **HB Pencils and erasers**
+
+Some pencils and an erasers will be needed to mark the wall and on the cardboards to place the cubes. People in the team already own a bubble level, so there is no need to buy one.
+
+- **1m ruler**
+
+Two 1m ruler will be needed to to create straight marks on the wall and on the cardboards.
+
+<!-- ------------------------ Add reference + image ------------------------ -->
 
 ## Risks
 
