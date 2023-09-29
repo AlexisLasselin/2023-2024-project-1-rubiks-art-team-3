@@ -30,8 +30,8 @@
 
 ## Overview
 
-ALGOSUP invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
-This fresco will become a permanent feature of ALGOSUP's school, it will be housed in the library and visible from the outside.
+ALGOSUP[^8] invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes[^1]. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
+This fresco[^7] will become a permanent feature of ALGOSUP's school, it will be housed in the library and visible from the outside.
 
 ## Project Scope
 
@@ -49,13 +49,13 @@ Following the school’s wish to share, a timelapse will be realised.
 
 ## Thinking Process
 
-Our main issue was the integration of the plugs with the fresco, we had to keep the access to them while exposing it. 
+Our main issue was the integration of the plugs with the fresco, we had to keep the access to them while exposing it.
 
-Our first idea was to keep the “natural” separation by putting Rubik’s cubes under and above it, but we realised that it was too much of a constraint for the design of the fresco. 
+Our first idea was to keep the “natural” separation by putting Rubik’s cubes under and above it, but we realised that it was too much of a constraint for the design of the fresco.
 
-We then thought of adding a drawer system so all the cubes would be glued to each other, and removing the ones in front of the plugs would have given access to those electric outlets, but cancelled that idea because it made the access to the library for the cleaning personnel harder. 
+We then thought of adding a drawer system so all the cubes would be glued to each other, and removing the ones in front of the plugs would have given access to those electric outlets, but cancelled that idea because it made the access to the library for the cleaning personnel harder.
 
-Our next idea was to add a shelf right above the plugs so all the Rubik’s cubes could stand on it, but in terms of balance, it wouldn’t have been the best solution. 
+Our next idea was to add a shelf right above the plugs so all the Rubik’s cubes could stand on it, but in terms of balance, it wouldn’t have been the best solution.
 
 We finally thought of using double-sided adhesive in order to stick the cubes to the wall, we thought that it was the simplest and most efficient way to place the cubes.
 
@@ -91,11 +91,12 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 Once the fresco prototype is done, you will need to separate the fresco into eight fair parts. One part will be entrusted to each group, so configuring the Rubik's cubes will be easier and faster.
 
-There is a total of 2992 Rubik's cubes, so each will have the responsibility of configuring 374 Rubik's cubes to match their part of the fresco. 
+There is a total of 2992 Rubik's cubes, so each will have the responsibility of configuring 374 Rubik's cubes to match their part of the fresco.
 
 *2992 / 8 = 374.*
 
 Each team will be provided:
+
 - The prototype of the fresco;
 - The grid will have the colours and the number of the cube.
 - A program that will let the user input the image of the fresco and select the id of the Rubik's cube (e.g: A1, B1, C1, etc.). The program will then return an image of the 3x3 Rubik's cube with the correct colours.
@@ -104,6 +105,7 @@ Each team will be provided:
 <!-- Image of the grid -->
 
 The grid will be organised as:
+
 - Columns -> Numbers from 1 to 88
 - Rows -> Letters from A to AH
 
@@ -118,10 +120,9 @@ The grid will be organised as:
 
 ### Creation of the fresco
 
-To fasten the creation of the fresco and to avoid random configurations, a program will be created to help the teams to configure the Rubik's cubes. 
+To fasten the creation of the fresco and to avoid random configurations, a program will be created to help the teams to configure the Rubik's cubes.
 
 The program will have a graphical user interface (GUI) to make it easier to use.
-
 
 On the GUI, the user will be able to select the the colours of the rubik's cube that he wants to configure. The program will then predict the moves that the user will need to do to configure the cube. The user will then be able to follow the instructions to configure the cube.
 
@@ -153,31 +154,32 @@ The pieces of tape will be added to the wall during the draw of the grid, so dur
 ### Available
 
 To carry out the project, these elements are available:
+
 - **3000 Rubik's cubes 3x3**
   - Square;
   - 5,5 cm³ / 2.16535 inches³;
-  - 64 grammes / 2.25753 onces;
+  - 64 grammes / 2.25753[^3] onces;
   - Red, blue, green, orange, white and yellow.
-- **60 cm / 24 inches tracer**
+- **60 cm / 24 inches[^2] tracer**
 - **Project room**
 - **Library's wall**
-  - 600 cm / 236.22 inches horizontally;
-  - 220 cm / 86.6142 inches vertically.
+  - 6m / 236.22 inches horizontally;
+  - 2,2m / 86.6142 inches vertically.
 
 ### Needed
 
 To be able to build the fresco, we will need:
 
-- **Double-sided adhesive**
+- **Double-sided adhesive[^6]**
 
-To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59.0551 feet of double-sided adhesive foam tape will be needed. 
+To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59.0551 feet of double-sided adhesive foam tape will be needed.
 
 - 88 columns of Rubik's cubes;
 - 34 rows of Rubik's cubes;
 - 2.5 cm / 0.984252 inches for the length needed of tape for each cube;
 - 88 * 34 * 2.5 = 7480;
 - 7480 cm / 2944.882 inches of tape are needed;
-- 74.8 m / 245.4068 feet of double-sided foam tape are needed;
+- 74.8 m / 245.4068 feet[^4] of double-sided foam tape are needed;
 - This tape is about 0.59 cents for 4m / 13.1234 feet;
 - 74.8 / 4 = 18.7;
 - 18.7 tapes are needed for the middle of the cubes;
@@ -188,7 +190,7 @@ To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59
 
 <img src="../images/adhesive.png" style="height:200px">
 
-- **Bubble level**
+- **Bubble level[^5]**
 
 To be sure that the Rubik's cubes are well aligned, a bubble level would help us to be sure. People in the team already own a bubble level, so there is no need to buy one.
 
@@ -217,10 +219,11 @@ To be sure that the Rubik's cubes are well aligned, a bubble level would help us
 
 ## Glossary
 
-[^1]: Rubik's cube
-[^2]: cm / inches
-[^3]: grammes / onces
-[^4]: meter / feet
-[^5]: bubble level
-[^6]: double-sized adhesive
-[^7]: a fresco
+[^1]: Rubik's cube: A three-dimensional puzzle with each side covered by nine coloured squares invented in 1974 by Ernő Rubik. [Wikipedia](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
+[^2]: Centimeter / Inches: A unit of length equal to one hundredth of a meter or 2.54 centimeters. [Wikipedia](https://en.wikipedia.org/wiki/Inch)
+[^3]: Grammes / Onces: A unit of weight equal to one sixteenth of a pound or 16 drams or 28.349 grams. [Wikipedia](https://en.wikipedia.org/wiki/Ounce)
+[^4]: Meter / Feet: A unit of length equal to 0.3048 meters or 12 inches. [Wikipedia](https://en.wikipedia.org/wiki/Foot_(unit))
+[^5]: Bubble level: A tool used to indicate how parallel (level) or perpendicular (plumb) a surface is relative to the earth. [Wikipedia](https://en.wikipedia.org/wiki/Spirit_level)
+[^6]: Double-sized Adhesive: A tape with adhesive on both sides. [Wikipedia](https://en.wikipedia.org/wiki/Double-sided_tape)
+[^7]: Fresco: Mural painting technique in which permanent pigments, ground in water and applied to wet plaster, are absorbed to become part of the wall itself. [Wikipedia](https://en.wikipedia.org/wiki/Fresco)
+[^8]: [ALGOSUP](https://algosup.com/fr.html): School of Computer Science and Management located in Vierzon, France.
