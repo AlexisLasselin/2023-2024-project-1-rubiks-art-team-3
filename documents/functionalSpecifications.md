@@ -6,26 +6,26 @@
 <summary>Table of Contents - <b>Click to expand</b></summary>
 
 - [Functional Specifications](#functional-specifications)
-  - [Team 3](#team-3)
-  - [Overview](#overview)
-  - [Project Scope](#project-scope)
-  - [What is not the project?](#what-is-not-the-project)
-  - [Thinking Process](#thinking-process)
-  - [Tasks](#tasks)
-    - [Timelapse](#timelapse)
-    - [Fresco](#fresco)
-    - [Division of the work](#division-of-the-work)
-    - [Creation of the fresco](#creation-of-the-fresco)
-    - [Transfer](#transfer)
-    - [Set up](#set-up)
-  - [Equipment](#equipment)
-    - [Available](#available)
-    - [Needed](#needed)
-  - [Risks](#risks)
-  - [Milestones](#milestones)
-  - [Team](#team)
-  - [Sources](#sources)
-  - [Glossary](#glossary)
+	- [Team 3](#team-3)
+	- [Overview](#overview)
+	- [Project Scope](#project-scope)
+	- [What is not the project?](#what-is-not-the-project)
+	- [Thinking Process](#thinking-process)
+	- [Tasks](#tasks)
+		- [Timelapse](#timelapse)
+		- [Fresco](#fresco)
+		- [Division of the work](#division-of-the-work)
+		- [Creation of the fresco](#creation-of-the-fresco)
+		- [Transfer](#transfer)
+		- [Set up](#set-up)
+	- [Equipment](#equipment)
+		- [Available](#available)
+		- [Needed](#needed)
+	- [Risks](#risks)
+	- [Milestones](#milestones)
+	- [Team](#team)
+	- [Sources](#sources)
+	- [Glossary](#glossary)
 
 </details>
 
@@ -235,7 +235,7 @@ Two 1m ruler will be needed to to create straight marks on the wall and on the c
 | 26-09-2023 | The fresco must be assembled, tested and placed in the library |
 | 27-09-2023 | Oral presentation of the project |
 
-## Team 
+## Team
 
 |Name|Photo|E-mail|
 |-|-|-|
