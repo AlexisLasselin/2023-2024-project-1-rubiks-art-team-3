@@ -6,25 +6,26 @@
 <summary>Table of Contents - <b>Click to expand</b></summary>
 
 - [Functional Specifications](#functional-specifications)
-	- [Team 3](#team-3)
-	- [Overview](#overview)
-	- [Project Scope](#project-scope)
-	- [What is not the project?](#what-is-not-the-project)
-	- [Thinking Process](#thinking-process)
-	- [Tasks](#tasks)
-		- [Timelapse](#timelapse)
-		- [Fresco](#fresco)
-		- [Division of the work](#division-of-the-work)
-		- [Creation of the fresco](#creation-of-the-fresco)
-		- [Transfer](#transfer)
-		- [Set up](#set-up)
-	- [Equipment](#equipment)
-		- [Available](#available)
-		- [Needed](#needed)
-	- [Risks](#risks)
-	- [Milestones](#milestones)
-	- [Sources](#sources)
-	- [Glossary](#glossary)
+  - [Team 3](#team-3)
+  - [Overview](#overview)
+  - [Project Scope](#project-scope)
+  - [What is not the project?](#what-is-not-the-project)
+  - [Thinking Process](#thinking-process)
+  - [Tasks](#tasks)
+    - [Timelapse](#timelapse)
+    - [Fresco](#fresco)
+    - [Division of the work](#division-of-the-work)
+    - [Creation of the fresco](#creation-of-the-fresco)
+    - [Transfer](#transfer)
+    - [Set up](#set-up)
+  - [Equipment](#equipment)
+    - [Available](#available)
+    - [Needed](#needed)
+  - [Risks](#risks)
+  - [Milestones](#milestones)
+  - [Team](#team)
+  - [Sources](#sources)
+  - [Glossary](#glossary)
 
 </details>
 
@@ -146,7 +147,7 @@ The double-sided foam tape will be used to fix the cubes to the wall. A piece of
 
 The pieces of tape will be added to the wall during the draw of the grid, so during the placement of the Rubik's cubes, only the protective tape will need to be removed. This procedure will also avoid errors in tape placement.
 
-<!-- Croquis for the scotch-->
+<img src="../images/tapeMockup.png" style="height:400px">
 
 ## Equipment
 
@@ -233,6 +234,17 @@ Two 1m ruler will be needed to to create straight marks on the wall and on the c
 | 20-09-2023 | Each team complete their part of the fresco, allowing for assembly |
 | 26-09-2023 | The fresco must be assembled, tested and placed in the library |
 | 27-09-2023 | Oral presentation of the project |
+
+## Team 
+
+|Name|Photo|E-mail|
+|-|-|-|
+|Clémentine Curel|<img src="../images/ClementineCUREL.jpg" style="height:100px">|clementine.curel@algosup.com|
+|Laura-Lee Hollande|<img src="../images/Laura-LeeHOLLANDE.jpg" style="height:100px">|laura-lee.hollande@algosup.com|
+|Mathis Kakal|<img src="../images/MathisKAKAL.jpg" style="height:100px">|mathis.kakal@algosup.com|
+|Victor Leroy|<img src="../images/VictorLEROY.jpg" style="height:100px">|victor.leroy@algosup.com|
+|Laurent Bouqin|<img src="../images/LaurentBOUQUIN.jpg" style="height:100px">|laurent.bouquin@algosup.com|
+|Alexis Lasselin|<img src="../images/AlexisLASSELIN.jpg" style="height:100px">|alexis.lasselin@algosup.com|
 
 ## Sources
 
