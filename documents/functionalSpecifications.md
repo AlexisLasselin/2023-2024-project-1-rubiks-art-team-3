@@ -31,8 +31,8 @@
 
 ## Overview
 
-ALGOSUP[^8] invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes[^1]. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
-This fresco[^7] will become a permanent feature of ALGOSUP's school, it will be housed in the library and visible from the outside.
+ALGOSUP invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
+This fresco will become a permanent feature of ALGOSUP's school, it will be housed in the library and visible from the outside.
 
 ## Project Scope
 
@@ -158,9 +158,9 @@ To carry out the project, these elements are available:
 - **3000 Rubik's cubes 3x3**
   - Square;
   - 5,5 cm³ (2.16535 inches³);
-  - 64 grammes (2.25753 onces[^3]);
+  - 64 grammes (2.25753 onces);
   - Red, blue, green, orange, white and yellow.
-- **60 cm (24 inches[^2]) tracer**
+- **60 cm (24 inches) tracer**
 - **Project room**
 - **Library's wall**
   - 6m (236.22 inches) horizontally;
@@ -171,7 +171,7 @@ To carry out the project, these elements are available:
 
 To be able to build the fresco, we will need:
 
-- **Double-sided adhesive[^6]**
+- **Double-sided adhesive**
 
 To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59.0551 feet of double-sided adhesive foam tape will be needed.
 
@@ -180,7 +180,7 @@ To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59
 - 2.5 cm (0.984252 inches) for the length needed of tape for each cube;
 - $88 * 34 * 2.5 = 7480$;
 - 7480 cm (2944.882 inches) of tape are needed;
-- 74.8 m (245.4068 feet[^4]) of double-sided foam tape are needed;
+- 74.8 m (245.4068 feet) of double-sided foam tape are needed;
 - This tape is about 0.59 cents for 4m (13.1234 feet);
 - $74.8 / 4 = 18.7$;
 - 18.7 tapes are needed for the middle of the cubes;
@@ -191,7 +191,7 @@ To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59
 
 <img src="../images/adhesive.png" style="height:200px">
 
-- **Bubble level[^5]**
+- **Bubble level**
 
 To be sure that the Rubik's cubes are well aligned, a bubble level would help us to be sure. People in the team already own a bubble level, so there is no need to buy one.
 
