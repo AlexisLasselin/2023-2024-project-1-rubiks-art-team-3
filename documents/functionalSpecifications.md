@@ -30,14 +30,14 @@
 
 ## Overview
 
-This project is for the ALGOSUP school. We need to make a Rubik's cube[^1] fresco for the building.
-<!-- What? -->
-<!-- Laura-Lee -->
-
+ALGOSUP invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
+This fresco will become a permanent feature of ALGOSUP's school, it will be housed in the library and visible from the outside.
 
 ## Project Scope
-<!-- Why? -->
-<!-- Laura-Lee -->
+
+8 teams will suggest an image and a functional for this call for tender, one of them will be choose. The choosen team will organise the raiminings weeks by managing the other teams in order to realise the fresco.
+One of the aims of this project is to raise the visibility of the school, as well as its pedagogical aspects. It will provide an opportunity to learn about project management.
+Following the school’s wish to share, a timelapse will be realised.
 
 ## What is not the project?
 
