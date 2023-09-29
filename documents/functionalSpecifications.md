@@ -220,8 +220,9 @@ Two 1m ruler will be needed to to create straight marks on the wall and on the c
 ## Risks
 
 - Damage on the wall -> clean with water and soap;
-- A Rubik's cube fall from the fresco -> fixed the cubes on the four corners;
-- A Rubik's cube in the wrong place -> Display the grid on the wall and a picture of he final fresco on the library.
+- A Rubik's cube fall from the fresco -> fix the cubes on the four corners;
+- A Rubik's cube in the wrong place -> Display the grid on the wall and a picture of he final fresco on the library;
+- Rubik's cube size variation, some cubes might be smaller or bigger than other ones -> Do a mold in order to check if the size of the Rubik's cube before placing them.
 
 ## Milestones
 
