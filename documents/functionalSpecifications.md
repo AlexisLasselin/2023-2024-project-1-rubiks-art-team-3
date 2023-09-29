@@ -64,7 +64,7 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 ### Timelapse
 
-<!-- | The group receives the project |Scene|
+| The group receives the project |Scene|
 |---|---|
 | The group gets their first Rubik's cubes | Camera close to the TV filming towards the door, everyone is seated and Victor enters the room dancing with a cube |
 | The group measures and weighs the Rubik’s cubes | close camera angle, we weighs the Rubik’s and measure them with a meter and the camera rotates towards someone else that listens to the measures nodding and noting them on a paper|
@@ -77,14 +77,16 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 | Management : Creation of the documentation | Do a Git history animation |
 | The group eats | We eat |
 | Fabrication :  We learn how to configure a Rubik’s cube in any position | Alexis teaches us  |
-| We struggle with Rubiks | someone ragequit and throw it on the wall | -->
-
+| We struggle with Rubiks | someone ragequit and throw it on the wall |
 
 ### Fresco
 
 <!-- Mathis -->
 
-<!-- Image + dimension -->
+<!-- Image + dimension 
+4,872m * 1,904m = 9,28m² 
+15,984ft * 6,247ft ≈ 99.85 ft²
+-->
 <!-- before after of the room -->
 <!-- elements and why? -->
 <!-- real and pixelized inspiration -->
@@ -93,9 +95,9 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 Once the fresco prototype is done, you will need to separate the fresco into eight fair parts. One part will be entrusted to each group, so configuring the Rubik's cubes will be easier and faster.
 
-There is a total of 2992 Rubik's cubes, so each will have the responsibility of configuring 374 Rubik's cubes to match their part of the fresco.
+There is a total of 2958 Rubik's cubes, so each will have the responsibility of configuring 370 Rubik's cubes to match their part of the fresco.
 
-$2992 / 8 = 374$
+$2958 / 8 ≈ 370$
 
 Each team will be provided:
 
@@ -108,7 +110,7 @@ Each team will be provided:
 
 The grid will be organised as:
 
-- Columns -> Numbers from 1 to 88
+- Columns -> Numbers from 1 to 87
 - Rows -> Letters from A to AH
 
 |1  |2|3|...|4|5|
@@ -158,7 +160,7 @@ To carry out the project, these elements are available:
 
 - **3000 Rubik's cubes 3x3**
   - Square;
-  - 5,5 cm³ (2.16535 inches³);
+  - 5,6 cm³ (2.205 inches³);
   - 64 grammes (2.25753 onces);
   - Red, blue, green, orange, white and yellow.
 - **60 cm (24 inches) tracer**
@@ -176,15 +178,15 @@ To be able to build the fresco, we will need:
 
 To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59.0551 feet of double-sided adhesive foam tape will be needed.
 
-- 88 columns of Rubik's cubes;
+- 87 columns of Rubik's cubes;
 - 34 rows of Rubik's cubes;
 - 2.5 cm (0.984252 inches) for the length needed of tape for each cube;
-- $88 * 34 * 2.5 = 7480$;
-- 7480 cm (2944.882 inches) of tape are needed;
-- 74.8 m (245.4068 feet) of double-sided foam tape are needed;
+- $87 * 34 * 2.5 = 7395$;
+- 7395 cm (2911.417 inches) of tape are needed;
+- 73,95 m (242.61811 feet) of double-sided foam tape are needed;
 - This tape is about 0.59 cents for 4m (13.1234 feet);
-- $74.8 / 4 = 18.7$;
-- 18.7 tapes are needed for the middle of the cubes;
+- $73,95 / 4 = 18.48$;
+- 18.48 tapes are needed for the middle of the cubes;
 - 25 double-sided foam tapes are needed, because of the potential errors during the installation and to strengthen the counters of the Rubik's cubes;
 - $25 * 0.59 = 14.75$;
 - The total for the tape needed is 14.75 euros;
