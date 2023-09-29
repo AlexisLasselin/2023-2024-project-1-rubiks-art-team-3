@@ -6,25 +6,25 @@
 <summary>Table of Contents - <b>Click to expand</b></summary>
 
 - [Functional Specifications](#functional-specifications)
-  - [Team 3](#team-3)
-  - [Overview](#overview)
-  - [Project Scope](#project-scope)
-  - [What is not the project?](#what-is-not-the-project)
-  - [Thinking Process](#thinking-process)
-  - [Tasks](#tasks)
-    - [Timelapse](#timelapse)
-    - [Fresco](#fresco)
-    - [Division of the work](#division-of-the-work)
-    - [Creation of the fresco](#creation-of-the-fresco)
-    - [Transfer](#transfer)
-    - [Set up](#set-up)
-  - [Equipment](#equipment)
-    - [Available](#available)
-    - [Needed](#needed)
-  - [Risks](#risks)
-  - [Milestones](#milestones)
-  - [Sources](#sources)
-  - [Glossary](#glossary)
+	- [Team 3](#team-3)
+	- [Overview](#overview)
+	- [Project Scope](#project-scope)
+	- [What is not the project?](#what-is-not-the-project)
+	- [Thinking Process](#thinking-process)
+	- [Tasks](#tasks)
+		- [Timelapse](#timelapse)
+		- [Fresco](#fresco)
+		- [Division of the work](#division-of-the-work)
+		- [Creation of the fresco](#creation-of-the-fresco)
+		- [Transfer](#transfer)
+		- [Set up](#set-up)
+	- [Equipment](#equipment)
+		- [Available](#available)
+		- [Needed](#needed)
+	- [Risks](#risks)
+	- [Milestones](#milestones)
+	- [Sources](#sources)
+	- [Glossary](#glossary)
 
 </details>
 
@@ -98,7 +98,7 @@ There is a total of 2992 Rubik's cubes, so each will have the responsibility of 
 Each team will be provided:
 - The prototype of the fresco;
 - The grid will have the colours and the number of the cube.
-- A program to .. <!-- Laurent -->
+- A program that will let the user input the image of the fresco and select the id of the Rubik's cube (e.g: A1, B1, C1, etc.). The program will then return an image of the 3x3 Rubik's cube with the correct colours.
 
 <!-- Image of the Fresco -->
 <!-- Image of the grid -->
@@ -118,8 +118,12 @@ The grid will be organised as:
 
 ### Creation of the fresco
 
-program to configure the cubes 
-<!-- Laurent & Alexis -->
+To fasten the creation of the fresco and to avoid random configurations, a program will be created to help the teams to configure the Rubik's cubes. 
+
+The program will have a graphical user interface (GUI) to make it easier to use.
+
+
+On the GUI, the user will be able to select the the colours of the rubik's cube that he wants to configure. The program will then predict the moves that the user will need to do to configure the cube. The user will then be able to follow the instructions to configure the cube.
 
 ### Transfer
 
