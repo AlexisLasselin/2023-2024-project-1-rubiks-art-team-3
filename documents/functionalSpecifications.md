@@ -6,26 +6,31 @@
 <summary>Table of Contents - <b>Click to expand</b></summary>
 
 - [Functional Specifications](#functional-specifications)
-	- [Team 3](#team-3)
-	- [Overview](#overview)
-	- [Project Scope](#project-scope)
-	- [What is not the project?](#what-is-not-the-project)
-	- [Thinking Process](#thinking-process)
-	- [Tasks](#tasks)
-		- [Timelapse](#timelapse)
-		- [Fresco](#fresco)
-		- [Division of the work](#division-of-the-work)
-		- [Creation of the fresco](#creation-of-the-fresco)
-		- [Transfer](#transfer)
-		- [Set up](#set-up)
-	- [Equipment](#equipment)
-		- [Available](#available)
-		- [Needed](#needed)
-	- [Risks](#risks)
-	- [Milestones](#milestones)
-	- [Team](#team)
-	- [Sources](#sources)
-	- [Glossary](#glossary)
+  - [Team 3](#team-3)
+  - [Overview](#overview)
+  - [Project Scope](#project-scope)
+  - [What is not the project?](#what-is-not-the-project)
+  - [Personas](#personas)
+    - [Persona 1](#persona-1)
+    - [Persona 2](#persona-2)
+  - [Thinking Process](#thinking-process)
+  - [Tasks](#tasks)
+    - [Timelapse](#timelapse)
+    - [Fresco](#fresco)
+    - [Division of the work](#division-of-the-work)
+    - [Creation of the fresco](#creation-of-the-fresco)
+    - [Transfer](#transfer)
+    - [Set up](#set-up)
+  - [Equipment](#equipment)
+    - [Available](#available)
+    - [Needed](#needed)
+  - [Budget](#budget)
+  - [Laws and Regulations](#laws-and-regulations)
+  - [Risks](#risks)
+  - [Milestones](#milestones)
+  - [Team](#team)
+  - [Sources](#sources)
+  - [Glossary](#glossary)
 
 </details>
 
@@ -47,6 +52,51 @@ Following the school’s wish to share, a timelapse will be realised.
 - Assemble the fresco with less than 2000 cubes and more than 3000 cubes;
 - Use the fresco to denigrate a member of the staff or the school;
 - Choose a too complex fresco, it would be a shame not to finish it;
+
+## Personas
+
+### Persona 1
+```
+Name: Lonus Halb
+Age: 20
+Job: Student at the CNAM
+Place: Vierzon, France
+
+Description:
+Lonus is a student at the CNAM, which is above ALGOSUP. Every morning, he passes in front of the fresco and asks himself what it represents.
+
+Needs & goals: Lonus wants to understand the fresco easily and maybe learn new things about Vierzon thanks to it.
+
+Use case: Lonus doesn't understand the fresco in his school. By making the fresco extremely clear, Lonus would not have to struggle to understand it.
+```
+
+### Persona 2
+```
+Name: Karine Amandier
+Age: 40
+Job: Mayor of Vierzon
+Place: Vierzon, France
+
+Description: Karine is working at the town hall and she makes sure everything going well in Vierzon. 
+
+Needs & goals: Karine wants the citizens of Vierzon to have a better opinion of the town hall and the city.
+
+Use case: Karine and her colleagues discovered the fresco at ALGOSUP and found it irrelevant and degrading to the building. To avoid this type of reaction, we decided to tell a part of Vierzon's story in our fresco.
+```
+
+<!-- ### Persona 3
+```
+Name: Lena Nelson
+Age: 25
+Job: Manager for a car company
+Place: London, UK
+
+Description: Lena is a manager for a car company, her employees use Harfang 3D to create AR tools for the head-up display of a car.
+
+Needs & goals: Lena wants to standardize the tools her employees are using, she wants to use the same language for everything, and on top of that she wants to use a modern language for this kind of work.
+
+Use case: Lena has chosen Rust for the new tools her employees will be using, she wants everyone to use the same language, which will make it easier for them to work together. Our solution will allow her to do that.
+``` -->
 
 ## Thinking Process
 
@@ -106,15 +156,14 @@ Each team will be provided:
 - A program that will let the user input the image of the fresco and select the id of the Rubik's cube (e.g: A1, B1, C1, etc.). The program will then return an image of the 3x3 Rubik's cube with the correct colours.
 
 <!-- Image of the Fresco -->
-<!-- Image of the grid -->
 
 The grid will be organised as:
 
 - Columns -> Numbers from 1 to 87
 - Rows -> Letters from A to AH
 
-|1  |2|3|...|4|5|
-|---|-|-|---|-|-|
+|  |1|2|...|86|87|
+|---|-|-|---|--|--|
 |A  | | |   | | |
 |B  | | |   | | |
 |...| | |   | | |
@@ -135,8 +184,7 @@ Before the transfer from the project's rooms of the library, each of the teams s
 
 Once done, the teams will use a carton to transfer by putting the cubes on it in order to be easier to transfer in the fresco.
 
-<!-- ecrire les numéros au crayon de papier ? -->
-<!-- Croquis -->
+<!-- Croquis fresco cut in 8 part -->
 
 ### Set up
 
@@ -189,7 +237,7 @@ To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59
 - 18.48 tapes are needed for the middle of the cubes;
 - 25 double-sided foam tapes are needed, because of the potential errors during the installation and to strengthen the counters of the Rubik's cubes;
 - $25 * 0.59 = 14.75$;
-- The total for the tape needed is 14.75 euros;
+- The total for the tape needed is 14.75 euros all taxes incuded;
 - These tapes are available at Action. Av. du 19 Mars 1962, 18100 Vierzon.
 
 <img src="../images/adhesive.png" style="height:200px">
@@ -204,7 +252,6 @@ To be sure that the Rubik's cubes are well aligned, a bubble level would help us
 
 To realise the timelapse, a Go Pro would be use with the tripod provided by the school. People in the team already own a bubble level, so there is no need to buy one.
 
-<!-- ------------------------ Add reference + image ------------------------ -->
 - **Cardboards**
   
 The cardboard will be used as a surface to assemble the fresco in the project rooms and to facilitate transport to the current library.People in the team already own a bubble level, so there is no need to buy one.
@@ -217,7 +264,20 @@ Some pencils and an erasers will be needed to mark the wall and on the cardboard
 
 Two 1m ruler will be needed to to create straight marks on the wall and on the cardboards.
 
-<!-- ------------------------ Add reference + image ------------------------ -->
+<img src="../images/ruler.png" style="height:200px">
+
+## Budget
+
+The total budget needed for this project is 30.22€ all taxes incuded.
+
+|Object|Price|
+|-|-|
+|Double-sided foam tape|14.75€ all taxes incuded|
+|1m ruler|15.47€ all taxes incuded|
+
+## Laws and Regulations
+
+
 
 ## Risks
 
