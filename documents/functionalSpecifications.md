@@ -1,14 +1,13 @@
-# Functional Specifications
+# Functional Specifications - Team 3
 
-## Team 3
 
 <details>
 <summary>Table of Contents - <b>Click to expand</b></summary>
 
-- [Functional Specifications](#functional-specifications)
-  - [Team 3](#team-3)
+- [Functional Specifications - Team 3](#functional-specifications---team-3)
   - [Overview](#overview)
   - [Project Scope](#project-scope)
+  - [What is the project?](#what-is-the-project)
   - [What is not the project?](#what-is-not-the-project)
   - [Personas](#personas)
     - [Persona 1](#persona-1)
@@ -43,9 +42,22 @@ This fresco will become a permanent feature of ALGOSUP's school, it will be hous
 
 ## Project Scope
 
-8 teams will suggest an image and a functional for this call for tender, one of them will be choose. The choosen team will organise the raiminings weeks by managing the other teams in order to realise the fresco.
-One of the aims of this project is to raise the visibility of the school, as well as its pedagogical aspects. It will provide an opportunity to learn about project management.
-Following the school’s wish to share, a timelapse will be realised.
+Eight teams will submit proposals, each presenting an image and a functional plan in response to this call for tender. From these submissions, one team will be selected. The chosen team will assume the role of project lead, coordinating the efforts of the remaining teams to bring the fresco to fruition.
+
+One of the primary objectives of this project is to enhance the school's visibility, emphasizing its pedagogical aspects. Additionally, it offers a valuable opportunity for participants to gain practical experience in project management.
+
+In alignment with the school's commitment to sharing knowledge, a timelapse video documenting the project's progress will be produced.
+
+## What is the project?
+
+- The fresco must prominently feature ALGOSUP's logo;
+- The fresco must incorporate elements that evoke the essence of ALGOSUP's building;
+- The fresco must be in a rectangular shape;
+- The fresco must consist of a minimum of 2000 cubes and a maximum of 3000 cubes;
+- If text is included, it must be in English;
+- The fresco may be composed of multiple parts to facilitate transportation and final assembly;
+- Utilize software to calculate cube movements for precise positioning;
+- It is permissible to employ a robot or mechanical device to assist in cube rotation.
 
 ## What is not the project?
 
@@ -58,6 +70,7 @@ Following the school’s wish to share, a timelapse will be realised.
 ## Personas
 
 ### Persona 1
+
 ```
 Name: Lonus Halb
 Age: 20
@@ -73,6 +86,7 @@ Use case: Lonus doesn't understand the fresco in his school. By making the fresc
 ```
 
 ### Persona 2
+
 ```
 Name: Karine Amandier
 Age: 40
@@ -88,16 +102,16 @@ Use case: Karine and her colleagues discovered the fresco at ALGOSUP and found i
 
 <!-- ### Persona 3
 ```
-Name: Lena Nelson
-Age: 25
-Job: Manager for a car company
-Place: London, UK
+Name: 
+Age: 
+Job: 
+Place: 
 
-Description: Lena is a manager for a car company, her employees use Harfang 3D to create AR tools for the head-up display of a car.
+Description: 
 
-Needs & goals: Lena wants to standardize the tools her employees are using, she wants to use the same language for everything, and on top of that she wants to use a modern language for this kind of work.
+Needs & goals: 
 
-Use case: Lena has chosen Rust for the new tools her employees will be using, she wants everyone to use the same language, which will make it easier for them to work together. Our solution will allow her to do that.
+Use case: 
 ``` -->
 
 ## Thinking Process
@@ -108,7 +122,7 @@ Our first idea was to keep the “natural” separation by putting Rubik’s cub
 
 We then thought of adding a drawer system so all the cubes would be glued to each other, and removing the ones in front of the plugs would have given access to those electric outlets, but cancelled that idea because it made the access to the library for the cleaning personnel harder.
 
-Our next idea was to add a shelf right above the plugs so all the Rubik’s cubes could stand on it, but in terms of balance, it wouldn’t have been the best solution.
+We had considered adding a shelf right above the plugs so that all the Rubik's cubes could rest on it, but in terms of balance, it wouldn't have been the best solution, and we thus abandoned this idea in favor of a more feasible alternative.
 
 We finally thought of using double-sided adhesive in order to stick the cubes to the wall, we thought that it was the simplest and most efficient way to place the cubes.
 
@@ -285,7 +299,20 @@ The total budget needed for this project is 30.22€ all taxes incuded.
 
 ## Laws and Regulations
 
+Compliance with applicable laws and regulations is essential to ensure the successful execution of the fresco project. 
+It is imperative that all team members and stakeholders involved adhere to the following legal and regulatory considerations:
 
+- **Intellectual Property Rights**: Respect the intellectual property rights of all components used in the fresco. Ensure that any copyrighted or trademarked materials incorporated into the artwork are used with proper authorization or within the bounds of fair use.
+
+- **Local Building Codes**: Familiarize yourself with local building codes and regulations to guarantee that the installation of the fresco complies with safety and structural requirements. Seek any necessary permits or approvals from relevant authorities.
+
+- **Safety Standards**: Prioritize safety throughout the project. Provide appropriate safety gear and guidelines for team members involved in the installation and construction phases, especially if mechanical devices or equipment are utilized.
+
+- **Privacy and Data Protection**: Safeguard any personal data collected during the project, ensuring it is managed in accordance with applicable data protection laws and privacy regulations.
+
+- **Documentation and Reporting**: Maintain thorough records of all project-related activities, including approvals, permits, and compliance with regulations. In the event of inquiries or audits, having comprehensive documentation can prove invaluable.
+
+- **Insurance**: Verify that adequate insurance coverage is in place to protect against any unexpected liabilities or damages that may arise during the project.
 
 ## Risks
 
@@ -321,6 +348,13 @@ The total budget needed for this project is 30.22€ all taxes incuded.
 |Alexis Lasselin|<img src="../images/AlexisLASSELIN.jpg" style="height:100px">|alexis.lasselin@algosup.com|
 
 ## Sources
+
+|Search|Link|
+|-|-|
+|Double-sided foam tape|https://www.action.com/fr-fr/p/2503160/ruban-mousse-double-face-craft-design/|
+|Bubble level|https://www.amazon.com/ZHJAN-Magnetic-absorbing-measurements-resistant/dp/B0BHY9JKT4/ref=sr_1_52?crid=1Q6Q1R30UY6RT&keywords=bubble+level&qid=1695825689&sprefix=bubble+lvel%2Caps%2C181&sr=8-52|
+|Pixelate an image|https://giventofly.github.io/pixelit/|
+|Conversion imperial metric units|https://www.calculator.net/conversion-calculator.html|
 
 ## Glossary
 
