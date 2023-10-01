@@ -1,9 +1,5 @@
 # Functional Specifications - Team 3
 
-
-<details>
-<summary>Table of Contents - <b>Click to expand</b></summary>
-
 - [Functional Specifications - Team 3](#functional-specifications---team-3)
   - [Overview](#overview)
   - [Project Scope](#project-scope)
@@ -33,8 +29,6 @@
   - [Sources](#sources)
   - [Glossary](#glossary)
 
-</details>
-
 ## Overview
 
 ALGOSUP invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
@@ -47,6 +41,9 @@ Eight teams will submit proposals, each presenting an image and a functional pla
 One of the primary objectives of this project is to enhance the school's visibility, emphasizing its pedagogical aspects. Additionally, it offers a valuable opportunity for participants to gain practical experience in project management.
 
 In alignment with the school's commitment to sharing knowledge, a timelapse video documenting the project's progress will be produced.
+
+
+
 
 ## What is the project?
 
@@ -335,6 +332,8 @@ It is imperative that all team members and stakeholders involved adhere to the f
 | 20-09-2023 | Each team complete their part of the fresco, allowing for assembly |
 | 26-09-2023 | The fresco must be assembled, tested and placed in the library |
 | 27-09-2023 | Oral presentation of the project |
+
+*DD-MM-YYY*
 
 ## Team
 
