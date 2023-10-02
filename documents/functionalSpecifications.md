@@ -45,6 +45,10 @@ One of the primary objectives of this project is to enhance the school's visibil
 
 In alignment with the school's commitment to sharing knowledge, a timelapse video documenting the project's progress will be produced.
 
+<br>
+
+<br>
+
 ## What is the project?
 
 - The fresco must prominently feature ALGOSUP's logo;
@@ -97,6 +101,8 @@ Needs & goals: Karine wants the citizens of Vierzon to have a better opinion of 
 Use case: Karine and her colleagues discovered the fresco at ALGOSUP and found it irrelevant and degrading to the building. To avoid this type of reaction, we decided to tell a part of Vierzon's story in our fresco.
 ```
 
+<br>
+
 ## Thinking Process
 
 Our main issue was the integration of the plugs with the fresco, we had to keep the access to them while exposing it.
@@ -115,9 +121,18 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 ### The inspirations
 
-Our first inspiration for this fresco is to tell the story of Vierzon, where the ALGOSUP's european campus is. The second one is to calm the mind of the people rejecting the technological evolution of the city by showing them the past is still a part of the city. 
+Our first inspiration for this fresco is to tell the story of Vierzon, where the ALGOSUP's european campus is. The second one is to calm the mind of the people rejecting the technological evolution of the city by showing them the past is still a part of the city.
 
-<img src="../images/inspo.png" style="height:400px">
+| Image | Description |
+|---|---|
+| <img src="../images/b3.png" style="max-width: 25%"> | The B3, ALGOSUP's building and the future fresco's location. |
+| <img src="../images/beffroi.jpeg" style="max-width: 25%"> | The belfry of Vierzon, a monument of the city. |
+| <img src="../images/house.jpeg" style="max-width: 25%"> | A half-timbered house which, along with the belfry, illustrates the medieval history of the city of Vierzon.|
+| <img src="../images/tractor.jpeg" style="max-width: 25%"> | A tractor symbolizing, with the B3 and the ceramic furnace, the industrial history of the city of Vierzon. |
+| <img src="../images/old.jpg" style="max-width: 25%"> | The ceramic furnace |
+| <img src="../images/river.jpeg" style="max-width: 25%"> | Vierzon's nickame is "The city of five rivers", that's why we decided to add a river in our fresco. |
+| <img src="../images/vzLogo.jpg" style="max-width: 25%"> | The logo of the city of Vierzon. |
+| <img src="../images/logo.png" style="max-width: 25%"> | The logo of ALGOSUP. |
 
 ### The First idea
 
@@ -160,7 +175,7 @@ Once the fresco prototype is done, you will need to separate the fresco into eig
 
 There is a total of 2958 Rubik's cubes, so each will have the responsibility of configuring 370 Rubik's cubes to match their part of the fresco.
 
-$2958 / 8 ≈ 370$
+2958 / 8 ≈ 370
 
 Each team will be provided:
 
@@ -264,14 +279,14 @@ To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59
 - 87 columns of Rubik's cubes;
 - 34 rows of Rubik's cubes;
 - 2.5 cm (0.984252 inches) for the length needed of tape for each cube;
-- $87 * 34 * 2.5 = 7395$;
+- 87 * 34 * 2.5 = 7395;
 - 7395 cm (2911.417 inches) of tape are needed;
 - 73,95 m (242.61811 feet) of double-sided foam tape are needed;
 - This tape is about 0.59 cents for 4m (13.1234 feet);
-- $73,95 / 4 = 18.48$;
+- 73,95 / 4 = 18.48;
 - 18.48 tapes are needed for the middle of the cubes;
 - 25 double-sided foam tapes are needed, because of the potential errors during the installation and to strengthen the counters of the Rubik's cubes;
-- $25 * 0.59 = 14.75$;
+- 25 * 0.59 = 14.75;
 - The total for the tape needed is 14.75 euros all taxes incuded;
 - These tapes are available at Action. Av. du 19 Mars 1962, 18100 Vierzon.
 
