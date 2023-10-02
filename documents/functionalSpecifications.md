@@ -168,7 +168,7 @@ Each team will be provided:
 - The grid will have the colours and the number of the cube.
 - A program that will let the user input the image of the fresco and select the id of the Rubik's cube (e.g: A1, B1, C1, etc.). The program will then return an image of the 3x3 Rubik's cube with the correct colours.
 
-<img src="../images/cli.png" style="height:200px">
+<img src="../images/cli.png" style="height:150px">
 
 The grid will be organised as:
 
@@ -199,7 +199,7 @@ Before the transfer from the project's rooms of the library, each of the teams s
 
 Once done, the teams will use a carton to transfer by putting the cubes on it in order to be easier to transfer in the fresco.
 
-<img src="../images/transfer.png" style="height:300px">
+<img src="../images/transfer.png" style="height:200px">
 
 ### Set up
 
@@ -213,7 +213,7 @@ The double-sided foam tape will be used to fix the cubes to the wall. A piece of
 
 The pieces of tape will be added to the wall during the draw of the grid, so during the placement of the Rubik's cubes, only the protective tape will need to be removed. This procedure will also avoid errors in tape placement.
 
-<img src="../images/tapeMockup.png" style="height:400px">
+<img src="../images/tapeMockup.png" style="height:250px">
 
 ## Project Management
 
@@ -275,13 +275,13 @@ To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59
 - The total for the tape needed is 14.75 euros all taxes incuded;
 - These tapes are available at Action. Av. du 19 Mars 1962, 18100 Vierzon.
 
-<img src="../images/adhesive.png" style="height:200px">
+<img src="../images/adhesive.png" style="height:150px">
 
 - **Bubble level**
 
 To be sure that the Rubik's cubes are well aligned, a bubble level would help us to be sure. People in the team already own a bubble level, so there is no need to buy one.
 
-<img src="../images/bubbleLevel.png" style="height:200px">
+<img src="../images/bubbleLevel.png" style="height:150px">
 
 - **Go Pro**
 
@@ -299,7 +299,7 @@ Some pencils and an erasers will be needed to mark the wall and on the cardboard
 
 One 1m ruler will be needed to to create straight marks on the wall and on the cardboards.
 
-<img src="../images/ruler.png" style="height:200px">
+<img src="../images/ruler.png" style="height:150px">
 
 ## Budget
 
@@ -334,7 +334,7 @@ It is imperative that all team members and stakeholders involved adhere to the f
 - A Rubik's cube in the wrong place -> Display the grid on the wall and a picture of he final fresco on the library;
 - Rubik's cube size variation, some cubes might be smaller or bigger than other ones -> Do a mold in order to check if the size of the Rubik's cube before placing them. 
 
-<img src="../images/rubikTest.png" style="height:350px">
+<img src="../images/rubikTest.png" style="height:200px">
 
 ## Milestones
 
