@@ -10,7 +10,8 @@
     - [Persona 2](#persona-2)
   - [Thinking Process](#thinking-process)
   - [Fresco](#fresco)
-    - [The idea](#the-idea)
+    - [The inspirations](#the-inspirations)
+    - [The First idea](#the-first-idea)
     - [The Final](#the-final)
   - [Tasks](#tasks)
     - [Timelapse](#timelapse)
@@ -32,6 +33,7 @@
 ## Overview
 
 ALGOSUP invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
+
 This fresco will become a permanent feature of ALGOSUP's school, it will be housed in the library and visible from the outside.
 
 ## Project Scope
@@ -41,9 +43,6 @@ Eight teams will submit proposals, each presenting an image and a functional pla
 One of the primary objectives of this project is to enhance the school's visibility, emphasizing its pedagogical aspects. Additionally, it offers a valuable opportunity for participants to gain practical experience in project management.
 
 In alignment with the school's commitment to sharing knowledge, a timelapse video documenting the project's progress will be produced.
-
-
-
 
 ## What is the project?
 
@@ -97,20 +96,6 @@ Needs & goals: Karine wants the citizens of Vierzon to have a better opinion of 
 Use case: Karine and her colleagues discovered the fresco at ALGOSUP and found it irrelevant and degrading to the building. To avoid this type of reaction, we decided to tell a part of Vierzon's story in our fresco.
 ```
 
-<!-- ### Persona 3
-```
-Name: 
-Age: 
-Job: 
-Place: 
-
-Description: 
-
-Needs & goals: 
-
-Use case: 
-``` -->
-
 ## Thinking Process
 
 Our main issue was the integration of the plugs with the fresco, we had to keep the access to them while exposing it.
@@ -127,7 +112,13 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 <!-- Mathis -->
 
-### The idea
+### The inspirations
+
+Our first inspiration for this fresco is to tell the story of Vierzon, where the ALGOSUP's european campus is. The second one is to calm the mind of the people rejecting the technological evolution of the city by showing them the past is still a part of the city. 
+
+<img src="../images/inspo.png" style="height:400px">
+
+### The First idea
 
 <img src="../images/idea.png" style="height:400px">
 
@@ -164,6 +155,8 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 Once the fresco prototype is done, you will need to separate the fresco into eight fair parts. One part will be entrusted to each group, so configuring the Rubik's cubes will be easier and faster.
 
+<img src="../images/fresco%20copy.png" style="height:200px">
+
 There is a total of 2958 Rubik's cubes, so each will have the responsibility of configuring 370 Rubik's cubes to match their part of the fresco.
 
 $2958 / 8 ≈ 370$
@@ -174,7 +167,7 @@ Each team will be provided:
 - The grid will have the colours and the number of the cube.
 - A program that will let the user input the image of the fresco and select the id of the Rubik's cube (e.g: A1, B1, C1, etc.). The program will then return an image of the 3x3 Rubik's cube with the correct colours.
 
-<!-- Image of the Fresco -->
+<img src="../images/cli.png" style="height:200px">
 
 The grid will be organised as:
 
@@ -195,7 +188,9 @@ To fasten the creation of the fresco and to avoid random configurations, a progr
 
 The program will have a graphical user interface (GUI) to make it easier to use.
 
-On the GUI, the user will be able to select the the colours of the rubik's cube that he wants to configure. The program will then predict the moves that the user will need to do to configure the cube. The user will then be able to follow the instructions to configure the cube.
+<img src="../images/gui.png" style="height:200px">
+
+On the GUI, the user will be able to select the colours of the rubik's cube that he wants to configure. The program will then predict the moves that the user will need to do to configure the cube. The user will then be able to follow the instructions to configure the cube.
 
 ### Transfer
 
@@ -203,13 +198,13 @@ Before the transfer from the project's rooms of the library, each of the teams s
 
 Once done, the teams will use a carton to transfer by putting the cubes on it in order to be easier to transfer in the fresco.
 
-<!-- Croquis fresco cut in 8 part -->
+
 
 ### Set up
 
 By the 26th of September 2023, all the Rubik's cubes need to be assembled in the library.
 
-The first step of this task is to if it's possible, write with a pencil on the library's wall the grid with the numbers. This procedure would avoid the potential problems of putting a cube in the wrong place.
+The first step of this task is to write with a pencil on the library's wall the grid with the numbers. This procedure would avoid the potential problems of putting a cube in the wrong place.
 
 An image of the fresco should be displayed in the room during the installation as another level of security to avoid errors.
 
@@ -281,7 +276,7 @@ Some pencils and an erasers will be needed to mark the wall and on the cardboard
 
 - **1m ruler**
 
-Two 1m ruler will be needed to to create straight marks on the wall and on the cardboards.
+One 1m ruler will be needed to to create straight marks on the wall and on the cardboards.
 
 <img src="../images/ruler.png" style="height:200px">
 
@@ -324,14 +319,14 @@ It is imperative that all team members and stakeholders involved adhere to the f
 
 | Date | Milestone |
 | ---- | --------- |
-| 25-09-2023 | Project start |
-| 03-09-2023 | Deadline for Functional Specification |
-| 04-09-2023 | The Jury selects one proposal and may ask for changes |
-| 06-09-2023 | Revised Functional Specification and Jury's approval |
-| 10-09-2023 | Deadline for Technical Specification |
-| 20-09-2023 | Each team complete their part of the fresco, allowing for assembly |
-| 26-09-2023 | The fresco must be assembled, tested and placed in the library |
-| 27-09-2023 | Oral presentation of the project |
+| 25-10-2023 | Project start |
+| 03-10-2023 | Deadline for Functional Specification |
+| 04-10-2023 | The Jury selects one proposal and may ask for changes |
+| 06-10-2023 | Revised Functional Specification and Jury's approval |
+| 10-10-2023 | Deadline for Technical Specification |
+| 20-10-2023 | Each team complete their part of the fresco, allowing for assembly |
+| 26-10-2023 | The fresco must be assembled, tested and placed in the library |
+| 27-10-2023 | Oral presentation of the project |
 
 *DD-MM-YYY*
 
@@ -354,6 +349,7 @@ It is imperative that all team members and stakeholders involved adhere to the f
 |Bubble level|https://www.amazon.com/ZHJAN-Magnetic-absorbing-measurements-resistant/dp/B0BHY9JKT4/ref=sr_1_52?crid=1Q6Q1R30UY6RT&keywords=bubble+level&qid=1695825689&sprefix=bubble+lvel%2Caps%2C181&sr=8-52|
 |Pixelate an image|https://giventofly.github.io/pixelit/|
 |Conversion imperial metric units|https://www.calculator.net/conversion-calculator.html|
+|1m ruler|https://www.leroymerlin.fr/produits/outillage/outillage-a-main/metre-ruban-telemetre-laser/metre-metre-ruban/metre-pliant-plastique-1m-10-glieder-13mm-brei-89985183.html?src=clk|
 
 ## Glossary
 
