@@ -47,8 +47,6 @@ In alignment with the school's commitment to sharing knowledge, a timelapse vide
 
 <br>
 
-<br>
-
 ## What is the project?
 
 - The fresco must prominently feature ALGOSUP's logo;
@@ -100,8 +98,6 @@ Needs & goals: Karine wants the citizens of Vierzon to have a better opinion of 
 
 Use case: Karine and her colleagues discovered the fresco at ALGOSUP and found it irrelevant and degrading to the building. To avoid this type of reaction, we decided to tell a part of Vierzon's story in our fresco.
 ```
-
-<br>
 
 ## Thinking Process
 
@@ -155,21 +151,21 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 | The group receives the project |Scene|
 |---|---|
 | The group gets their first Rubik's cubes | Camera close to the TV filming towards the door, everyone is seated and Victor enters the room dancing with a cube |
-| The group measures and weighs the Rubik’s cubes | close camera angle, we weighs the Rubik’s and measure them with a meter and the camera rotates towards someone else that listens to the measures nodding and noting them on a paper|
-| We align the Rubik’s cubes on the wall to see their height | we do a Rubik’s cube tower and compare it with a group member|
+| The group measures and weighs the Rubik’s cubes | Close camera angle, we weighs the Rubik’s and measure them with a meter and the camera rotates towards someone else that listens to the measures nodding and noting them on a paper|
+| We align the Rubik’s cubes on the wall to see their height | We do a Rubik’s cube tower and compare it with a group member|
 | The group is in front of the whiteboard discussing about how to place the cubes | The whiteboard is split in 4 parts and someone is standing to collect votes so we can show SWOT|
-| Brainstorm : We share our ideas | everyone is around the table with a sheet that everyone checks |
-| Brainstorm : We draw step by step on the whiteboard | timelapse of the whiteboard |
-| Design : Vectorization of Vierzon’s monuments | screen recording of the creation of the principal arch |
-| Design : Vectorization of the tractor | same with the tractor |
+| Brainstorm : We share our ideas | Everyone is around the table with a sheet that everyone checks |
+| Brainstorm : We draw step by step on the whiteboard | Timelapse of the whiteboard |
+| Design : Vectorization of Vierzon’s monuments | Screen recording of the creation of the principal arch |
+| Design : Vectorization of the tractor | Same with the tractor |
 | Management : Creation of the documentation | Do a Git history animation |
 | The group eats | We eat |
 | Fabrication :  We learn how to configure a Rubik’s cube in any position | Alexis teaches us  |
-| We struggle with Rubik's | someone ragequit and throw it on the wall |
+| We struggle with Rubik's | Someone ragequit and throw it on the wall |
 
 ### Division of the work
 
-Once the fresco prototype is done, you will need to separate the fresco into eight fair parts. One part will be entrusted to each group, so configuring the Rubik's cubes will be easier and faster.
+Once the fresco prototype is complete, you will need to separate the fresco into eight fair parts. One of the eights parts of the fresco will be given to each group, so configuring the Rubik's cubes will be easier and faster.
 
 <img src="../images/fresco%20copy.png" style="height:200px">
 
