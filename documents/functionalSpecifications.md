@@ -59,8 +59,8 @@ In alignment with the school's commitment to sharing knowledge, a timelapse vide
 ## What is not the project?
 
 - Break the cube to form the fresco, it must be assembled without damaging it;
-- Paint the cube, it must be returned to its original state;
-- Assemble the fresco with less than 2000 cubes and more than 3000 cubes;
+- Paint the cube, it must be returned in its original state;
+- Assemble the fresco with less than 2000 cubes or more than 3000 cubes;
 - Use the fresco to denigrate a member of the staff or the school;
 - Choose a too complex fresco, it would be a shame not to finish it;
 
@@ -75,7 +75,7 @@ Job: Student at the CNAM
 Place: Vierzon, France
 
 Description:
-Lonus is a student at the CNAM, which is above ALGOSUP. Every morning, he passes in front of the fresco and asks himself what it represents.
+Lonus is a student at the CNAM, which is above ALGOSUP. Every morning, he passes in front of the fresco and wonders what it represents.
 
 Needs & goals: Lonus wants to understand the fresco easily and maybe learn new things about Vierzon thanks to it.
 
@@ -150,7 +150,7 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 | Management : Creation of the documentation | Do a Git history animation |
 | The group eats | We eat |
 | Fabrication :  We learn how to configure a Rubik’s cube in any position | Alexis teaches us  |
-| We struggle with Rubiks | someone ragequit and throw it on the wall |
+| We struggle with Rubik's | someone ragequit and throw it on the wall |
 
 ### Division of the work
 
@@ -185,13 +185,13 @@ The grid will be organised as:
 
 ### Creation of the fresco
 
-To fasten the creation of the fresco and to avoid random configurations, a program will be created to help the teams to configure the Rubik's cubes.
+To fasten the creation of the fresco and to avoid random configurations, a program will be created to help the teams configure the Rubik's cubes.
 
 The program will have a graphical user interface (GUI) to make it easier to use.
 
 <img src="../images/gui.png" style="height:200px">
 
-On the GUI, the user will be able to select the colours of the rubik's cube that he wants to configure. The program will then predict the moves that the user will need to do to configure the cube. The user will then be able to follow the instructions to configure the cube.
+On the GUI, the user will be able to select the colours of the rubik's cube that they wants to configure. The program will then predict the moves that the user will need to do to configure the cube. The user will then be able to follow the instructions to configure the cube.
 
 ### Transfer
 
@@ -209,7 +209,7 @@ The first step of this task is to write with a pencil on the library's wall the 
 
 An image of the fresco should be displayed in the room during the installation as another level of security to avoid errors.
 
-The double-sided foam tape will be used to fix the cubes to the wall. A piece of tape about 2.5cm / 0.984252 inches will be placed in order to touch 4 Rubik's cubes at the same time. Some foam tape will be added to the extremity to reinforce the fixation.
+The double-sided foam tape will be used to stick the cubes to the wall. A piece of tape about 2.5cm / 0.984252 inches will be placed in order to touch 4 Rubik's cubes at the same time. Some foam tape will be added to the extremity to reinforce the fixation.
 
 The pieces of tape will be added to the wall during the draw of the grid, so during the placement of the Rubik's cubes, only the protective tape will need to be removed. This procedure will also avoid errors in tape placement.
 
@@ -244,7 +244,7 @@ To carry out the project, these elements are available:
 - **3000 Rubik's cubes 3x3**
   - Square;
   - 5,6 cm³ (2.205 inches³);
-  - 64 grammes (2.25753 onces);
+  - 64 grammes (2.25753 ounces);
   - Red, blue, green, orange, white and yellow.
 - **60 cm (24 inches) tracer**
 - **Project room**
@@ -285,35 +285,35 @@ To be sure that the Rubik's cubes are well aligned, a bubble level would help us
 
 - **Go Pro**
 
-To realise the timelapse, a Go Pro would be use with the tripod provided by the school. People in the team already own a bubble level, so there is no need to buy one.
+To realise the timelapse, a Go Pro will be used with the tripod provided by the school. 
 
 - **Cardboards**
   
-The cardboard will be used as a surface to assemble the fresco in the project rooms and to facilitate transport to the current library.People in the team already own a bubble level, so there is no need to buy one.
+The cardboard will be used as a surface to assemble the fresco in the project rooms and to facilitate transport to the current library.
 
 - **HB Pencils and erasers**
 
-Some pencils and an erasers will be needed to mark the wall and on the cardboards to place the cubes. People in the team already own a bubble level, so there is no need to buy one.
+Some pencils and erasers will be needed to mark the wall and on the cardboards to place the cubes. 
 
 - **1m ruler**
 
-One 1m ruler will be needed to to create straight marks on the wall and on the cardboards.
+One 1m ruler will be needed to create straight marks on the wall and on the cardboards.
 
 <img src="../images/ruler.png" style="height:150px">
 
 ## Budget
 
-The total budget needed for this project is 30.22€ all taxes incuded.
+The total budget needed for this project is 30.22€ all taxes included.
 
 |Object|Price|
 |-|-|
-|Double-sided foam tape|14.75€ all taxes incuded|
-|1m ruler|15.47€ all taxes incuded|
+|Double-sided foam tape|14.75€ all taxes included|
+|1m ruler|15.47€ all taxes included|
 
 ## Laws and Regulations
 
 Compliance with applicable laws and regulations is essential to ensure the successful execution of the fresco project. 
-It is imperative that all team members and stakeholders involved adhere to the following legal and regulatory considerations:
+It is imperative that every team members and stakeholders involved adhere to the following legal and regulatory considerations:
 
 - **Intellectual Property Rights**: Respect the intellectual property rights of all components used in the fresco. Ensure that any copyrighted or trademarked materials incorporated into the artwork are used with proper authorization or within the bounds of fair use.
 
@@ -331,14 +331,14 @@ It is imperative that all team members and stakeholders involved adhere to the f
 
 - Damage on the wall -> clean with water and soap;
 - A Rubik's cube fall from the fresco -> fix the cubes on the four corners;
-- A Rubik's cube in the wrong place -> Display the grid on the wall and a picture of he final fresco on the library;
+- A Rubik's cube in the wrong place -> Display the grid on the wall and a picture of the final fresco on the library;
 - Rubik's cube size variation, some cubes might be smaller or bigger than other ones -> Do a mold in order to check if the size of the Rubik's cube before placing them. 
 
 <img src="../images/rubikTest.png" style="height:200px">
 
 ## Milestones
 
-| Date | Milestone |
+| Date | Milestones |
 | ---- | --------- |
 | 25-10-2023 | Project start |
 | 03-10-2023 | Deadline for Functional Specification |
