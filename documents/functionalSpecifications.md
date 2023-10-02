@@ -199,7 +199,7 @@ Before the transfer from the project's rooms of the library, each of the teams s
 
 Once done, the teams will use a carton to transfer by putting the cubes on it in order to be easier to transfer in the fresco.
 
-
+<img src="../images/transfer.png" style="height:300px">
 
 ### Set up
 
@@ -350,6 +350,8 @@ It is imperative that all team members and stakeholders involved adhere to the f
 | 27-10-2023 | Oral presentation of the project |
 
 *DD-MM-YYY*
+
+All the documents should be delivered as pdf. 
 
 ## Team
 
