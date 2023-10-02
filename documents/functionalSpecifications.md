@@ -19,6 +19,7 @@
     - [Creation of the fresco](#creation-of-the-fresco)
     - [Transfer](#transfer)
     - [Set up](#set-up)
+  - [Project Management](#project-management)
   - [Equipment](#equipment)
     - [Available](#available)
     - [Needed](#needed)
@@ -213,6 +214,26 @@ The double-sided foam tape will be used to fix the cubes to the wall. A piece of
 The pieces of tape will be added to the wall during the draw of the grid, so during the placement of the Rubik's cubes, only the protective tape will need to be removed. This procedure will also avoid errors in tape placement.
 
 <img src="../images/tapeMockup.png" style="height:400px">
+
+## Project Management
+
+To ensure the success of our mural project, we have opted for a specific project management approach. Eight teams of 5 or 6 individuals each will be deployed for a period of 3 weeks, from 3-10-23 to 26-10-23, to work on the creation of our mural. The overall project will be overseen by our core team, who will not only supervise but also assist the other teams in the mural's creation.
+
+The mural will be divided into 8 equal parts, which will be allocated to each team. These teams will have the freedom to choose how they want to manage their internal processes and whether or not to use software to assemble the Rubik's cubes. The only requirement we will impose is to number each cube from 1 to X once assembled to facilitate the final assembly.
+
+In addition to daily monitoring, we will conduct weekly meetings with each group to assess the progress of each section and track Key Performance Indicators (KPIs). Depending on the progress of each team, we will determine each week whether it is necessary to deploy more people to a particular section of the mural.
+
+As for equipment, we have decided to provide a significant portion that will be shared among all the teams, including:
+
+- Double-sided tape
+- 2 one-meter rulers
+- Cardboard
+- A level bubble
+- Pencils and erasers
+
+The third week will be dedicated to the final assembly of the mural in the library, with each team responsible for their designated section. We will have already created a grid and applied double-sided tape for the placement of each Rubik's cube, and they will be numbered so that the teams only need to place them in the correct positions.
+
+Simultaneously, each team will be responsible for drafting their technical specifications and preparing their presentation and slideshow for the oral on 27-10-23.
 
 ## Equipment
 
