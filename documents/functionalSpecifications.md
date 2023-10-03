@@ -136,13 +136,21 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 
 ### The Final
 
+<img src="../images/finalBig.png" style="">
+
+### Description
+
+The final product is a scene depicting students of the new B3 celebrating as they graduate in the reborn city of Vierzon. The target audience is both students, but also Vierzon and neighbouring citizens, B3 staff, and city officials as it tries to reconciliate both the past, the present and the future of the city, which have historically been in clash (progress vs. tradition). 
+
+Indeed, the fresco features many of Vierzon's landmarks. From left to right: The Gaucher-Vincent Ceramic Factory, the iconinc tractor from "La Société Française", Vierzon's heraldic tower, the tree representing the Sologne forest, the two rivers merging (Pays des 5 rivières), which is also a symbol for unity and economic prosperity, the "Maison à Pans", a famous central 19th century house, the Belfry and finally the B3 to the far right and with the most focus (end), as an indication of some sort of chronology. 
+
+Algosup's Icon dominates the scene as it watches over this transformation, as the main (current) drive of the B3.
+
 <!-- Image + dimension 
 4,872m * 1,904m = 9,28m² 
 15,984ft * 6,247ft ≈ 99.85 ft²
 -->
 <!-- before after of the room -->
-<!-- elements and why? -->
-<!-- real and pixelized inspiration -->
 
 ## Tasks
 
