@@ -13,6 +13,7 @@
     - [The inspirations](#the-inspirations)
     - [The First idea](#the-first-idea)
     - [The Final](#the-final)
+    - [Description](#description)
   - [Tasks](#tasks)
     - [Timelapse](#timelapse)
     - [Division of the work](#division-of-the-work)
@@ -99,6 +100,8 @@ Needs & goals: Karine wants the citizens of Vierzon to have a better opinion of 
 Use case: Karine and her colleagues discovered the fresco at ALGOSUP and found it irrelevant and degrading to the building. To avoid this type of reaction, we decided to tell a part of Vierzon's story in our fresco.
 ```
 
+<br>
+
 ## Thinking Process
 
 Our main issue was the integration of the plugs with the fresco, we had to keep the access to them while exposing it.
@@ -134,7 +137,11 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 
 <img src="../images/idea.png" style="height:400px">
 
+<br>
+
 ### The Final
+
+The final product is a 87*34 Rubik's cubes fresco, which is 2958 Rubik's cubes in total. The fresco is 4,872m * 1,904m = 9,28m²  or 15,984ft * 6,247ft ≈ 99.85 ft². We respect the requirements of the project, which are to use between 2000 and 3000 Rubik's cubes and to make a rectangular fresco from 60 to 100 square feet.
 
 <img src="../images/finalBig.png" style="">
 
@@ -222,7 +229,7 @@ Once done, the teams will use a carton to transfer by putting the cubes on it in
 
 ### Set up
 
-By the 26th of September 2023, all the Rubik's cubes need to be assembled in the library.
+By the 26th of October 2023, all the Rubik's cubes need to be assembled in the library.
 
 The first step of this task is to write with a pencil on the library's wall the grid with the numbers. This procedure would avoid the potential problems of putting a cube in the wrong place.
 
@@ -267,6 +274,9 @@ To carry out the project, these elements are available:
   - Red, blue, green, orange, white and yellow.
 - **60 cm (24 inches) tracer**
 - **Project room**
+<br>
+<br>
+<br>
 - **Library's wall**
   - 6m (236.22 inches) horizontally;
   - 2,2m (86.6142 inches) vertically.
@@ -351,7 +361,7 @@ It is imperative that every team members and stakeholders involved adhere to the
 - Damage on the wall -> clean with water and soap;
 - A Rubik's cube fall from the fresco -> fix the cubes on the four corners;
 - A Rubik's cube in the wrong place -> Display the grid on the wall and a picture of the final fresco on the library;
-- Rubik's cube size variation, some cubes might be smaller or bigger than other ones -> Do a mold in order to check if the size of the Rubik's cube before placing them. 
+- Rubik's cube size variation, some cubes might be smaller or bigger than other ones -> Do a mold in order to check if the size of the Rubik's cube before placing them.
 
 <img src="../images/rubikTest.png" style="height:200px">
 
@@ -370,7 +380,32 @@ It is imperative that every team members and stakeholders involved adhere to the
 
 *DD-MM-YYY*
 
-All the documents should be delivered as pdf. 
+All the documents should be delivered as pdf.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Team
 
@@ -383,6 +418,25 @@ All the documents should be delivered as pdf.
 |Laurent Bouqin|<img src="../images/LaurentBOUQUIN.jpg" style="height:100px">|laurent.bouquin@algosup.com|
 |Alexis Lasselin|<img src="../images/AlexisLASSELIN.jpg" style="height:100px">|alexis.lasselin@algosup.com|
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Sources
 
 |Search|Link|
@@ -392,6 +446,16 @@ All the documents should be delivered as pdf.
 |Pixelate an image|https://giventofly.github.io/pixelit/|
 |Conversion imperial metric units|https://www.calculator.net/conversion-calculator.html|
 |1m ruler|https://www.leroymerlin.fr/produits/outillage/outillage-a-main/metre-ruban-telemetre-laser/metre-metre-ruban/metre-pliant-plastique-1m-10-glieder-13mm-brei-89985183.html?src=clk|
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Glossary
 
