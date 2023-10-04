@@ -5,6 +5,7 @@
   - [Cubes](#cubes)
   - [Tools](#tools)
   - [Room configuration](#room-configuration)
+    - [Problems](#problems)
   - [Timelapse](#timelapse)
   - [Rubik's cubes configuration](#rubiks-cubes-configuration)
   - [Transport](#transport)
@@ -69,6 +70,12 @@ According to the following pictures, the fresco will be placed against the white
 Unfortunately, we didn't have the idea of where put the bookshelves after the fresco installation.
 
 <img src="../images/IMG_3585.jpg" alt="Fresco location" width="55%"/>
+
+### Problems
+
+There is a problem with the wall. With a bubble level, we found that the wall was not perfectly straight. The wall is inclined of 1cm from the top to the bottom. This problem is minor, but it will be necessary to take it into account when placing the cubes.
+
+Another problem is the presence of roughness on the wall. It's important to notice it when we will place the tape on the wall.
 
 ## Timelapse
 
