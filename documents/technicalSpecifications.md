@@ -77,6 +77,8 @@ There is a problem with the wall. With a bubble level, we found that the wall wa
 
 Another problem is the presence of roughness on the wall. It's important to notice it when we will place the tape on the wall.
 
+<img src="../images/roughness.jpg" alt="roughness" width="55%"/>
+
 ## Timelapse
 
 ## Rubik's cubes configuration
