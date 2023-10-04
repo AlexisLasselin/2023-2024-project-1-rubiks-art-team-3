@@ -3,9 +3,6 @@
 - [Technical Specifications - Team 3](#technical-specifications---team-3)
   - [Overview](#overview)
   - [Cubes](#cubes)
-    - [Colors](#colors)
-    - [Dimensions](#dimensions)
-    - [Weight](#weight)
   - [Tools](#tools)
   - [Room configuration](#room-configuration)
   - [Timelapse](#timelapse)
@@ -43,17 +40,15 @@
 
 
 ## Cubes
-<!-- available -->
-<!-- victor -->
-
-In order to realize our fresco, we have at our disposal 3000 Rubik's cubes of the 3x3x3 model. These cubes are available in 6 colors: white, red, blue, orange, green and yellow. The dimensions of the cubes are 5.6cm x 5.6cm x 5.6cm.
-### Colors
-
-<!-- hexa color -->
-
-### Dimensions
-
-### Weight
+- In order to realize our fresco, we have at our disposal 3000 Rubik's cubes of the 3x3x3 model. 
+- These cubes are available in 6 colors: 
+  - white (#FFFFFF), 
+  - red (#f8001b), 
+  - blue (#0070dc), 
+  - orange (#ff6600), 
+  - green (#00e37a),
+  - yellow (#dcd23c).
+- The dimensions of the cubes are 5.6cm x 5.6cm x 5.6cm, and their weight is 64g. 
 
 ## Tools
 
@@ -63,6 +58,8 @@ In order to realize our fresco, we have at our disposal 3000 Rubik's cubes of th
 <!-- ALEXIS -->
 
 The room is a rectangle of 8.3m of length and 3.8m of width. The wall is 2.5m of height. 
+
+![Room](../images/doorView.jpg)
 
 ## Timelapse
 
@@ -84,6 +81,39 @@ Our code will outlines the coding conventions and best practices for writing Pyt
 #### Indentation
 
 - Use 4 spaces for indentation levels, not tabs.
+
+```py
+# Correct:
+
+# Aligned with opening delimiter.
+foo = long_function_name(var_one, var_two,
+                         var_three, var_four)
+
+# Add 4 spaces (an extra level of indentation) to distinguish arguments from the rest.
+def long_function_name(
+        var_one, var_two, var_three,
+        var_four):
+    print(var_one)
+
+# Hanging indents should add a level.
+foo = long_function_name(
+    var_one, var_two,
+    var_three, var_four)
+```
+
+```py
+# Wrong:
+
+# Arguments on first line forbidden when not using vertical alignment.
+foo = long_function_name(var_one, var_two,
+    var_three, var_four)
+
+# Further indentation required as indentation is not distinguishable.
+def long_function_name(
+    var_one, var_two, var_three,
+    var_four):
+    print(var_one)
+```
 
 #### Maximum Line Length
 
@@ -125,14 +155,14 @@ Our code will outlines the coding conventions and best practices for writing Pyt
 
 ### Coding Style
 
-- Follow the Zen of Python (PEP 20) principles.
+- Follow the [Zen of Python (PEP 20)](https://peps.python.org/pep-0020/) principles.
 - Be consistent with your code style throughout the project.
 - Use spaces around operators for clarity.
 - Use parentheses to clarify the order of operations, even if they are not required.
 
 By adhering to these Python coding conventions and best practices as outlined in PEP 8, we can ensure that our code is consistent, readable, and maintainable. This promotes efficient collaboration among developers and enhances the overall quality of our project.
 
-💡 For detailed guidelines and additional recommendations, refer to the full PEP 8 document at [PEP 8 PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/).
+💡 For detailed guidelines and additional recommendations, refer to the full PEP 8 document at [PEP 8, Style Guide for Python Code](https://peps.python.org/pep-0008/).
 
 
 ## Program
@@ -175,7 +205,8 @@ By adhering to these Python coding conventions and best practices as outlined in
 
 ## Sources
 <!-- github link -->
-[PEP 8 PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+[PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
 
 ## Contact
 
@@ -185,4 +216,8 @@ By adhering to these Python coding conventions and best practices as outlined in
 github
 open source
 license
-PEP 8
+[PEP](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.) : A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
+[PEP 8 – Style Guide for Python Code](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.) : The primary focus of PEP 8 is to improve the readability and consistency of Python code.
+[PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) : The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.
+
+<!-- Create a table with "word", "definition" and "source" -->

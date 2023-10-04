@@ -144,7 +144,7 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 The final product is a 87*33 Rubik's cubes fresco, which is 2871 Rubik's cubes in total. The fresco is 4,872m * 1,848m = 9,00m² or 15,98ft * 6,06ft ≈ 96.83 ft². We respect the requirements of the project, which are to use between 2000 and 3000 Rubik's cubes and to make a rectangular fresco from 60 to 100 square feet.
 
 <img src="../images/finalBig.png" style="">
-freco on the wall 
+<!-- freco on the wall  -->
 
 ### Description
 
@@ -155,7 +155,6 @@ Indeed, the fresco features many of Vierzon's landmarks. From left to right: The
 Algosup's Icon dominates the scene as it watches over this transformation, as the main (current) drive of the B3.
 
 <!-- before after of the room -->
-Library before:
 
 
 ## Tasks
@@ -200,13 +199,13 @@ The grid will be organised as:
 - Columns -> Numbers from 1 to 87
 - Rows -> Letters from A to AH
 
-|  |1|2|...|86|87|
+|   |1|2|...|86|87|
 |---|-|-|---|--|--|
-|A  | | |   | | |
-|B  | | |   | | |
-|...| | |   | | |
-|AF | | |   | | |
-|AG | | |   | | |
+|A  | | |   |  |  |
+|B  | | |   |  |  |
+|...| | |   |  |  |
+|AF | | |   |  |  |
+|AG | | |   |  |  |
 
 ### Creation of the fresco
 
@@ -290,14 +289,14 @@ To be able to build the fresco, we will need:
 To be able to scotch all the Rubik's cubes to the library's wall, 18 meters / 59.0551 feet of double-sided adhesive foam tape will be needed.
 
 - 87 columns of Rubik's cubes;
-- 34 rows of Rubik's cubes;
+- 33 rows of Rubik's cubes;
 - 2.5 cm (0.984252 inches) for the length needed of tape for each cube;
-- 87 * 34 * 2.5 = 7395;
-- 7395 cm (2911.417 inches) of tape are needed;
-- 73,95 m (242.61811 feet) of double-sided foam tape are needed;
+- 87 * 33 * 2.5 = 7177.5;
+- 7177.5 cm of tape are needed;
+- 71.78 m of double-sided foam tape are needed;
 - This tape is about 0.59 cents for 4m (13.1234 feet);
-- 73,95 / 4 = 18.48;
-- 18.48 tapes are needed for the middle of the cubes;
+- 71.78 / 4 = 17.95;
+- 17.95 tapes are needed for the middle of the cubes;
 - 25 double-sided foam tapes are needed, because of the potential errors during the installation and to strengthen the counters of the Rubik's cubes;
 - 25 * 0.59 = 14.75;
 - The total for the tape needed is 14.75 euros all taxes incuded;
