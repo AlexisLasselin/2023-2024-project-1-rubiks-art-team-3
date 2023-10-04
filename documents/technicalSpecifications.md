@@ -35,22 +35,21 @@
   - [Sources](#sources)
   - [Glossary](#glossary)
 
-
 ## Overview
 <!-- link to github -->
 
-
 ## Cubes
-- In order to realize our fresco, we have at our disposal 3000 Rubik's cubes of the 3x3x3 model. 
-- These cubes are available in 6 colors: 
-  - white <span style="color:#ffffff"> (#ffffff)</span>, 
-  - red <span style="color:#f8001b"> (#f8001b)</span>, 
-  - blue <span style="color:#0070dc"> (#0070dc)</span>, 
-  - orange <span style="color:#ff6600"> (#ff6600)</span>, 
-  - green <span style="color:#00e37a"> (#00e37a)</span>, 
+
+- In order to realize our fresco, we have at our disposal 3000 Rubik's cubes of the 3x3x3 model.
+- These cubes are available in 6 colors:
+  - white <span style="color:#ffffff"> (#ffffff)</span>,
+  - red <span style="color:#f8001b"> (#f8001b)</span>,
+  - blue <span style="color:#0070dc"> (#0070dc)</span>,
+  - orange <span style="color:#ff6600"> (#ff6600)</span>,
+  - green <span style="color:#00e37a"> (#00e37a)</span>,
   - yellow <span style="color:#dcd23c"> (#dcd23c)</span>.
 
-- The dimensions of the cubes are 5.6cm x 5.6cm x 5.6cm, and their weight is 64g. 
+- The dimensions of the cubes are 5.6cm x 5.6cm x 5.6cm, and their weight is 64g.
 
 ## Tools
 
@@ -90,7 +89,6 @@ Another problem is the presence of roughness on the wall. It's important to noti
 ## Removal
 
 ## Python Coding Conventions and Best Practices (PEP 8)
-
 
 Our code will outlines the coding conventions and best practices for writing Python code, in accordance with the Python Enhancement Proposal 8 (PEP 8). Adhering to these guidelines ensures code consistency and readability, making it easier for developers to collaborate on the project.
 
@@ -182,7 +180,6 @@ By adhering to these Python coding conventions and best practices as outlined in
 
 💡 For detailed guidelines and additional recommendations, refer to the full PEP 8 document at [PEP 8, Style Guide for Python Code](https://peps.python.org/pep-0008/).
 
-
 ## Program
 <!-- no code in the doc-->
 <!-- program open source -->
@@ -205,6 +202,7 @@ By adhering to these Python coding conventions and best practices as outlined in
 ## Architecture diagram
 
 ## Risks
+
 -> wall not straight
 
 <!-- MATHIS -->
@@ -240,6 +238,7 @@ By adhering to these Python coding conventions and best practices as outlined in
 [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
 
 ## Glossary
+
 github
 open source
 license
