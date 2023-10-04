@@ -30,8 +30,8 @@
   - [Tests](#tests)
   - [Security](#security)
   - [Trouble shooting](#trouble-shooting)
-  - [Sources](#sources)
   - [Contact](#contact)
+  - [Sources](#sources)
   - [Glossary](#glossary)
 
 
@@ -212,16 +212,23 @@ By adhering to these Python coding conventions and best practices as outlined in
 ## Trouble shooting
 <!-- if you encounter this do that -->
 
-## Sources
-<!-- github link -->
-[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
-[PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
-
 ## Contact
 
 <!-- question about the program, this person, about the mana, this one, ... -->
 
-|Name|Mail||
+|Name|Mail|Domain relate|
+|----|----|------|
+|Clémentine Curel|clementine.curel@algosup.com|Management|
+|Laura-Lee Hollande|laura-lee.hollande@algosup.com|Management|
+|Mathis Kakal|mathis.kakal@algosup.com|Design|
+|Victor Leroy|victor.leroy@algosup.com|Rubik's cube|
+|Laurent Bouqin|laurent.bouquin@algosup.com|Programs|
+|Alexis Lasselin|alexis.lasselin@algosup.com|Programs, Rubik's cube|
+
+## Sources
+<!-- github link -->
+[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+[PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
 
 ## Glossary
 github
