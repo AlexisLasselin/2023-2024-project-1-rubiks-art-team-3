@@ -188,8 +188,8 @@ There is a total of 2871 Rubik's cubes, so each will have the responsibility of 
 
 Each team will be provided:
 
-- The prototype of the fresco;
-- The grid will have the colours and the number of the cube.
+- The picture of the fresco;
+- The grid will have the colours and the number of the cube printed.
 - A program that will let the user input the image of the fresco and select the id of the Rubik's cube (e.g: A1, B1, C1, etc.). The program will then return an image of the 3x3 Rubik's cube with the correct colours.
 
 <img src="../images/cli.png" style="height:150px">
