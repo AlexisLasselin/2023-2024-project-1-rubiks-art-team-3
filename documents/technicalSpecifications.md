@@ -68,7 +68,7 @@ According to the following pictures, the fresco will be placed against the white
 
 Unfortunately, we didn't have the idea of where put the bookshelves after the fresco installation.
 
-<img src="../images/IMG_3584.png" alt="Fresco location" width="55%"/>
+<img src="../images/IMG_3585.jpg" alt="Fresco location" width="55%"/>
 
 ## Timelapse
 
