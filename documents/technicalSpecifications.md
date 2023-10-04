@@ -6,10 +6,13 @@
   - [Tools](#tools)
   - [Room configuration](#room-configuration)
     - [Problems](#problems)
-  - [Timelapse](#timelapse)
+  - [Videos](#videos)
+    - [Timelaspe](#timelaspe)
   - [Rubik's cubes configuration](#rubiks-cubes-configuration)
   - [Transport](#transport)
   - [Set up](#set-up)
+    - [The library setup](#the-library-setup)
+    - [The fresco set up](#the-fresco-set-up)
   - [Removal](#removal)
   - [Python Coding Conventions and Best Practices (PEP 8)](#python-coding-conventions-and-best-practices-pep-8)
     - [Code Layout](#code-layout)
@@ -21,9 +24,10 @@
     - [Comments](#comments)
     - [Function and Method Signatures](#function-and-method-signatures)
     - [Coding Style](#coding-style)
-  - [Program](#program)
+  - [Software](#software)
     - [Open source](#open-source)
     - [Licence](#licence)
+    - [Program](#program)
     - [Programming language](#programming-language)
   - [Code architecture](#code-architecture)
   - [Architecture diagram](#architecture-diagram)
@@ -36,7 +40,7 @@
   - [Glossary](#glossary)
 
 ## Overview
-<!-- link to github -->
+<!-- link to github PUBLIC -->
 
 ## Cubes
 
@@ -53,6 +57,7 @@
 
 ## Tools
 
+iMovie
 ## Room configuration
 <!-- plan 3D library -->
 <!-- analyze of the wall -->
@@ -78,17 +83,52 @@ Another problem is the presence of roughness on the wall. It's important to noti
 
 <img src="../images/roughness.jpg" alt="roughness" width="55%"/>
 
-## Timelapse
+## Videos
+
+### Timelaspe
+
+To record the timelapse, we will use a GoPro 3 owned by one of our team member. 
+
+The timelapse record will last for around 2 weeks. Starting when the final fresco will be selected, and will last until the fresco is finished.
+
+We will be recording the different groups building the fresco, with their agreement, we could also record them doing the Rubik's cubes in their rooms, then follow them transporting the cubes to the library. 
+
+The point of this timelapse will be to show to the other groups and keep memory of what we built, it will also be an interesting communication point for the school on social medias. 
+
+The editing of the timelapse will be done with iMovie.
+
 
 ## Rubik's cubes configuration
 
 To be able to create the fresco, we need to know exactly what every face on the fresco will look, that's why in the [Program](#program) section, we will explain how Laurent created a software that, with an image in entry, return the configuration of the Rubik's cube of your choice.
 
+
+
 ## Transport
+
+The transfer between the project rooms and library will be done in 2 steps, the first one consisting on writing the coordinates of the place where the cube should be on the fresco with a pencil, in order to simplify the process if a cube is lost during the transport, it will be written on the opposite cube face of the one exposed in the fresco. The second step will be to take a cardboard to bring the cubes in the library.
 
 ## Set up
 
+### The library setup
+
+To prepare the library to the arrive of the Rubik's cubes, a grid will be drawn with pencil on the wall.
+
+The squares on the grid will have a size of 5.6 x 5.6 cm each, which is the size of a Rubik's cube. On each square, the number of the case will be written to easily find the right place for the Rubik's cubes. 
+
+The same grid should be drawn on the printed fresco to have a reference next to the wanted place.
+
+### The fresco set up
+
+
 ## Removal
+
+When the fresco will be removed or changed, it will probably left some tape on the wall. To remove the tape without any damage, the use of a hair dryer will be needed. 
+
+- Heat the corners and edges of the adhesive to soften the glue,
+- Peel it off using a card or a spatula from the edge,
+- Heat again if it doesn't peel off,
+- If there are some glue left on the wall, use a sponge soaked in saopy water.
 
 ## Python Coding Conventions and Best Practices (PEP 8)
 
@@ -182,19 +222,28 @@ By adhering to these Python coding conventions and best practices as outlined in
 
 💡 For detailed guidelines and additional recommendations, refer to the full PEP 8 document at [PEP 8, Style Guide for Python Code](https://peps.python.org/pep-0008/).
 
-## Program
+
+## Software
 <!-- no code in the doc-->
 <!-- program open source -->
 <!-- dependencies -->
 <!-- use of API, open source code,... -->
+<!-- compatibility MacOs Windows -->
 
 <!-- LAURENT -->
 
 ### Open source
-<!-- LL -->
+
+We use an open source software developped by a team's member.
+
+You can find our project on GitHub at the following repository:
+
+[2023-2024-project-1-rubiks-art-team-3](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3)
 
 ### Licence
 <!-- LL -->
+
+### Program
 
 ### Programming language
 <!-- why this one and the other + version-->
@@ -206,6 +255,7 @@ By adhering to these Python coding conventions and best practices as outlined in
 ## Risks
 
 -> wall not straight
+-> imperfections on the wall
 
 <!-- MATHIS -->
 
@@ -223,7 +273,7 @@ By adhering to these Python coding conventions and best practices as outlined in
 
 ## Contact
 
-<!-- question about the program, this person, about the mana, this one, ... -->
+If you have questions during the project, you can contact the members of the teams depending of yours questions.
 
 |Name|Mail|Domain relate|
 |----|----|------|
@@ -247,5 +297,6 @@ license
 [PEP](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.) : A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
 [PEP 8 – Style Guide for Python Code](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.) : The primary focus of PEP 8 is to improve the readability and consistency of Python code.
 [PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) : The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.
+[iMovie](https://www.apple.com/fr/imovie/) : iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and share videos. 
 
 <!-- Create a table with "word", "definition" and "source" -->
