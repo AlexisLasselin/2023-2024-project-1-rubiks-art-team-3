@@ -42,12 +42,13 @@
 ## Cubes
 - In order to realize our fresco, we have at our disposal 3000 Rubik's cubes of the 3x3x3 model. 
 - These cubes are available in 6 colors: 
-  - white (#FFFFFF), 
-  - red (#f8001b), 
-  - blue (#0070dc), 
-  - orange (#ff6600), 
-  - green (#00e37a),
-  - yellow (#dcd23c).
+  - white <span style="color:#ffffff"> (#ffffff)</span>, 
+  - red <span style="color:#f8001b"> (#f8001b)</span>, 
+  - blue <span style="color:#0070dc"> (#0070dc)</span>, 
+  - orange <span style="color:#ff6600"> (#ff6600)</span>, 
+  - green <span style="color:#00e37a"> (#00e37a)</span>, 
+  - yellow <span style="color:#dcd23c"> (#dcd23c)</span>.
+
 - The dimensions of the cubes are 5.6cm x 5.6cm x 5.6cm, and their weight is 64g. 
 
 ## Tools
@@ -219,6 +220,8 @@ By adhering to these Python coding conventions and best practices as outlined in
 ## Contact
 
 <!-- question about the program, this person, about the mana, this one, ... -->
+
+|Name|Mail||
 
 ## Glossary
 github
