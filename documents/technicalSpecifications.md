@@ -57,9 +57,17 @@
 <!-- analyze of the wall -->
 <!-- ALEXIS -->
 
-The room is a rectangle of 8.3m of length and 3.8m of width. The wall is 2.5m of height. 
+The room is a rectangle of 8.3m of length and 3.8m of width. The wall is 2.5m of height.
 
-![Room](../images/doorView.jpg)
+According to the following pictures, the fresco will be placed against the white wall to be seen from the outside, or at least from the entrance of the building.
+
+<img src="../images/external.jpg" alt="external" width="55%"/>
+
+<img src="../images/northEastView.jpg" alt="northEastView" width="55%"/>
+
+Unfortunately, we didn't have the idea of where put the bookshelves after the fresco installation.
+
+<img src="../images/IMG_3584.png" alt="Fresco location" width="55%"/>
 
 ## Timelapse
 
