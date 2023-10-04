@@ -141,9 +141,10 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 
 ### The Final
 
-The final product is a 87*34 Rubik's cubes fresco, which is 2958 Rubik's cubes in total. The fresco is 4,872m * 1,904m = 9,28m²  or 15,984ft * 6,247ft ≈ 99.85 ft². We respect the requirements of the project, which are to use between 2000 and 3000 Rubik's cubes and to make a rectangular fresco from 60 to 100 square feet.
+The final product is a 87*33 Rubik's cubes fresco, which is 2871 Rubik's cubes in total. The fresco is 4,872m * 1,848m = 9,00m² or 15,98ft * 6,06ft ≈ 96.83 ft². We respect the requirements of the project, which are to use between 2000 and 3000 Rubik's cubes and to make a rectangular fresco from 60 to 100 square feet.
 
 <img src="../images/finalBig.png" style="">
+freco on the wall 
 
 ### Description
 
@@ -153,11 +154,9 @@ Indeed, the fresco features many of Vierzon's landmarks. From left to right: The
 
 Algosup's Icon dominates the scene as it watches over this transformation, as the main (current) drive of the B3.
 
-<!-- Image + dimension 
-4,872m * 1,904m = 9,28m² 
-15,984ft * 6,247ft ≈ 99.85 ft²
--->
 <!-- before after of the room -->
+Library before:
+
 
 ## Tasks
 
@@ -184,9 +183,9 @@ Once the fresco prototype is complete, you will need to separate the fresco into
 
 <img src="../images/fresco%20copy.png" style="height:200px">
 
-There is a total of 2958 Rubik's cubes, so each will have the responsibility of configuring 370 Rubik's cubes to match their part of the fresco.
+There is a total of 2871 Rubik's cubes, so each will have the responsibility of configuring 359 Rubik's cubes to match their part of the fresco.
 
-2958 / 8 ≈ 370
+2871 / 8 ≈ 359
 
 Each team will be provided:
 
@@ -206,8 +205,8 @@ The grid will be organised as:
 |A  | | |   | | |
 |B  | | |   | | |
 |...| | |   | | |
+|AF | | |   | | |
 |AG | | |   | | |
-|AH | | |   | | |
 
 ### Creation of the fresco
 
