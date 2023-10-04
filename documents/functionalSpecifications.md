@@ -182,7 +182,7 @@ Once the fresco prototype is complete, you will need to separate the fresco into
 
 <img src="../images/fresco%20copy.png" style="height:200px">
 
-There is a total of 2871 Rubik's cubes, so each will have the responsibility of configuring 359 Rubik's cubes to match their part of the fresco.
+There is a total of 2871 Rubik's cubes, so each team will have the responsibility of configuring 359 Rubik's cubes to match their part of the fresco.
 
 2871 / 8 ≈ 359
 

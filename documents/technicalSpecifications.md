@@ -82,6 +82,8 @@ Another problem is the presence of roughness on the wall. It's important to noti
 
 ## Rubik's cubes configuration
 
+To be able to create the fresco, we need to know exactly what every face on the fresco will look, that's why in the [Program](#program) section, we will explain how Laurent created a software that, with an image in entry, return the configuration of the Rubik's cube of your choice.
+
 ## Transport
 
 ## Set up
