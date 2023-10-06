@@ -59,7 +59,7 @@ In alignment with the school's commitment to sharing knowledge, a timelapse vide
 - Utilize software to calculate cube movements for precise positioning;
 - It is permissible to employ a robot or mechanical device to assist in cube rotation.
 
-## What is not the project?
+## What is this project not?
 
 - Break the cube to form the fresco, it must be assembled without damaging it;
 - Paint the cube, it must be returned in its original state;
@@ -108,9 +108,9 @@ Our main issue was the integration of the plugs with the fresco, we had to keep 
 
 Our first idea was to keep the “natural” separation by putting Rubik’s cubes under and above it, but we realised that it was too much of a constraint for the design of the fresco.
 
-We then thought of adding a drawer system so all the cubes would be glued to each other, and removing the ones in front of the plugs would have given access to those electric outlets, but cancelled that idea because it made the access to the library for the cleaning personnel harder.
+We then thought of adding a drawer system so all the cubes would be glued to each other, and removing the ones in front of the plugs would have given access to those electric outlets, but cancelled that idea because it made the access to the library harder for the cleaning personnel.
 
-We had considered adding a shelf right above the plugs so that all the Rubik's cubes could rest on it, but in terms of balance, it wouldn't have been the best solution, and we thus abandoned this idea in favor of a more feasible alternative.
+We considered adding a shelf right above the plugs so that all the Rubik's cubes could rest on it, but in terms of balance, it wouldn't have been the best solution, and we thus abandoned this idea in favor of a more feasible alternative.
 
 We finally thought of using double-sided adhesive in order to stick the cubes to the wall, we thought that it was the simplest and most efficient way to place the cubes.
 
@@ -143,9 +143,7 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 
 The final product is a 87*33 Rubik's cubes fresco, which is 2871 Rubik's cubes in total. The fresco is 4,872m * 1,848m = 9,00m² or 15,98ft * 6,06ft ≈ 96.83 ft². We respect the requirements of the project, which are to use between 2000 and 3000 Rubik's cubes and to make a rectangular fresco from 60 to 100 square feet.
 
-<img src="../images/finalBig.png" style="">
-
-<img src="../images/simulation.png" style="">
+<img src="../images/frescoFinal.png" style="">
 
 ### Description
 
@@ -153,7 +151,10 @@ The final product is a scene depicting students of the new B3 celebrating as the
 
 Indeed, the fresco features many of Vierzon's landmarks. From left to right: The Gaucher-Vincent Ceramic Factory, the iconinc tractor from "La Société Française", Vierzon's heraldic tower, the tree representing the Sologne forest, the two rivers merging (Pays des 5 rivières), which is also a symbol for unity and economic prosperity, the "Maison à Pans", a famous central 19th century house, the Belfry and finally the B3 to the far right and with the most focus (end), as an indication of some sort of chronology. 
 
-Algosup's Icon dominates the scene as it watches over this transformation, as the main (current) drive of the B3.
+Algosup's Brand Name is placed at the top left of the scene.
+
+<img src="../images/simulation.png" style="">
+(Simulation of the fresco in the room)
 
 ## Tasks
 
