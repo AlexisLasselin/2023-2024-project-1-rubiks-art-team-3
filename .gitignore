@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 
 .DS_Store
+
+
+# Specific files
+cube.png
+part.png
+lastest.log
