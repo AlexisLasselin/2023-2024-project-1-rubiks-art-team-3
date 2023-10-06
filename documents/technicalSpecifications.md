@@ -268,8 +268,13 @@ You can find our project on GitHub at the following repository:
 
 ## Security
 
+This solution has to not affect the security of other services, and systems.
+
+The privacy of the users being very important, we decided to not save any kind of data.
+
 ## Trouble shooting
-<!-- if you encounter this do that -->
+<!-- if you encounter this do that -> on the software-->
+In this part of the document, you will find all the problems that we encounter and their solutions.
 
 ## Contact
 
