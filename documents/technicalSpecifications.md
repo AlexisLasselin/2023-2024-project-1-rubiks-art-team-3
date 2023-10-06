@@ -1,18 +1,14 @@
 # Technical Specifications - Team 3
 
 - [Technical Specifications - Team 3](#technical-specifications---team-3)
-  - [Overview](#overview)
-  - [Cubes](#cubes)
-  - [Tools](#tools)
   - [Room configuration](#room-configuration)
     - [Problems](#problems)
-  - [Videos](#videos)
-    - [Timelaspe](#timelaspe)
+  - [Timelaspe](#timelaspe)
   - [Rubik's cubes configuration](#rubiks-cubes-configuration)
   - [Transport](#transport)
   - [Set up](#set-up)
-    - [The library setup](#the-library-setup)
-    - [The fresco set up](#the-fresco-set-up)
+    - [Library setup](#library-setup)
+    - [Fresco set up](#fresco-set-up)
   - [Removal](#removal)
   - [Python Coding Conventions and Best Practices (PEP 8)](#python-coding-conventions-and-best-practices-pep-8)
     - [Code Layout](#code-layout)
@@ -26,42 +22,16 @@
     - [Coding Style](#coding-style)
   - [Software](#software)
     - [Open source](#open-source)
-    - [Licence](#licence)
-    - [Program](#program)
-    - [Programming language](#programming-language)
   - [Code architecture](#code-architecture)
   - [Architecture diagram](#architecture-diagram)
   - [Risks](#risks)
   - [Tests](#tests)
   - [Security](#security)
-  - [Trouble shooting](#trouble-shooting)
   - [Contact](#contact)
   - [Sources](#sources)
   - [Glossary](#glossary)
 
-## Overview
-<!-- link to github PUBLIC -->
-
-## Cubes
-
-- In order to realize our fresco, we have at our disposal 3000 Rubik's cubes of the 3x3x3 model.
-- These cubes are available in 6 colors:
-  - white <span style="color:#ffffff"> (#ffffff)</span>,
-  - red <span style="color:#f8001b"> (#f8001b)</span>,
-  - blue <span style="color:#0070dc"> (#0070dc)</span>,
-  - orange <span style="color:#ff6600"> (#ff6600)</span>,
-  - green <span style="color:#00e37a"> (#00e37a)</span>,
-  - yellow <span style="color:#dcd23c"> (#dcd23c)</span>.
-
-- The dimensions of the cubes are 5.6cm x 5.6cm x 5.6cm, and their weight is 64g.
-
-## Tools
-
-iMovie
 ## Room configuration
-<!-- plan 3D library -->
-<!-- analyze of the wall -->
-<!-- ALEXIS -->
 
 The room is a rectangle of 8.3m of length and 3.8m of width. The wall is 2.5m of height.
 
@@ -71,7 +41,7 @@ According to the following pictures, the fresco will be placed against the white
 
 <img src="../images/northEastView.jpg" alt="northEastView" width="55%"/>
 
-Unfortunately, we didn't have the idea of where put the bookshelves after the fresco installation.
+The size of the fresco is delimited by the tape of the wall.
 
 <img src="../images/IMG_3585.jpg" alt="Fresco location" width="55%"/>
 
@@ -83,9 +53,9 @@ Another problem is the presence of roughness on the wall. It's important to noti
 
 <img src="../images/roughness.jpg" alt="roughness" width="55%"/>
 
-## Videos
+And last but not least, the fact that even inside B3 (outside the library), the upper part of the fresco is barely visible to those looking at it, which is why we had to load the upper part as little as possible, so as to lose as few details as possible, but also to change the contrast between the filled lower part and the empty upper part.
 
-### Timelaspe
+## Timelaspe
 
 To record the timelapse, we will use a GoPro 3 owned by one of our team member. 
 
@@ -97,12 +67,11 @@ The point of this timelapse will be to show to the other groups and keep memory 
 
 The editing of the timelapse will be done with iMovie.
 
-
 ## Rubik's cubes configuration
 
-To be able to create the fresco, we need to know exactly what every face on the fresco will look, that's why in the [Program](#program) section, we will explain how Laurent created a software that, with an image in entry, return the configuration of the Rubik's cube of your choice.
+To create the fresco, we need to know exactly how every face on the fresco will look like, that's why in the [Program](#program) section, we will explain how Laurent created a software that, with an image in input, outputs the configuration of the Rubik's cube of your choice.
 
-
+The Rubik's cubes will be placed on the wall with double-sided tape, the tape will be placed on the corners of the rubik's cubes, making a big grid on the wall. Each tape will stick 4 cubes in one time, reducing the amount of tape used.
 
 ## Transport
 
@@ -110,29 +79,30 @@ The transfer between the project rooms and library will be done in 2 steps, the 
 
 ## Set up
 
-### The library setup
+### Library setup
 
-To prepare the library to the arrive of the Rubik's cubes, a grid will be drawn with pencil on the wall.
+To prepare the library for the Rubik's cubes arrival, a grid will be drawn with a pencil on the wall.
 
 The squares on the grid will have a size of 5.6 x 5.6 cm each, which is the size of a Rubik's cube. On each square, the number of the case will be written to easily find the right place for the Rubik's cubes. 
 
-The same grid should be drawn on the printed fresco to have a reference next to the wanted place.
+The same grid should be drawn on the printed fresco to have a reference for the actual fresco.
 
-### The fresco set up
+### Fresco set up
 
+To 
 
 ## Removal
 
-When the fresco will be removed or changed, it will probably left some tape on the wall. To remove the tape without any damage, the use of a hair dryer will be needed. 
+When the fresco will be removed or changed, it will probably leave some tape or marks on the wall. Removing the tape without damaging the wall will require a hair dryer. 
 
 - Heat the corners and edges of the adhesive to soften the glue,
 - Peel it off using a card or a spatula from the edge,
 - Heat again if it doesn't peel off,
-- If there are some glue left on the wall, use a sponge soaked in saopy water.
+- If there is some glue left on the wall, use a sponge soaked in soapy water.
 
 ## Python Coding Conventions and Best Practices (PEP 8)
 
-Our code will outlines the coding conventions and best practices for writing Python code, in accordance with the Python Enhancement Proposal 8 (PEP 8). Adhering to these guidelines ensures code consistency and readability, making it easier for developers to collaborate on the project.
+Our code will outline the coding conventions and best practices for writing Python code, according to the Python Enhancement Proposal 8 (PEP 8). Following these guidelines ensures code consistency and readability, making it easier for developers to collaborate on the project.
 
 ### Code Layout
 
@@ -200,7 +170,7 @@ def long_function_name(
 
 ### Comments
 
-- Use descriptive variable and function names to minimize the need for comments.
+- Use descriptive variable and function names to minimize the need of comments.
 - Write comments in clear, concise English.
 - Use docstrings to document classes, functions, and modules.
 - Keep comments up to date with the code they describe.
@@ -218,19 +188,24 @@ def long_function_name(
 - Use spaces around operators for clarity.
 - Use parentheses to clarify the order of operations, even if they are not required.
 
-By adhering to these Python coding conventions and best practices as outlined in PEP 8, we can ensure that our code is consistent, readable, and maintainable. This promotes efficient collaboration among developers and enhances the overall quality of our project.
-
-💡 For detailed guidelines and additional recommendations, refer to the full PEP 8 document at [PEP 8, Style Guide for Python Code](https://peps.python.org/pep-0008/).
+For detailed guidelines and additional recommendations, refer to the full PEP 8 document at [PEP 8, Style Guide for Python Code](https://peps.python.org/pep-0008/).
 
 
 ## Software
-<!-- no code in the doc-->
-<!-- program open source -->
-<!-- dependencies -->
-<!-- use of API, open source code,... -->
-<!-- compatibility MacOs Windows -->
 
-<!-- LAURENT -->
+The software that our group want to develop is meant to help people that want to create a Rubik's cubes pixel art reduce their searching time for colors. It will take a full image where total pixels can be divided by 3 and name each 3 by 3 with a grid name (e.g. "G23"). From that point, by selecting the grid name you want to check, the program will return an image of the face that will have to be at this adress on the pixel art. If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the "lastest.log" file.
+
+The software should already have the image's path in the code as it is meant to be used by people with knowledge in software developement.
+
+The software will be written in [Python 3.10.11](https://www.python.org/downloads/release/python-31011/) and will be compatible Windows and MacOs.
+
+As it was decided by the group, the softawre will be open source to allow other people or co-workers to speed-up their work.
+
+To develop this software, we will use libraries that are:
+- Pillow : a library that manage images that will be useful to create the output image or to separate the pixels of the input image.
+- Sys : The sys library is meant to allow the program to return system errors when a problem occurs.
+- Datetime : This library allows the program to get the exact date and time and will serve when an error occurs to return the exact time of the error in the "lastest.log" file.
+- Wxpython : It is a library that is used to render Graphical User Interfaces (GUI). We will use it to make our software more user friendly.
 
 ### Open source
 
@@ -240,41 +215,30 @@ You can find our project on GitHub at the following repository:
 
 [2023-2024-project-1-rubiks-art-team-3](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3)
 
-### Licence
-<!-- LL -->
-
-### Program
-
-### Programming language
-<!-- why this one and the other + version-->
-
 ## Code architecture
 
 ## Architecture diagram
 
 ## Risks
 
--> wall not straight
--> imperfections on the wall
-
-<!-- MATHIS -->
+- Wall not straight -> Use a bubble level to verify -> The wall is a bit inclined but it will works.
+- Imperfections on the wall -> Avoid putting tape on those imperfections.
 
 ## Tests
 <!-- size rubik -->
 <!-- quality assurance of the other groups -->
 <!-- test of the program -->
+<!-- link to the mana doc -->
 
-<!-- MATHIS -->
+To ensure proper functioning of the program, you can find a Test plan on our [GitHub](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main).
+
+To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the ffresco will be set up with all the details.
 
 ## Security
 
-This solution has to not affect the security of other services, and systems.
+This solution must not affect the security of other services, and systems.
 
-The privacy of the users being very important, we decided to not save any kind of data.
-
-## Trouble shooting
-<!-- if you encounter this do that -> on the software-->
-In this part of the document, you will find all the problems that we encounter and their solutions.
+The privacy of the users being very important, we decided to not save any kind of data in our programs.
 
 ## Contact
 
@@ -285,23 +249,22 @@ If you have questions during the project, you can contact the members of the tea
 |Clémentine Curel|clementine.curel@algosup.com|Management|
 |Laura-Lee Hollande|laura-lee.hollande@algosup.com|Management|
 |Mathis Kakal|mathis.kakal@algosup.com|Design|
-|Victor Leroy|victor.leroy@algosup.com|Rubik's cube|
+|Victor Leroy|victor.leroy@algosup.com|Rubik's cubes|
 |Laurent Bouqin|laurent.bouquin@algosup.com|Programs|
-|Alexis Lasselin|alexis.lasselin@algosup.com|Programs, Rubik's cube|
+|Alexis Lasselin|alexis.lasselin@algosup.com|Programs, Rubik's cubes|
 
 ## Sources
-<!-- github link -->
-[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
-[PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
+
+[GitHub project](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main)
 
 ## Glossary
 
-github
-open source
-license
-[PEP](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.) : A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
-[PEP 8 – Style Guide for Python Code](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.) : The primary focus of PEP 8 is to improve the readability and consistency of Python code.
-[PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) : The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.
-[iMovie](https://www.apple.com/fr/imovie/) : iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and share videos. 
-
-<!-- Create a table with "word", "definition" and "source" -->
+|Word|Definition|Source|
+|-|-|-|
+|PEP| A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.|[RealPython](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)|
+|PEP 8|The primary focus of PEP 8 is to improve the readability and consistency of Python code.|[PEP 8 – Style Guide for Python Code](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)|
+|PEP 20|The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.|[PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)|
+|iMovie|iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and share videos. |[iMovie](https://www.apple.com/fr/imovie/)|
+|GitHub|GitHub is a code hosting platform for version control and collaboration.|[GitHub](https://github.com/)|
+|Open source|Open source is source code that is made freely available for possible modification and redistribution.|[Wikipedia](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code,model%20that%20encourages%20open%20collaboration.)|
+|License|||

@@ -144,7 +144,8 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 The final product is a 87*33 Rubik's cubes fresco, which is 2871 Rubik's cubes in total. The fresco is 4,872m * 1,848m = 9,00m² or 15,98ft * 6,06ft ≈ 96.83 ft². We respect the requirements of the project, which are to use between 2000 and 3000 Rubik's cubes and to make a rectangular fresco from 60 to 100 square feet.
 
 <img src="../images/finalBig.png" style="">
-<!-- freco on the wall  -->
+
+<img src="../images/simulation.png" style="">
 
 ### Description
 
@@ -153,9 +154,6 @@ The final product is a scene depicting students of the new B3 celebrating as the
 Indeed, the fresco features many of Vierzon's landmarks. From left to right: The Gaucher-Vincent Ceramic Factory, the iconinc tractor from "La Société Française", Vierzon's heraldic tower, the tree representing the Sologne forest, the two rivers merging (Pays des 5 rivières), which is also a symbol for unity and economic prosperity, the "Maison à Pans", a famous central 19th century house, the Belfry and finally the B3 to the far right and with the most focus (end), as an indication of some sort of chronology. 
 
 Algosup's Icon dominates the scene as it watches over this transformation, as the main (current) drive of the B3.
-
-<!-- before after of the room -->
-
 
 ## Tasks
 
@@ -269,7 +267,14 @@ To carry out the project, these elements are available:
   - Square;
   - 5,6 cm³ (2.205 inches³);
   - 64 grammes (2.25753 ounces);
-  - Red, blue, green, orange, white and yellow.
+  - These cubes have 6 different faces represented by these colours:
+      - white <span style="color:#ffffff"> (#ffffff)</span>,
+      - red <span style="color:#f8001b"> (#f8001b)</span>,
+      - blue <span style="color:#0070dc"> (#0070dc)</span>,
+      - orange <span style="color:#ff6600"> (#ff6600)</span>,
+      - green <span style="color:#00e37a"> (#00e37a)</span>,
+      - yellow <span style="color:#dcd23c"> (#dcd23c)</span>.
+      
 - **60 cm (24 inches) tracer**
 - **Project room**
 <br>
