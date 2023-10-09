@@ -143,7 +143,7 @@ Our first inspiration for this fresco is to tell the story of Vierzon, where the
 
 The final product is a 87*33 Rubik's cubes fresco, which is 2871 Rubik's cubes in total. The fresco is 4,872m * 1,848m = 9,00m² or 15,98ft * 6,06ft ≈ 96.83 ft². We respect the requirements of the project, which are to use between 2000 and 3000 Rubik's cubes and to make a rectangular fresco from 60 to 100 square feet.
 
-<img src="../images/frescoFinal.png" style="">
+<img src="../images/frescoBig.png" style="">
 
 ### Description
 
