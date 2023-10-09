@@ -89,7 +89,15 @@ The same grid should be drawn on the printed fresco to have a reference for the 
 
 ### Fresco set up
 
-To 
+The first step of the fresco set up will be to start from the bottom.
+
+The height groups will have to configure the Rubik's cubes of the line AH and then AG to the top. 
+
+To stick all the Rubik's cubes to the wall double-sided foam tape will be placed at each corner of the Rubik's cubes. The tape should touch 4 Rubik's cubes at the same time. 
+
+It should not have any tape in the middle of the Rubik's cubes because the middle face is magnetic.
+
+There are some imperfections on the wall to avoid having a Rubik's cube not align with the others, the tape should not be placed on these imperfections.
 
 ## Removal
 
@@ -267,4 +275,4 @@ If you have questions during the project, you can contact the members of the tea
 |iMovie|iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and share videos. |[iMovie](https://www.apple.com/fr/imovie/)|
 |GitHub|GitHub is a code hosting platform for version control and collaboration.|[GitHub](https://github.com/)|
 |Open source|Open source is source code that is made freely available for possible modification and redistribution.|[Wikipedia](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code,model%20that%20encourages%20open%20collaboration.)|
-|License|||
+|License|A software license tells others what they can and can't do with your source code, so it's important to make an informed decision.|[License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)|

@@ -4,7 +4,7 @@
   - [Overview](#overview)
   - [Project Scope](#project-scope)
   - [What is the project?](#what-is-the-project)
-  - [What is not the project?](#what-is-not-the-project)
+  - [What is this project not?](#what-is-this-project-not)
   - [Personas](#personas)
     - [Persona 1](#persona-1)
     - [Persona 2](#persona-2)
@@ -196,7 +196,7 @@ Each team will be provided:
 The grid will be organised as:
 
 - Columns -> Numbers from 1 to 87
-- Rows -> Letters from A to AH
+- Rows -> Letters from A to AG
 
 |   |1|2|...|86|87|
 |---|-|-|---|--|--|
