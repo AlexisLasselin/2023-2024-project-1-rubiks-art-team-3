@@ -34,7 +34,7 @@
 
 ## Overview
 
-ALGOSUP invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white.
+ALGOSUP invites proposals for the creation of a unique and visually stunning fresco. This 5-weeks project aims to transform a 60-100 square feet space into a permanent masterpiece made entirely of Rubik's cubes. Each cube will function as a 3x3 pixel matrix, with each facet representing a pixel in one of six colors: green, yellow, red, orange, blue, or white. The original 3x3x3 Rubik's cube has 43 252 003 274 489 856 000 combinations, or 43 quintillion. Knowing this, you can make any combinations on one side.
 
 This fresco will become a permanent feature of ALGOSUP's school, it will be housed in the library and visible from the outside.
 
@@ -116,8 +116,6 @@ We finally thought of using double-sided adhesive in order to stick the cubes to
 
 ## Fresco
 
-<!-- Mathis -->
-
 ### The inspirations
 
 Our first inspiration for this fresco is to tell the story of Vierzon, where the ALGOSUP's european campus is. The second one is to calm the mind of the people rejecting the technological evolution of the city by showing them the past is still a part of the city.
@@ -155,6 +153,11 @@ Algosup's Brand Name is placed at the top left of the scene.
 
 <img src="../images/simulation.png" style="">
 (Simulation of the fresco in the room)
+
+<img src="../images/libFresco.jpg" style="">
+(Printed fresco in the room)
+
+To validate our fresco, we met a person working at the Vierzon tourist office, who validated the resemblance of the elements of our fresco with the monuments as well as her enthusiasm for our fresco.
 
 ## Tasks
 
@@ -243,6 +246,8 @@ The pieces of tape will be added to the wall during the draw of the grid, so dur
 To ensure the success of our mural project, we have opted for a specific project management approach. Eight teams of 5 or 6 individuals each will be deployed for a period of 3 weeks, from 3-10-23 to 26-10-23, to work on the creation of our mural. The overall project will be overseen by our core team, who will not only supervise but also assist the other teams in the mural's creation.
 
 The mural will be divided into 8 equal parts, which will be allocated to each team. These teams will have the freedom to choose how they want to manage their internal processes and whether or not to use software to assemble the Rubik's cubes. The only requirement we will impose is to number each cube from 1 to X once assembled to facilitate the final assembly.
+
+<img src="../images/frescoGrid.jpeg" style="height:200px">
 
 In addition to daily monitoring, we will conduct weekly meetings with each group to assess the progress of each section and track Key Performance Indicators (KPIs). Depending on the progress of each team, we will determine each week whether it is necessary to deploy more people to a particular section of the mural.
 
@@ -419,7 +424,7 @@ All the documents should be delivered as pdf.
 |Laura-Lee Hollande|<img src="../images/Laura-LeeHOLLANDE.jpg" style="height:100px">|laura-lee.hollande@algosup.com|
 |Mathis Kakal|<img src="../images/MathisKAKAL.jpg" style="height:100px">|mathis.kakal@algosup.com|
 |Victor Leroy|<img src="../images/VictorLEROY.jpg" style="height:100px">|victor.leroy@algosup.com|
-|Laurent Bouqin|<img src="../images/LaurentBOUQUIN.jpg" style="height:100px">|laurent.bouquin@algosup.com|
+|Laurent Bouquin|<img src="../images/LaurentBOUQUIN.jpg" style="height:100px">|laurent.bouquin@algosup.com|
 |Alexis Lasselin|<img src="../images/AlexisLASSELIN.jpg" style="height:100px">|alexis.lasselin@algosup.com|
 
 <br>

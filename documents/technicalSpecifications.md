@@ -99,6 +99,8 @@ It should not have any tape in the middle of the Rubik's cubes because the middl
 
 There are some imperfections on the wall to avoid having a Rubik's cube not align with the others, the tape should not be placed on these imperfections.
 
+<img src="../images/frescoGrid.jpeg" style="height:200px">
+
 ## Removal
 
 When the fresco will be removed or changed, it will probably leave some tape or marks on the wall. Removing the tape without damaging the wall will require a hair dryer. 
