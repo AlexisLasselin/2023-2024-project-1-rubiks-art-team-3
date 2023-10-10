@@ -33,7 +33,7 @@
 
 ## Room configuration
 
-The room is a rectangle of 8.3m of length and 3.8m of width. The wall is 2.5m of height.
+The room is a rectangle of 8.3m in length and 3.8m in width. The wall is 2.5m in height.
 
 According to the following pictures, the fresco will be placed against the white wall to be seen from the outside, or at least from the entrance of the building.
 
@@ -53,23 +53,23 @@ Another problem is the presence of roughness on the wall. It's important to noti
 
 <img src="../images/roughness.jpg" alt="roughness" width="55%"/>
 
-And last but not least, the fact that even inside B3 (outside the library), the upper part of the fresco is barely visible to those looking at it, which is why we had to load the upper part as little as possible, so as to lose as few details as possible, but also to change the contrast between the filled lower part and the empty upper part.
+And last but not least, the fact that even inside the B3 (outside the library), the upper part of the fresco is barely visible to those looking at it, which is why we had to load the upper part as little as possible, so as to lose as few details as possible, but also to change the contrast between the filled lower part and the empty upper part.
 
 ## Timelaspe
 
-To record the timelapse, we will use a GoPro 3 owned by one of our team member. 
+To record the timelapse, we will use a GoPro 3 owned by one of our team member.
 
-The timelapse record will last for around 2 weeks. Starting when the final fresco will be selected, and will last until the fresco is finished.
+The timelapse record will last all the project. Starting from our first project hour, and will last until the fresco is finished.
 
-We will be recording the different groups building the fresco, with their agreement, we could also record them doing the Rubik's cubes in their rooms, then follow them transporting the cubes to the library. 
+We will be recording the different groups building the fresco, with their agreement, we could also record them doing the Rubik's cubes in their rooms, then follow them transporting the cubes to the library.
 
-The point of this timelapse will be to show to the other groups and keep memory of what we built, it will also be an interesting communication point for the school on social medias. 
+The point of this timelapse will be to show to the other groups and keep memory of what we built, it will also be an interesting communication point for the school on social medias.
 
 The editing of the timelapse will be done with iMovie.
 
 ## Rubik's cubes configuration
 
-To create the fresco, we need to know exactly how every face on the fresco will look like, that's why in the [Program](#program) section, we will explain how Laurent created a software that, with an image in input, outputs the configuration of the Rubik's cube of your choice.
+To create the fresco, we need to know exactly how every face on the fresco will look like, that's why in the [Software](#software) section, we will explain how we created a software that, with an image in input, outputs the configuration of the Rubik's cube of your choice.
 
 The Rubik's cubes will be placed on the wall with double-sided tape, the tape will be placed on the corners of the rubik's cubes, making a big grid on the wall. Each tape will stick 4 cubes in one time, reducing the amount of tape used.
 
@@ -83,7 +83,7 @@ The transfer between the project rooms and library will be done in 2 steps, the 
 
 To prepare the library for the Rubik's cubes arrival, a grid will be drawn with a pencil on the wall.
 
-The squares on the grid will have a size of 5.6 x 5.6 cm each, which is the size of a Rubik's cube. On each square, the number of the case will be written to easily find the right place for the Rubik's cubes. 
+The squares on the grid will have a size of 5.6 x 5.6 cm each, which is the size of a Rubik's cube. On each square, the number of the case will be written to easily find the right place for the Rubik's cubes.
 
 The same grid should be drawn on the printed fresco to have a reference for the actual fresco.
 
@@ -91,9 +91,9 @@ The same grid should be drawn on the printed fresco to have a reference for the 
 
 The first step of the fresco set up will be to start from the bottom.
 
-The height groups will have to configure the Rubik's cubes of the line AH and then AG to the top. 
+The eight groups will have to configure the Rubik's cubes of the line AG and then AF to the top.
 
-To stick all the Rubik's cubes to the wall double-sided foam tape will be placed at each corner of the Rubik's cubes. The tape should touch 4 Rubik's cubes at the same time. 
+To stick all the Rubik's cubes to the wall double-sided foam tape will be placed at each corner of the Rubik's cubes. The tape should touch 4 Rubik's cubes at the same time.
 
 It should not have any tape in the middle of the Rubik's cubes because the middle face is magnetic.
 
@@ -103,7 +103,7 @@ There are some imperfections on the wall to avoid having a Rubik's cube not alig
 
 ## Removal
 
-When the fresco will be removed or changed, it will probably leave some tape or marks on the wall. Removing the tape without damaging the wall will require a hair dryer. 
+When the fresco will be removed or changed, it will probably leave some tape or marks on the wall. Removing the tape without damaging the wall will require a hair dryer.
 
 - Heat the corners and edges of the adhesive to soften the glue,
 - Peel it off using a card or a spatula from the edge,
@@ -200,7 +200,6 @@ def long_function_name(
 
 For detailed guidelines and additional recommendations, refer to the full PEP 8 document at [PEP 8, Style Guide for Python Code](https://peps.python.org/pep-0008/).
 
-
 ## Software
 
 The software that our group want to develop is meant to help people that want to create a Rubik's cubes pixel art reduce their searching time for colors. It will take a full image where total pixels can be divided by 3 and name each 3 by 3 with a grid name (e.g. "G23"). From that point, by selecting the grid name you want to check, the program will return an image of the face that will have to be at this address on the pixel art. If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the "lastest.log" file.
@@ -215,6 +214,7 @@ The software will be written in [Python 3.10.11](https://www.python.org/download
 As it was decided by the group, the software will be open source to allow other people or co-workers to speed-up their work.
 
 To develop this software, we will use libraries that are:
+
 - Pillow : a library that manage images that will be useful to create the output image or to separate the pixels of the input image.
 - Sys : The sys library is meant to allow the program to return system errors when a problem occurs.
 - Datetime : This library allows the program to get the exact date and time and will serve when an error occurs to return the exact time of the error in the "lastest.log" file.
@@ -247,7 +247,7 @@ You can find our project on GitHub at the following repository:
 - Wall not straight -> Use a bubble level to verify -> The wall is a bit inclined but it will works.
 - Imperfections on the wall -> Avoid putting tape on those imperfections.
   
-Another risk to take in account is the total weight of the fresco on the wall, the fresco is composed of 2958 cubes, each one is 64 grams. It means that the total weight on the wall is 189312 grams, which is 189.312 kg. The wall is, on the paper, able to support 200 kg, but we don't know if it's true. To avoid any problem, we will put the fresco on the wall line by line, and we will check if the wall is not damaged by the weight of the fresco.
+Another risk to take in account is the total weight of the fresco on the wall, the fresco is composed of 2871 cubes, each one is 64 grams. It means that the total weight on the wall is 183744 grams, which is 183.744 kg. The wall is, on the paper, able to support 200 kg, but we don't know if it's true. To avoid any problem, we will put the fresco on the wall line by line, and we will check if the wall is not damaged by the weight of the fresco.
 
 ## Tests
 <!-- size rubik -->
@@ -293,3 +293,4 @@ If you have questions during the project, you can contact the members of the tea
 |GitHub|GitHub is a code hosting platform for version control and collaboration.|[GitHub](https://github.com/)|
 |Open source|Open source is source code that is made freely available for possible modification and redistribution.|[Wikipedia](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code,model%20that%20encourages%20open%20collaboration.)|
 |License|A software license tells others what they can and can't do with your source code, so it's important to make an informed decision.|[License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)|
+|Timelaspe|A timelapse is a video that is usually played at a higher speed than normal, allowing the viewer to see processes that take a long time in a short period of time.|[Wikipedia](https://en.wikipedia.org/wiki/Time-lapse_photography)|
