@@ -1,35 +1,35 @@
 # Technical Specifications - Team 3
 
 - [Technical Specifications - Team 3](#technical-specifications---team-3)
-  - [Room configuration](#room-configuration)
-    - [Problems](#problems)
-  - [Timelaspe](#timelaspe)
-  - [Rubik's cubes configuration](#rubiks-cubes-configuration)
-  - [Transport](#transport)
-  - [Set up](#set-up)
-    - [Library setup](#library-setup)
-    - [Fresco set up](#fresco-set-up)
-  - [Removal](#removal)
-  - [Python Coding Conventions and Best Practices (PEP 8)](#python-coding-conventions-and-best-practices-pep-8)
-    - [Code Layout](#code-layout)
-      - [Indentation](#indentation)
-      - [Maximum Line Length](#maximum-line-length)
-      - [Imports](#imports)
-    - [Whitespace](#whitespace)
-    - [Naming Conventions](#naming-conventions)
-    - [Comments](#comments)
-    - [Function and Method Signatures](#function-and-method-signatures)
-    - [Coding Style](#coding-style)
-  - [Software](#software)
-    - [Open source](#open-source)
-  - [Code architecture](#code-architecture)
-  - [Architecture diagram](#architecture-diagram)
-  - [Risks](#risks)
-  - [Tests](#tests)
-  - [Security](#security)
-  - [Contact](#contact)
-  - [Sources](#sources)
-  - [Glossary](#glossary)
+	- [Room configuration](#room-configuration)
+		- [Problems](#problems)
+	- [Timelaspe](#timelaspe)
+	- [Rubik's cubes configuration](#rubiks-cubes-configuration)
+	- [Transport](#transport)
+	- [Set up](#set-up)
+		- [Library setup](#library-setup)
+		- [Fresco set up](#fresco-set-up)
+	- [Removal](#removal)
+	- [Python Coding Conventions and Best Practices (PEP 8)](#python-coding-conventions-and-best-practices-pep-8)
+		- [Code Layout](#code-layout)
+			- [Indentation](#indentation)
+			- [Maximum Line Length](#maximum-line-length)
+			- [Imports](#imports)
+		- [Whitespace](#whitespace)
+		- [Naming Conventions](#naming-conventions)
+		- [Comments](#comments)
+		- [Function and Method Signatures](#function-and-method-signatures)
+		- [Coding Style](#coding-style)
+	- [Software](#software)
+		- [Open source](#open-source)
+	- [File structure](#file-structure)
+	- [Architecture diagram](#architecture-diagram)
+	- [Risks](#risks)
+	- [Tests](#tests)
+	- [Security](#security)
+	- [Contact](#contact)
+	- [Sources](#sources)
+	- [Glossary](#glossary)
 
 ## Room configuration
 
@@ -182,7 +182,7 @@ def long_function_name(
 
 - Use descriptive variable and function names to minimize the need of comments.
 - Write comments in clear, concise English.
-- Use docstrings to document classes, functions, and modules.
+- Use docstring to document classes, functions, and modules.
 - Keep comments up to date with the code they describe.
 
 ### Function and Method Signatures
@@ -203,13 +203,16 @@ For detailed guidelines and additional recommendations, refer to the full PEP 8 
 
 ## Software
 
-The software that our group want to develop is meant to help people that want to create a Rubik's cubes pixel art reduce their searching time for colors. It will take a full image where total pixels can be divided by 3 and name each 3 by 3 with a grid name (e.g. "G23"). From that point, by selecting the grid name you want to check, the program will return an image of the face that will have to be at this adress on the pixel art. If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the "lastest.log" file.
+The software that our group want to develop is meant to help people that want to create a Rubik's cubes pixel art reduce their searching time for colors. It will take a full image where total pixels can be divided by 3 and name each 3 by 3 with a grid name (e.g. "G23"). From that point, by selecting the grid name you want to check, the program will return an image of the face that will have to be at this address on the pixel art. If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the "lastest.log" file.
 
-The software should already have the image's path in the code as it is meant to be used by people with knowledge in software developement.
+The software should already have the image's path in the code as it is meant to be used by people with knowledge in software development.
+
+The software should save the output image in the same folder as the input image and should be named "cube.png".
+If a "cube.png" file already exists, it should be replaced by the new one.
 
 The software will be written in [Python 3.10.11](https://www.python.org/downloads/release/python-31011/) and will be compatible Windows and MacOs.
 
-As it was decided by the group, the softawre will be open source to allow other people or co-workers to speed-up their work.
+As it was decided by the group, the software will be open source to allow other people or co-workers to speed-up their work.
 
 To develop this software, we will use libraries that are:
 - Pillow : a library that manage images that will be useful to create the output image or to separate the pixels of the input image.
@@ -219,15 +222,25 @@ To develop this software, we will use libraries that are:
 
 ### Open source
 
-We use an open source software developped by a team's member.
+We use an open source software developed by a team's member.
 
 You can find our project on GitHub at the following repository:
 
 [2023-2024-project-1-rubiks-art-team-3](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3)
 
-## Code architecture
+## File structure
+
+	project-1-rubiks-art-team-3/
+	└── Code/
+		├── rubik.py
+		├── Image.png
+		├── cube.png
+		├── part.png
+		└── lastest.log
 
 ## Architecture diagram
+
+<img src="../images/Architecture diagram.png" alt="architectureDiagram"/>
 
 ## Risks
 
@@ -242,7 +255,7 @@ You can find our project on GitHub at the following repository:
 
 To ensure proper functioning of the program, you can find a Test plan on our [GitHub](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main).
 
-To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the ffresco will be set up with all the details.
+To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the fresco will be set up with all the details.
 
 ## Security
 
@@ -260,7 +273,7 @@ If you have questions during the project, you can contact the members of the tea
 |Laura-Lee Hollande|laura-lee.hollande@algosup.com|Management|
 |Mathis Kakal|mathis.kakal@algosup.com|Design|
 |Victor Leroy|victor.leroy@algosup.com|Rubik's cubes|
-|Laurent Bouqin|laurent.bouquin@algosup.com|Programs|
+|Laurent Bouquin|laurent.bouquin@algosup.com|Programs|
 |Alexis Lasselin|alexis.lasselin@algosup.com|Programs, Rubik's cubes|
 
 ## Sources
