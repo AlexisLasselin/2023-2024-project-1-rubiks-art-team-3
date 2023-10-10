@@ -246,6 +246,8 @@ You can find our project on GitHub at the following repository:
 
 - Wall not straight -> Use a bubble level to verify -> The wall is a bit inclined but it will works.
 - Imperfections on the wall -> Avoid putting tape on those imperfections.
+  
+Another risk to take in account is the total weight of the fresco on the wall, the fresco is composed of 2958 cubes, each one is 64 grams. It means that the total weight on the wall is 189312 grams, which is 189.312 kg. The wall is, on the paper, able to support 200 kg, but we don't know if it's true. To avoid any problem, we will put the fresco on the wall line by line, and we will check if the wall is not damaged by the weight of the fresco.
 
 ## Tests
 <!-- size rubik -->
