@@ -101,6 +101,9 @@ There are some imperfections on the wall to avoid having a Rubik's cube not alig
 
 <img src="../images/frescoGrid.jpeg" style="height:200px">
 
+We chose not to use any glass or plexiglass to avoid reflections from the outside. This choice also reduces the weight of the wall.
+On a more practical note, the use of scotch tape makes it easy to adapt or change the fresco.
+
 ## Removal
 
 When the fresco will be removed or changed, it will probably leave some tape or marks on the wall. Removing the tape without damaging the wall will require a hair dryer.
