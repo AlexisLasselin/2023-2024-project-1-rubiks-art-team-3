@@ -21,6 +21,7 @@
 		- [Function and Method Signatures](#function-and-method-signatures)
 		- [Coding Style](#coding-style)
 	- [Software](#software)
+		- [Librairies](#librairies)
 		- [Open source](#open-source)
 	- [File structure](#file-structure)
 	- [Architecture diagram](#architecture-diagram)
@@ -216,12 +217,14 @@ The software will be written in [Python 3.10.11](https://www.python.org/download
 
 As it was decided by the group, the software will be open source to allow other people or co-workers to speed-up their work.
 
+### Librairies
+
 To develop this software, we will use libraries that are:
 
-- Pillow : a library that manage images that will be useful to create the output image or to separate the pixels of the input image.
-- Sys : The sys library is meant to allow the program to return system errors when a problem occurs.
-- Datetime : This library allows the program to get the exact date and time and will serve when an error occurs to return the exact time of the error in the "lastest.log" file.
-- Wxpython : It is a library that is used to render Graphical User Interfaces (GUI). We will use it to make our software more user friendly.
+- [Pillow version 10.0.1](https://pypi.org/project/Pillow/): a library that manage images that will be useful to create the output image or to separate the pixels of the input image.
+- [Sys version](https://docs.python.org/3.12/library/sys.html): The sys library is meant to allow the program to return system errors when a problem occurs.
+- [Datetime version 5.2](https://pypi.org/project/DateTime/): This library allows the program to get the exact date and time and will serve when an error occurs to return the exact time of the error in the "lastest.log" file.
+- [Wxpython version 4.2.1](https://wxpython.org/pages/downloads/index.html): It is a library that is used to render Graphical User Interfaces (GUI). We will use it to make our software more user friendly.
 
 ### Open source
 
