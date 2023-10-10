@@ -1,14 +1,15 @@
 # Technical Specifications - Team 3
 
 - [Technical Specifications - Team 3](#technical-specifications---team-3)
-	- [Room configuration](#room-configuration)
+	- [Room Configuration](#room-configuration)
 		- [Problems](#problems)
 	- [Timelaspe](#timelaspe)
-	- [Rubik's cubes configuration](#rubiks-cubes-configuration)
+	- [Rubik's Cubes Configuration](#rubiks-cubes-configuration)
 	- [Transport](#transport)
-	- [Set up](#set-up)
-		- [Library setup](#library-setup)
-		- [Fresco set up](#fresco-set-up)
+	- [Set Up](#set-up)
+		- [Managment Strategy](#managment-strategy)
+		- [Library Setup](#library-setup)
+		- [Fresco Set Up](#fresco-set-up)
 	- [Removal](#removal)
 	- [Python Coding Conventions and Best Practices (PEP 8)](#python-coding-conventions-and-best-practices-pep-8)
 		- [Code Layout](#code-layout)
@@ -37,9 +38,9 @@
 		- [Limitations](#limitations)
 		- [System Requirements](#system-requirements)
 		- [Librairies](#librairies)
-		- [Open source](#open-source)
+		- [Open Source](#open-source)
 	- [File structure](#file-structure)
-	- [Architecture diagram](#architecture-diagram)
+	- [Architecture Diagram](#architecture-diagram)
 	- [Risks](#risks)
 	- [Tests](#tests)
 	- [Security](#security)
@@ -47,7 +48,7 @@
 	- [Sources](#sources)
 	- [Glossary](#glossary)
 
-## Room configuration
+## Room Configuration
 
 The room is a rectangle of 8.3m in length and 3.8m in width. The wall is 2.5m in height.
 
@@ -83,7 +84,7 @@ The point of this timelapse will be to show to the other groups and keep memory 
 
 The editing of the timelapse will be done with iMovie.
 
-## Rubik's cubes configuration
+## Rubik's Cubes Configuration
 
 To create the fresco, we need to know exactly how every face on the fresco will look like, that's why in the [Software](#software) section, we will explain how we created a software that, with an image in input, outputs the configuration of the Rubik's cube of your choice.
 
@@ -93,9 +94,13 @@ The Rubik's cubes will be placed on the wall with double-sided tape, the tape wi
 
 The transfer between the project rooms and library will be done in 2 steps, the first one consisting on writing the coordinates of the place where the cube should be on the fresco with a pencil, in order to simplify the process if a cube is lost during the transport, it will be written on the opposite cube face of the one exposed in the fresco. The second step will be to take a cardboard to bring the cubes in the library.
 
-## Set up
+## Set Up
 
-### Library setup
+### Managment Strategy
+
+Our management strategy can be found in the [teamManagement.md](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/blob/main/documents/teamManagement.md) document on our GitHub.
+
+### Library Setup
 
 To prepare the library for the Rubik's cubes arrival, a grid will be drawn with a pencil on the wall.
 
@@ -103,7 +108,7 @@ The squares on the grid will have a size of 5.6 x 5.6 cm each, which is the size
 
 The same grid should be drawn on the printed fresco to have a reference for the actual fresco.
 
-### Fresco set up
+### Fresco Set Up
 
 The first step of the fresco set up will be to start from the bottom.
 
@@ -120,6 +125,8 @@ There are some imperfections on the wall to avoid having a Rubik's cube not alig
 We chose not to use any glass or plexiglass to avoid reflections from the outside. This choice also reduces the weight of the wall.
 On a more practical note, the use of scotch tape makes it easy to adapt or change the fresco.
 
+<img src="../images/tapeMockup.png" style="height:200px">
+
 ## Removal
 
 When the fresco will be removed or changed, it will probably leave some tape or marks on the wall. Removing the tape without damaging the wall will require a hair dryer.
@@ -128,6 +135,8 @@ When the fresco will be removed or changed, it will probably leave some tape or 
 - Peel it off using a card or a spatula from the edge,
 - Heat again if it doesn't peel off,
 - If there is some glue left on the wall, use a sponge soaked in soapy water.
+
+<br>
 
 ## Python Coding Conventions and Best Practices (PEP 8)
 
@@ -176,6 +185,8 @@ def long_function_name(
 
 - Limit lines to a maximum of 79 characters for code and comments.
 - For long lines, break lines at a suitable point and continue on the next line with a 4-space indentation.
+  
+<br>
 
 #### Imports
 
@@ -212,7 +223,7 @@ def long_function_name(
 
 ### Coding Style
 
-- Follow the [Zen of Python (PEP 20)](https://peps.python.org/pep-0020/) principles.
+- Follow the [Zen of Python (PEP |PEP 20)](https://peps.python.org/pep-0020/) principles.
 - Be consistent with your code style throughout the project.
 - Use spaces around operators for clarity.
 - Use parentheses to clarify the order of operations, even if they are not required.
@@ -229,13 +240,11 @@ It will develop in Python and relie on several libraries for image processing an
 
 ### Purpose
 
-The primary purpose of the Rubik's Cube Fresco Creation Tool is to convert an input image into a mosaic pattern that can be recreated on a Rubik's cube. Users can select a specific Rubik's cube face (e.g. G23) and generate the corresponding pattern for that face.
-
+The primary purpose of the Rubik's Cube Fresco Creation Tool is to convert an input image into a mosaic pattern that can be recreated on a Rubik's cube.
+Users can select a specific Rubik's cube face (e.g. G23) and generate the corresponding pattern for that face.
 The software should save the output image in the same folder as the input image and should be named `cube.png`.
 If a `cube.png` file already exists, it should be replaced by the new one.
-
 By selecting the grid name you want to check, the program will return an image of the face that will have to be at this address on the pixel art.
-
 If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the `lastest.log` file.
 
 ### Key features
@@ -310,7 +319,7 @@ To develop this software, we will use libraries that are:
 - [Datetime](https://pypi.org/project/DateTime/) version 5.2: This library allows the program to get the exact date and time and will serve when an error occurs to return the exact time of the error in the "lastest.log" file.
 - [Wxpython](https://wxpython.org/pages/downloads/index.html) version 4.2.1: It is a library that is used to render Graphical User Interfaces (GUI). We will use it to make our software more user friendly.
 
-### Open source
+### Open Source
 
 We use an open source software developed by a team's member.
 
@@ -326,30 +335,35 @@ You can find our project on GitHub at the following repository: [2023-2024-proje
 		├── part.png
 		└── lastest.log
 
-## Architecture diagram
+## Architecture Diagram
 
-<img src="../images/Architecture diagram.png" alt="architectureDiagram"/>
+<img src="../images/Architecture diagram.png" alt="architectureDiagram" width="75%"/>
 
 ## Risks
 
 - Wall not straight -> Use a bubble level to verify -> The wall is a bit inclined but it will works.
   
-|Another risk to take in account is the total weight of the fresco on the wall, the fresco is composed of 2871 cubes, each one is 64 grams. It means that the total weight on the wall is 183744 grams, which is 183.744 kg. The wall is, on the paper, able to support 200 kg, but we don't know if it's true. To avoid any problem, we will put the fresco on the wall line by line, and we will check if the wall is not damaged by the weight of the fresco.
+- Imperfections on the wall -> Avoid putting tape on those imperfections.
+  
+Another risk to take in account is the total weight of the fresco on the wall, the fresco is composed of 2871 cubes, each one is 64 grams. It means that the total weight on the wall is 183744 grams, which is 183.744 kg. The wall is, on the paper, able to support 200 kg, but we don't know if it's true. To avoid any problem, we will put the fresco on the wall line by line, and we will check if the wall is not damaged by the weight of the fresco.
 
 ## Tests
 <!-- size rubik -->
 <!-- The graphical user interface, or GUI (/ˌdʒiːjuːˈaɪ/ JEE-yoo-EYE[citation needed] or /ˈɡuːi/[1][2] GOO-ee), is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators such as primary notationquality assurance of the other groups -->
 <!-- test of the program -->
 <!-- link to the mana doc -->
-To ensure the proper functioning of the program, you can find a Test plan on our [GitHub](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main)
 
-/<!-- To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the fresco will be set up with all the details. -->
+You can find a Test plan on our [GitHub](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main)
+
+<!-- To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the fresco will be set up with all the details. -->
 
 ## Security
 
 This solution must not affect the security of other services, and systems.
 
 The privacy of the users being very important, we decided to not save any kind of data in our programs.
+
+<br>
 
 ## Contact
 
@@ -368,16 +382,45 @@ If you have questions during the project, you can contact the members of the tea
 
 [GitHub project](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main)
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Glossary
 
 |Word|Definition|Source|
 |-|-|-|
 |PEP| A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.|[RealPython](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)|
 |PEP 8|The primary focus of PEP 8 is to improve the readability and consistency of Python code.|[PEP 8 – Style Guide for Python Code](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)|
-|GUI|The graphical user interface, or GUI, is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators such as primary notation, instead of text-based UIs, typed command labels or text navigation.| [Wikipedia](https://en.wikipedia.org/wiki/Graphical_user_interface) | (edited)
-20|The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.|[PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)|
-|GUI||iMovie|iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and|GitHub|GitHub is a code hosting platform for version control and collaboration.|[GitHub](https://github.com/)|
-
+|GUI|The graphical user interface, or GUI, is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators such as primary notation, instead of text-based UIs, typed command labels or text navigation.| [Wikipedia](https://en.wikipedia.org/wiki/Graphical_user_interface) |
+|PEP 20|The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.|[PEP |PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)|
+|iMovie|iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and|GitHub|GitHub is a code hosting platform for version control and collaboration.|[GitHub](https://github.com/)|
+Input/output|he communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.| [Wikipedia](https://en.wikipedia.org/wiki/Input/output) |
 |Open source|Open source is source code that is made freely available for possible modification and redistribution.|[Wikipedia](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code,model%20that%20encourages%20open%20collaboration.)|
 |License|A software license tells others what they can and can't do with your source code, so it's important to make an informed decision.|[License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)|
 |Timelaspe|A timelapse is a video that is usually played at a higher speed than normal, allowing the viewer to see processes that take a long time in a short period of time.|[Wikipedia](https://en.wikipedia.org/wiki/Time-lapse_photography)|
+|Operating system|a program that acts as an interface between the computer user and computer hardware, and controls the execution of programs| [University of Wollongong](https://www.uow.edu.au/student/learning-co-op/technology-and-software/operating-systems/#:~:text=An%20operating%20system%20is%20a,controls%20the%20execution%20of%20programs.) |
