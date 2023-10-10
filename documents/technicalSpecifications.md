@@ -21,6 +21,21 @@
 		- [Function and Method Signatures](#function-and-method-signatures)
 		- [Coding Style](#coding-style)
 	- [Software](#software)
+		- [Purpose](#purpose)
+		- [Key features](#key-features)
+			- [Image Analysis](#image-analysis)
+			- [Pixel-to-Cube Mapping](#pixel-to-cube-mapping)
+			- [Visualization](#visualization)
+			- [Graphical User Interface (GUI)](#graphical-user-interface-gui)
+			- [Color Selection](#color-selection)
+		- [Usage](#usage)
+			- [Image Input](#image-input)
+			- [Face Selection](#face-selection)
+			- [Color Customization](#color-customization)
+			- [Mosaic Generation](#mosaic-generation)
+			- [Display](#display)
+		- [Limitations](#limitations)
+		- [System Requirements](#system-requirements)
 		- [Librairies](#librairies)
 		- [Open source](#open-source)
 	- [File structure](#file-structure)
@@ -206,14 +221,83 @@ For detailed guidelines and additional recommendations, refer to the full PEP 8 
 
 ## Software
 
-The software that our group want to develop is meant to help people that want to create a Rubik's cubes pixel art reduce their searching time for colors. It will take a full image where total pixels can be divided by 3 and name each 3 by 3 with a grid name (e.g. "G23"). From that point, by selecting the grid name you want to check, the program will return an image of the face that will have to be at this address on the pixel art. If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the "lastest.log" file.
+The project aims to develop a Python-based tool to simplify the creation of Rubik's Cube frescoes. The tool will analyze an input image, identifie the color information for each cube on the Rubik's Cube, and generate the corresponding output image.
 
-The software should already have the image's path in the code as it is meant to be used by people with knowledge in software development.
+This solution will be open source and designed to be compatible with both macOS and Windows operating systems.
 
-The software should save the output image in the same folder as the input image and should be named "cube.png".
-If a "cube.png" file already exists, it should be replaced by the new one.
+It will develop in Python and relie on several libraries for image processing and graphical user interfaces.
 
-The software will be written in [Python 3.10.11](https://www.python.org/downloads/release/python-31011/) and will be compatible Windows and MacOs.
+### Purpose
+
+The primary purpose of the Rubik's Cube Fresco Creation Tool is to convert an input image into a mosaic pattern that can be recreated on a Rubik's cube. Users can select a specific Rubik's cube face (e.g. G23) and generate the corresponding pattern for that face.
+
+The software should save the output image in the same folder as the input image and should be named `cube.png`.
+If a `cube.png` file already exists, it should be replaced by the new one.
+
+By selecting the grid name you want to check, the program will return an image of the face that will have to be at this address on the pixel art.
+
+If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the `lastest.log` file.
+
+### Key features
+
+#### Image Analysis
+
+The tool will support input images in various formats, and it can analyze the color of each pixel in the image.
+Need to check if the image dimensions are suitable for creating a Rubik's cube mosaic (i.e., divisible by 3).
+
+#### Pixel-to-Cube Mapping
+
+The tool will map each pixel in the input image to the corresponding location on the Rubik's cube face based on the user's selection.
+Users can specify the target Rubik's cube face using classic formats such as A1, B2, or C3.
+
+#### Visualization
+
+The software will provide a visual representation of the mosaic for the selected cube face.
+It generates a new image with the Rubik's cube colors and can rotate it to align with the cube's orientation.
+
+#### Graphical User Interface (GUI)
+
+The tool need to include a user-friendly GUI that will allow users to input their preferences and view the resulting mosaic.
+It features an input field for specifying the cube face, making it easy for users to select the desired face.
+
+#### Color Selection
+
+The GUI need to offer a color selection feature that allows users to choose the colors for each Rubik's cube face from a predefined palette.
+
+### Usage
+
+#### Image Input
+
+Users can provide an input image, and the tool will verify its dimensions for compatibility.
+
+#### Face Selection
+
+Users specify the target Rubik's cube face using classic formats (e.g., A1, B2, C3).
+
+#### Color Customization
+
+Users can customize the colors for each face using the GUI, allowing for creative and unique Rubik's cube mosaics.
+
+#### Mosaic Generation
+
+The tool processes the image and generates a mosaic pattern that corresponds to the selected cube face.
+
+#### Display
+
+Users will be allow to have a look on the the mosaic in the GUI, making it easy to assess and adjust the design as needed.
+
+### Limitations
+
+The software may have limitations related to image size and format, so users are encouraged to adhere to recommended image guidelines.
+Complex images with fine details may not translate perfectly to Rubik's cube mosaics, and some manual adjustments may be required.
+
+### System Requirements
+
+- Python Version
+The software will be written in [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
+
+- Operating Systems
+The software will be compatible with macOS and Windows.
 
 As it was decided by the group, the software will be open source to allow other people or co-workers to speed-up their work.
 
@@ -221,18 +305,16 @@ As it was decided by the group, the software will be open source to allow other 
 
 To develop this software, we will use libraries that are:
 
-- [Pillow version 10.0.1](https://pypi.org/project/Pillow/): a library that manage images that will be useful to create the output image or to separate the pixels of the input image.
+- [Pillow](https://pypi.org/project/Pillow/) version 9.4.0: a library that manage images that will be useful to create the output image or to separate the pixels of the input image.
 - [Sys version](https://docs.python.org/3.12/library/sys.html): The sys library is meant to allow the program to return system errors when a problem occurs.
-- [Datetime version 5.2](https://pypi.org/project/DateTime/): This library allows the program to get the exact date and time and will serve when an error occurs to return the exact time of the error in the "lastest.log" file.
-- [Wxpython version 4.2.1](https://wxpython.org/pages/downloads/index.html): It is a library that is used to render Graphical User Interfaces (GUI). We will use it to make our software more user friendly.
+- [Datetime](https://pypi.org/project/DateTime/) version 5.2: This library allows the program to get the exact date and time and will serve when an error occurs to return the exact time of the error in the "lastest.log" file.
+- [Wxpython](https://wxpython.org/pages/downloads/index.html) version 4.2.1: It is a library that is used to render Graphical User Interfaces (GUI). We will use it to make our software more user friendly.
 
 ### Open source
 
 We use an open source software developed by a team's member.
 
-You can find our project on GitHub at the following repository:
-
-[2023-2024-project-1-rubiks-art-team-3](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3)
+You can find our project on GitHub at the following repository: [2023-2024-project-1-rubiks-art-team-3](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3)
 
 ## File structure
 
@@ -251,19 +333,17 @@ You can find our project on GitHub at the following repository:
 ## Risks
 
 - Wall not straight -> Use a bubble level to verify -> The wall is a bit inclined but it will works.
-- Imperfections on the wall -> Avoid putting tape on those imperfections.
   
-Another risk to take in account is the total weight of the fresco on the wall, the fresco is composed of 2871 cubes, each one is 64 grams. It means that the total weight on the wall is 183744 grams, which is 183.744 kg. The wall is, on the paper, able to support 200 kg, but we don't know if it's true. To avoid any problem, we will put the fresco on the wall line by line, and we will check if the wall is not damaged by the weight of the fresco.
+|Another risk to take in account is the total weight of the fresco on the wall, the fresco is composed of 2871 cubes, each one is 64 grams. It means that the total weight on the wall is 183744 grams, which is 183.744 kg. The wall is, on the paper, able to support 200 kg, but we don't know if it's true. To avoid any problem, we will put the fresco on the wall line by line, and we will check if the wall is not damaged by the weight of the fresco.
 
 ## Tests
 <!-- size rubik -->
-<!-- quality assurance of the other groups -->
+<!-- The graphical user interface, or GUI (/ˌdʒiːjuːˈaɪ/ JEE-yoo-EYE[citation needed] or /ˈɡuːi/[1][2] GOO-ee), is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators such as primary notationquality assurance of the other groups -->
 <!-- test of the program -->
 <!-- link to the mana doc -->
+To ensure the proper functioning of the program, you can find a Test plan on our [GitHub](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main)
 
-To ensure proper functioning of the program, you can find a Test plan on our [GitHub](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main).
-
-<!-- To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the fresco will be set up with all the details. -->
+/<!-- To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the fresco will be set up with all the details. -->
 
 ## Security
 
@@ -294,9 +374,10 @@ If you have questions during the project, you can contact the members of the tea
 |-|-|-|
 |PEP| A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.|[RealPython](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)|
 |PEP 8|The primary focus of PEP 8 is to improve the readability and consistency of Python code.|[PEP 8 – Style Guide for Python Code](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)|
-|PEP 20|The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.|[PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)|
-|iMovie|iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and share videos. |[iMovie](https://www.apple.com/fr/imovie/)|
-|GitHub|GitHub is a code hosting platform for version control and collaboration.|[GitHub](https://github.com/)|
+|GUI|The graphical user interface, or GUI, is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators such as primary notation, instead of text-based UIs, typed command labels or text navigation.| [Wikipedia](https://en.wikipedia.org/wiki/Graphical_user_interface) | (edited)
+20|The Zen of Python is a collection of 19 "guiding principles" for writing computer programs that influence the design of the Python programming language.|[PEP 20 – The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)|
+|GUI||iMovie|iMovie is an editing software designed for iOS and MacOS, it allows the user to organize, edit and|GitHub|GitHub is a code hosting platform for version control and collaboration.|[GitHub](https://github.com/)|
+
 |Open source|Open source is source code that is made freely available for possible modification and redistribution.|[Wikipedia](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code,model%20that%20encourages%20open%20collaboration.)|
 |License|A software license tells others what they can and can't do with your source code, so it's important to make an informed decision.|[License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)|
 |Timelaspe|A timelapse is a video that is usually played at a higher speed than normal, allowing the viewer to see processes that take a long time in a short period of time.|[Wikipedia](https://en.wikipedia.org/wiki/Time-lapse_photography)|
