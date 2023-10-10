@@ -255,7 +255,7 @@ You can find our project on GitHub at the following repository:
 
 To ensure proper functioning of the program, you can find a Test plan on our [GitHub](https://github.com/AlexisLasselin/2023-2024-project-1-rubiks-art-team-3/tree/main).
 
-To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the fresco will be set up with all the details.
+<!-- To ensure proper installation of the fresco, there is a [documentation](#) in pdf where you can find how to use our program, how the fresco will be set up with all the details. -->
 
 ## Security
 
