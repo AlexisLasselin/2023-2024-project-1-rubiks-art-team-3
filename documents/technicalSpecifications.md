@@ -241,10 +241,15 @@ It will develop in Python and relie on several libraries for image processing an
 ### Purpose
 
 The primary purpose of the Rubik's Cube Fresco Creation Tool is to convert an input image into a mosaic pattern that can be recreated on a Rubik's cube.
+
 Users can select a specific Rubik's cube face (e.g. G23) and generate the corresponding pattern for that face.
+
 The software should save the output image in the same folder as the input image and should be named `cube.png`.
+
 If a `cube.png` file already exists, it should be replaced by the new one.
+
 By selecting the grid name you want to check, the program will return an image of the face that will have to be at this address on the pixel art.
+
 If the image's size can"t be divided by 3, it will mean that the size is not right, and it should return an error written in the `lastest.log` file.
 
 ### Key features
