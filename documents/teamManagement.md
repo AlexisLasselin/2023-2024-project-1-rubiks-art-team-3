@@ -60,7 +60,7 @@ There will be 3 members of our team who will be more or less  stationnary in the
 <li>A 1:1 grid for the cubes' placement and trasport will be made using cardboard on Thursday, October 12th.</li>
 <li>This Grid will be annoted with the coordinate system that will allow anyone to check what colors should be where</li>
 <li>The Grid is cut in 7 Slices and each Slice in 11 Chunks</li>
-<li><img src="images/finalGrid.jpg"></li>
+<li><img src="../images/finalGrid.jpg"></li>
 <li>All the resulting carboard Chunks are placed in a stack in each room, with the top of the stack being the bottom part of the Slice (so that the end of the Assembly is near the top of it)</li>
 <li>Each group elects their quality officer (if they struggle to do it, we have a spot the differences game that should allow to pick one that is at least observant</li>
 <li>Once the election is done we will ask each solver to design a customized chip that we will print for them (which will be used to work with the cardboard grid)</li>
