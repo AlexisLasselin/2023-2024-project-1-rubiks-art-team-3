@@ -11,5 +11,5 @@ If you want to use our solution be sure to have an IDE and Python version 3.10.1
 Once you have an IDE and Python installed on your machine go to the project directory and use the following command to run the project after being sure that your image is in the same file as the program:
 
 ```
-python 3 run rubik.py
+python3 rubik.py
 ```
