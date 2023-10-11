@@ -161,6 +161,9 @@ cython_debug/
 
 .DS_Store
 
+# VsCode extensions
+.history/
+
 
 # Specific files
 cube.png

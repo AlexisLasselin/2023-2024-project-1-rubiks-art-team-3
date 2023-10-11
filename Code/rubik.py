@@ -33,20 +33,20 @@ def finder(cube):
 
 
 		# Get the number of Rubik's cube by dividing the size by 3.
-		cubesWidth = int(im.width/3)
-		cubesHeight = int(im.height/3)
+		cubes_width = int(im.width/3)
+		cubes_height = int(im.height/3)
 
 		# Getting size's exceptions.
-		if cubesHeight > 26:
-			first = cubesHeight/26
-			second = cubesHeight%26
+		if cubes_height > 26:
+			first = cubes_height/26
+			second = cubes_height%26
 			first = int(first)
 			row = (chr((64+first)) + chr(64+second))
 		else:
-			row = str(chr(64+cubesHeight))
+			row = str(chr(64+cubes_height))
 
 		# Displaying the range of the slots of the fresco.
-		f.write("cubes from A1 to " + str(row + str(cubesWidth)) + "\n")
+		f.write("cubes from A1 to " + str(row + str(cubes_width)) + "\n")
 
 
 		# Check if a cube has been selected.
@@ -58,29 +58,29 @@ def finder(cube):
 		if len(cube) > 2:
 
 			# Creating temporary strings to separate the letters and the numbers.
-			tempS = str()
-			tempI = str()
+			temp_string = str()
+			temp_int = str()
 
 			cube = cube.upper()
 
 			# Separate the letters and the numbers.
 			for i in cube:
 				if 65 <= ord(i) <= 90:	# Get the letters
-					tempS = tempS + i
+					temp_string = temp_string + i
 				else: 					# Get the numbers
-					tempI = tempI + i
+					temp_int = temp_int + i
 
 			# Transform the letters to an int in order to get the height in pixels.
-			if len(tempS) > 1:
-				h = (((ord(tempS[0])-64) * 26) + (ord(tempS[1])-64))
+			if len(temp_string) > 1:
+				h = (((ord(temp_string[0])-64) * 26) + (ord(temp_string[1])-64))
 			else:
-				h = ord(tempS)-64
+				h = ord(temp_string)-64
 
 			# Transform the numbers to an int in order to get the width in pixels.
-			if len(tempI) > 1:
-				w = (((ord(tempI[0])-48) * 10) + (ord(tempI[1])-48))
+			if len(temp_int) > 1:
+				w = (((ord(temp_int[0])-48) * 10) + (ord(temp_int[1])-48))
 			else:
-				w = ord(tempI)-48
+				w = ord(temp_int)-48
 
 		else:
 
@@ -126,52 +126,51 @@ def finder(cube):
 
 		f.close()
 
-def Part(cube):
+def part(cube):
 	
 	# Selecting input image.
 	im = Image.open("./final.png")
 
 
 	# Get the number of Rubik's cube by dividing the size by 3.
-	cubesWidth = int(im.width/3)
-	cubesHeight = int(im.height/3)
+	cubes_height = int(im.height/3)
 
 	# Getting size's exceptions.
-	if cubesHeight > 26:
-		first = cubesHeight/26
-		second = cubesHeight%26
+	if cubes_height > 26:
+		first = cubes_height/26
+		second = cubes_height%26
 		first = int(first)
 		row = (chr((64+first)) + chr(64+second))
 	else:
-		row = str(chr(64+cubesHeight))
+		row = str(chr(64+cubes_height))
 
 		# Check if the selected cube has a classic format (e.g. A1, B2, C3, etc.)
 	if len(cube) > 2:
 
 		# Creating temporary strings to separate the letters and the numbers.
-		tempS = str()
-		tempI = str()
+		temp_string = str()
+		temp_int = str()
 
 		cube = cube.upper()
 
 		# Separate the letters and the numbers.
 		for i in cube:
 			if 65 <= ord(i) <= 90:	# Get the letters
-				tempS = tempS + i
+				temp_string = temp_string + i
 			else: 					# Get the numbers
-				tempI = tempI + i
+				temp_int = temp_int + i
 
 		# Transform the letters to an int in order to get the height in pixels.
-		if len(tempS) > 1:
-			h = (((ord(tempS[0])-64) * 26) + (ord(tempS[1])-64))
+		if len(temp_string) > 1:
+			h = (((ord(temp_string[0])-64) * 26) + (ord(temp_string[1])-64))
 		else:
-			h = ord(tempS)-64
+			h = ord(temp_string)-64
 
 		# Transform the numbers to an int in order to get the width in pixels.
-		if len(tempI) > 1:
-			w = (((ord(tempI[0])-48) * 10) + (ord(tempI[1])-48))
+		if len(temp_int) > 1:
+			w = (((ord(temp_int[0])-48) * 10) + (ord(temp_int[1])-48))
 		else:
-			w = ord(tempI)-48
+			w = ord(temp_int)-48
 
 	else:
 
@@ -181,10 +180,10 @@ def Part(cube):
 
 
 	# Convert the image to RGB to get the colors.
-	imRGB = im.convert('RGB')
+	im_rgb = im.convert('RGB')
 
 	# Get the list of colors for each pixel.
-	pixels = list(imRGB.getdata())
+	pixels = list(im_rgb.getdata())
 
 	# Get the size of the image.
 	width, height = im.size
@@ -309,71 +308,37 @@ new_image2 = Image.new('RGB', (375, 375))
 new_image.save('./cube.png')
 new_image2.save('./part.png')
 finder("A1")
-Part("A1")
+part("A1")
 
 # GUI
 
 # Creating a class to create the GUI.
 class MyFrame(wx.Frame):
 	def __init__(self):
-		letters = Letters("AG")
-		numbers = Numbers("87")
-		global l1
-		global l2
 		super().__init__(parent=None, title='Rubik\'s finder', size=(1200, 675))
-		inp1 = wx.StaticText(self, label="Input", pos=(0, 0))
-		l1 = wx.TextCtrl(self,  pos=(80, 0), size=(100, 22))
-		l1.SetMaxLength(4)
-		Submit = wx.Button(self, label="Submit", pos=(0, 100))
-		Submit.Bind(wx.EVT_BUTTON, self.OnClicked)
-		global img
-		img = wx.Image("cube.png", wx.BITMAP_TYPE_ANY).ConvertToBitmap()
-		img2 = wx.Image("part.png", wx.BITMAP_TYPE_ANY).ConvertToBitmap()
+		text_label = wx.StaticText(self, label="Input", pos=(0, 0))
 
-		self.bitmap1 = wx.StaticBitmap(self, -1, img, (200, 0))
-		self.bitmap2 = wx.StaticBitmap(self, -1, img2, (600, 0))
+		global text_input
+		text_input = wx.TextCtrl(self,  pos=(80, 0), size=(100,22))
+		text_input.SetMaxLength(4)
+		submit_button = wx.Button(self, label="Submit", pos=(0, 100))
+		submit_button.Bind(wx.EVT_BUTTON, self.OnClicked)
+		output_cube = wx.Image("cube.png", wx.BITMAP_TYPE_ANY).ConvertToBitmap()
+		output_part = wx.Image("part.png", wx.BITMAP_TYPE_ANY).ConvertToBitmap()
 
-		# self.ShowFullScreen(True, style=wx.FULLSCREEN_NOTOOLBAR)
+		self.bitmap1 = wx.StaticBitmap(self, -1, output_cube, (200, 0))
+		self.bitmap2 = wx.StaticBitmap(self, -1, output_part, (600, 0))
 
 		self.Show()
 
 
-
-
-
 	def OnClicked(self, event):
-		out = (l1.GetValue())
+		out = (text_input.GetValue())
 		print(out.upper())
 		finder(out)
-		Part(out)
+		part(out)
 		self.Destroy()
 		MyFrame()
-
-
-
-def Letters(inp):
-	out = list()
-	if len(inp) > 1:
-		tot = (((ord(inp[0])-64) * 26) + (ord(inp[1])-64))
-	else:
-		tot = ord(inp)-64
-	for i in range(1, tot+1):
-		if i > 26:
-			first = i/26
-			second = i%26
-			first = int(first)
-			out.append(chr((64+first)) + chr(64+second))
-		else:
-			out.append(chr(i+64))
-	return out
-
-def Numbers(inp):
-	out = list()
-	if len(inp) > 1:
-		tot = (((ord(inp[0])-48) * 10) + (ord(inp[1])-48))
-	for i in range(1, tot+1):
-		out.append(str(i))
-	return out
 
 
 if __name__ == '__main__':
