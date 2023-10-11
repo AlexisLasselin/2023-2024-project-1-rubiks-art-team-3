@@ -322,7 +322,7 @@ class MyFrame(wx.Frame):
 		global l2
 		super().__init__(parent=None, title='Rubik\'s finder', size=(1200, 675))
 		inp1 = wx.StaticText(self, label="Input", pos=(0, 0))
-		l1 = wx.TextCtrl(self,  pos=(80, 0))
+		l1 = wx.TextCtrl(self,  pos=(80, 0), size=(100, 22))
 		l1.SetMaxLength(4)
 		Submit = wx.Button(self, label="Submit", pos=(0, 100))
 		Submit.Bind(wx.EVT_BUTTON, self.OnClicked)
