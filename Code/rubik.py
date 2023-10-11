@@ -10,8 +10,6 @@ def finder(cube):
 	# Selecting input image.
 	im = Image.open("./final.png")
 
-	print("Image is", im.width, "x", im.height)
-
 	# Checking if the size of the image correspond to a Rubik's cube fresco.
 	if int(im.width%3) != 0 or int(im.height%3) != 0:
 
@@ -38,10 +36,6 @@ def finder(cube):
 		cubesWidth = int(im.width/3)
 		cubesHeight = int(im.height/3)
 
-		# Displaying the number of pixels transformed in Rubik's cubes.
-		print(str("Width is " + str(im.width) + "px and it's equal to " + str(cubesWidth) + "rc"))
-		print(str("Height is " + str(im.height) + "px and it's equal to " + str(cubesHeight) + "rc"))
-
 		# Getting size's exceptions.
 		if cubesHeight > 26:
 			first = cubesHeight/26
@@ -53,7 +47,6 @@ def finder(cube):
 
 		# Displaying the range of the slots of the fresco.
 		f.write("cubes from A1 to " + str(row + str(cubesWidth)) + "\n")
-		print("cubes from A1 to " + str(row + str(cubesWidth)))
 
 
 		# Check if a cube has been selected.
@@ -218,41 +211,72 @@ def Part(cube):
 	for j in range(-6, 9):
 		for i in range(-6, 9):
 			if ((h-1)*3+j) < 0 or ((h-1)*3+j) >= 99 or ((w-1)*3+i) >= 261 or ((w-1)*3+i) < 0:
-				match count:
-					case 1: one.append((0, 0, 0))
-					case 2: two.append((0, 0, 0))
-					case 3: three.append((0, 0, 0))
-					case 4: four.append((0, 0, 0))
-					case 5: five.append((0, 0, 0))
-					case 6: six.append((0, 0, 0))
-					case 7: seven.append((0, 0, 0))
-					case 8: eight.append((0, 0, 0))
-					case 9: nine.append((0, 0, 0))
-					case 10: ten.append((0, 0, 0))
-					case 11: eleven.append((0, 0, 0))
-					case 12: twelve.append((0, 0, 0))
-					case 13: thirteen.append((0, 0, 0))
-					case 14: fourteen.append((0, 0, 0))
-					case 15: fifteen.append((0, 0, 0))
-					case _: print("Error")
+				if count == 1:
+					one.append((0, 0, 0))
+				elif count == 2:
+					two.append((0, 0, 0))
+				elif count == 3:
+					three.append((0, 0, 0))
+				elif count == 4:
+					four.append((0, 0, 0))
+				elif count == 5:
+					five.append((0, 0, 0))
+				elif count == 6:
+					six.append((0, 0, 0))
+				elif count == 7:
+					seven.append((0, 0, 0))
+				elif count == 8:
+					eight.append((0, 0, 0))
+				elif count == 9:
+					nine.append((0, 0, 0))
+				elif count == 10:
+					ten.append((0, 0, 0))
+				elif count == 11:
+					eleven.append((0, 0, 0))
+				elif count == 12:
+					twelve.append((0, 0, 0))
+				elif count == 13:
+					thirteen.append((0, 0, 0))
+				elif count == 14:
+					fourteen.append((0, 0, 0))
+				elif count == 15:
+					fifteen.append((0, 0, 0))
+				else:
+					print("Error")
+
 			else:
-				match count:
-					case 1: one.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 2: two.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 3: three.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 4: four.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 5: five.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 6: six.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 7: seven.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 8: eight.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 9: nine.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 10: ten.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 11: eleven.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 12: twelve.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 13: thirteen.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 14: fourteen.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case 15: fifteen.append(pixels[(h-1)*3+j][((w-1)*3+i)])
-					case _: print("Error")
+				if count == 1:
+					one.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 2:
+					two.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 3:
+					three.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 4:
+					four.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 5:
+					five.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 6:
+					six.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 7:
+					seven.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 8:
+					eight.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 9:
+					nine.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 10:
+					ten.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 11:
+					eleven.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 12:
+					twelve.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 13:
+					thirteen.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 14:
+					fourteen.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				elif count == 15:
+					fifteen.append(pixels[(h-1)*3+j][((w-1)*3+i)])
+				else:
+					print("Error")
 		count += 1
 
 
@@ -319,7 +343,7 @@ class MyFrame(wx.Frame):
 
 	def OnClicked(self, event):
 		out = (l1.GetValue())
-		print(out)
+		print(out.upper())
 		finder(out)
 		Part(out)
 		self.Destroy()
@@ -350,12 +374,6 @@ def Numbers(inp):
 	for i in range(1, tot+1):
 		out.append(str(i))
 	return out
-
-def CreateCube():
-	new_image = Image.new('RGB', (300, 300))
-	new_image.save('./cube.png')
-	new_image2 = Image.new('RGB', (375, 375))
-	new_image2.save('./part.png')
 
 
 if __name__ == '__main__':
