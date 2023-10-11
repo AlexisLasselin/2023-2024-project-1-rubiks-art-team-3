@@ -320,7 +320,7 @@ class MyFrame(wx.Frame):
 		numbers = Numbers("87")
 		global l1
 		global l2
-		super().__init__(parent=None, title='Rubik\'s finder')
+		super().__init__(parent=None, title='Rubik\'s finder', size=(1200, 675))
 		inp1 = wx.StaticText(self, label="Input", pos=(0, 0))
 		l1 = wx.TextCtrl(self,  pos=(80, 0))
 		l1.SetMaxLength(4)
@@ -333,7 +333,7 @@ class MyFrame(wx.Frame):
 		self.bitmap1 = wx.StaticBitmap(self, -1, img, (200, 0))
 		self.bitmap2 = wx.StaticBitmap(self, -1, img2, (600, 0))
 
-		self.ShowFullScreen(True, style=wx.FULLSCREEN_NOTOOLBAR)
+		# self.ShowFullScreen(True, style=wx.FULLSCREEN_NOTOOLBAR)
 
 		self.Show()
 
