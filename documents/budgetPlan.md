@@ -15,8 +15,8 @@ To replace the tape, we will use a more robust solution: MDF planks screwed to t
 ### Components and some technical details
 
 - Cut MDF boards (10mm of thickness)
-- 16 Molly bolts (CHEV MTL 6X50 VIS TCM6 5P)
-- 16 screws (Included with the Molly bolts)
+- 16 Lag screws (8mm x 60mm)
+- 16 bolt hollow drive wall anchors (10mm x 60mm)
 - Some industrial strength double-sided tape (TESA 4965 19mm x 50m)
 
 Except for the double-sided tape, all the components' informations are taken from *Bricomarché* (price and references)
@@ -32,14 +32,14 @@ After some discussion with a French Street Artist (Invader), we decided to use d
 | Component | Quantity | Total (CAD) |
 | --------- | -------- | ----------- |
 | MDF boards | 3 | 143€ personnalized cut included |
-| Molly bolts | 16 | Near to 2€ if taken in bulk |
+| Screw and bolt hollow drive wall anchors | 16 of each | Near to 10€ if taken in bulk (in total)|
 | Double-sided tape | 1 | 40,34€ delivery included |
 
-The total budget for components is 185,34€.
+The total budget for components is 193,34€.
 
 ### Human ressources budget
 
-Currently, the human ressources budget is empty, because we don't know exactly how the client planned to make the installation of the fresco. We will update this section when we will have more information.
+The human ressources budget is estimated to 0€ because the installation will be done by the school's staff and the students.
 
 ## Conclusion
 
