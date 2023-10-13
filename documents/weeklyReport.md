@@ -1,10 +1,10 @@
-# Weekly Report
+# Weekly Report of Team 3
 
-# Week 1 - 10/09/2023 - 10/13/2023
+# 10/09/2023 - 10/13/2023
 
 ## Update of the fresco
 
-Modify the fresco image to met the customer requirements.
+Modify the fresco image to meet the customer's requirements.
 
 Mathis Kakal.
 
@@ -24,7 +24,7 @@ Clémentine Curel & Mathis Kakal.
 
 ## Creation of the technical specifications
 
-Creation of technical part of the project for the set up of the fresco on the wall, the management of the teams, the program and the timelapse.
+Creation of the technical specifications for the set up of the fresco on the wall, the management of the teams, the program and the timelapse.
 
 All the team.
 
@@ -34,7 +34,7 @@ All the team.
 
 ## Creation of the management strategy
 
-Set up of our strategy to divide the work between the eight teams, to transport the Rubik's cubes to the library, the notation of the boxes and the precise roles of each other.
+Set up our strategy to divide the work between the eight teams, to transport the Rubik's cubes to the library, the notation of the boxes and the precise roles of each other.
 
 Mathis Kakal.
 
@@ -44,7 +44,7 @@ Mathis Kakal.
 
 ## Update of the fresco grid
 
-Division of the fresco in seven instead of eight parts. Adding information about the slices and chunks to create a documentation for the groups.
+Division of the fresco in seven instead of eight parts. Adding information about the slices and chunks to create documentation for the groups.
 
 Clémentine Curel.
 
@@ -52,7 +52,7 @@ Clémentine Curel.
 |-|-|
 |Two hours|One hour|
 
-## Modification of the project serveur
+## Modification of the project server
 
 Creation of dedicated channels for the referent of the seven projects. Also sending the grid documentation and the management strategy. 
 
@@ -74,7 +74,7 @@ Clémentine Curel & Laura-Lee.
 
 ## Repartition of the cubes
 
-Give to each team the needed amount of cubes to create their parts. A verification of the chunks done was needed before giving them other Rubik's cubes.
+Give each team the needed amount of cubes to create their parts. A verification of the chunks was needed before giving them other Rubik's cubes.
 
 Victor Leroy, Alexis Lasselin & Laurent Bouquin.
 
@@ -84,7 +84,7 @@ Victor Leroy, Alexis Lasselin & Laurent Bouquin.
 
 ## Quality assurance of the Rubik's cube patterns
 
-Go through each team to check the chunks done, and note the number of the chunk of each box. 
+Go through each team to check the chunks done, and note the number of the chunks of each box. 
 
 All the team.
 
@@ -94,7 +94,7 @@ All the team.
 
 ## Repartition of the cubes
 
-Give to each team the needed amount of cubes to create their parts. A verification of the chunks done was needed before giving them other Rubik's cubes.
+Give each team the needed amount of cubes to create their parts. A verification of the chunks was needed before giving them other Rubik's cubes.
 
 Victor Leroy & Laurent Bouquin.
 
@@ -104,17 +104,17 @@ Victor Leroy & Laurent Bouquin.
 
 ## Film timelapse scene
 
-Filming the groups doing their TRubik's cubes, reflexion time, and the transport of the boxes.
+Filming the groups doing their Rubik's cubes, and the transport of the boxes.
 
 Mathis Kakal, Alexis Lasselin & Laurent Bouquin.
 
 |Time allocated|Time needed|
 |-|-|
-|3 hours|3 hours|
+|Three hours|Three hours|
 
 ## Creation of a new budget
 
-Creation of a new budget to propose a new idea to fix the fresco to the wall, according to feedeback on the non-durability of the double-sided foam tape. Visit some company to have advices and prices.
+Creation of a new budget to propose a new idea to fix the fresco to the wall, according to feedback on the non-durability of the double-sided foam tape. Visit some companies to get advice and prices.
 
 Alexis Lasselin & Laurent Bouquin.
 
@@ -124,7 +124,7 @@ Alexis Lasselin & Laurent Bouquin.
 
 ## Transport of the boxes
 
-Transport of all the Rubik's cubes boxes to the library after at least two verification from two different person.
+Transport all the Rubik's cube boxes to the library after at least two verifications from two different people.
 
 Victor Leroy, Laurent Bouqin & Alexis Lasselin.
 
@@ -140,7 +140,7 @@ Laura-Lee Hollande & Mathis Kakal.
 
 ## Update of the weekly report 
 
-Add every tasks done, their allocated and neeeded time.
+Add every task done, their allocated and needed time.
 
 Clémentine Curel.
 
@@ -150,7 +150,7 @@ Clémentine Curel.
 
 ## Update of the KPI
 
-Go through the groups to know where they're at, and update the pourcentages.
+Go through the groups to know where they're at, and update the percentages.
 
 Clémentine Curel.
 
@@ -160,7 +160,7 @@ Clémentine Curel.
 
 ## Resolution of the unused cubes
 
-Go through each groups to get the unused Rubik's cubes and resolve them to restock them.
+Go through each group to get the unused Rubik's cubes and resolve them to restock them.
 
 Victor Leroy, Alexis Lasselin & Laurent Bouquin
 
@@ -168,9 +168,9 @@ Victor Leroy, Alexis Lasselin & Laurent Bouquin
 |-|-|
 |Half a day|Half a day|
 
-## Creation of the handing document
+## Creation of the handing over document
 
-In case our group isn't selected to manage the fixation of the fresco, we have created a handign document of our strategy, and alle the information needed. 
+In case our group isn't selected to manage the fixation of the fresco, we have created a handign document of our strategy, and all the information needed. 
 
 Mathis Kakal.
 
@@ -180,7 +180,7 @@ Mathis Kakal.
 
 ## Notation of the Rubik's cubes
 
-Note behind each Rubik's cubes their number according to the fresco grid.
+Note behind each Rubik's cube their number according to the fresco grid.
 
 Victor Leroy & Laurent Bouqin.
 
@@ -214,6 +214,6 @@ KPI:
 |Filming the creation|10/24/2023|33%|<span style="color:green">50%</span>|66%|
 |Creation of the videos|10/25/2023|0%|0%|0%|
 |Preparation of the oral|10/24/2023|0%|0%|0%|
-|Documentation|10/26/2023|50%|<span style="color:orange">60%</span>|75%|
+|Documentation|10/26/2023|50%|60%|75%|
 |Notation of the Rubik's cubes|10/24/2023|0%|<span style="color:green"> 14% </span>|100%|
 
