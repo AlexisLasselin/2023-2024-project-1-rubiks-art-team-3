@@ -11,6 +11,7 @@
       - [Dimension](#dimension)
       - [Use of the mold](#use-of-the-mold)
       - [Use](#use)
+      - [Store](#store)
   - [Troublesshooting](#troublesshooting)
 
 ## Overview
@@ -33,7 +34,7 @@ This document will provide your teams with the essential steps and instructions 
 
 ### Scheme
 
-<img src="../images/Cube_name.png" style="max-width: 100%">
+<img src="../images/Cube_names.png" style="max-width: 100%">
 
 - The blue cubes represent the 50 cubes with the name of the students.
 
@@ -53,6 +54,29 @@ The pieces of tape should measure approximately 2.5cm in width and 5cm in length
 
 #### Use of the mold
 
+- step 1 : Put the double-sides tape on the cube
+  
+<img src="../images/step1.jpg" style="max-width: 45%">
+
+- step 2 : Put the cube in the mold
+
+<img src="../images/step2.jpg" style="max-width: 45%">
+
+- step 3 : Do the same with the two following cubes
+
+<img src="../images/step4.jpg" style="max-width: 45%">
+
+
+<img src="../images/step5.jpg" style="max-width: 45%">
+
+- step 4 : Compact
+
+<img src="../images/step6.jpg" style="max-width: 45%">
+
+- step 5 : Admire
+
+<img src="../images/step7.jpg" style="max-width: 45%">
+
 
 #### Use
 
@@ -66,8 +90,11 @@ Follow the following scheme to place the double-sided tape:
 
 ``The face where the pattern is created, the one opposite to it and the blue cube on the schema should not have any double-sided tape.``
 
+#### Store
+
+When finishing, store the block in their respective box.
+
 ## Troublesshooting
 
 - If the tape starts coming off too much, use a new one.
 - The tape should not extend onto the other faces
-
