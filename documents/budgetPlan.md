@@ -15,8 +15,7 @@ To replace the tape, we will use a more robust solution: MDF planks screwed to t
 ### Components and some technical details
 
 - Cut MDF boards (10mm of thickness)
-- 16 Lag screws (8mm x 60mm)
-- 16 bolt hollow drive wall anchors (10mm x 60mm)
+- 24 Molly bolts (5mm x 52mm)
 - Some industrial strength double-sided tape (TESA 4965 19mm x 50m)
 
 Except for the double-sided tape, all the components' informations are taken from *Bricomarché* (price and references)
@@ -31,11 +30,12 @@ After some discussion with a French Street Artist (Invader), we decided to use d
 
 | Component | Quantity | Total (CAD) |
 | --------- | -------- | ----------- |
-| MDF boards | 3 | 143€ personnalized cut included |
-| Screw and bolt hollow drive wall anchors | 16 of each | Near to 10€ if taken in bulk (in total)|
-| Double-sided tape | 1 | 40,34€ delivery included |
+| MDF boards | 6 | 143,76€ personnalized cut included |
+| Molly bolts | 24 | If taken in bulk: nearly 5€ |
+| Industrial double-sided tape | 1 | 16,72€ |
+| Basic double-sided tape | 150m | 47,92€ |
 
-The total budget for components is 193,34€.
+The total budget for components is estimated to 213,40€.
 
 ### Human ressources budget
 
