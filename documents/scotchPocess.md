@@ -53,15 +53,6 @@ The pieces of tape should measure approximately 2.5cm in width and 5cm in length
 
 #### Use of the mold
 
-<img src="../images/1.jpg" style="max-width: 55%">
-<img src="../images/2.jpg" style="max-width: 55%">
-<img src="../images/3.jpg" style="max-width: 55%">
-<img src="../images/4.jpg" style="max-width: 55%">
-<img src="../images/5.jpg" style="max-width: 55%">
-<img src="../images/6.jpg" style="max-width: 55%">
-<img src="../images/7.jpg" style="max-width: 55%">
-<img src="../images/8.jpg" style="max-width: 55%">
-<img src="../images/9.jpg" style="max-width: 55%">
 
 #### Use
 
