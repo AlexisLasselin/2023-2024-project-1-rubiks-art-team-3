@@ -1,4 +1,4 @@
-# Gluing process - Team 3
+# Glueing process - Team 3
 
 - [Gluing process - Team 3](#gluing-process---team-3)
   - [Overview](#overview)
