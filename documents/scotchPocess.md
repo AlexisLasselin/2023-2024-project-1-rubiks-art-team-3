@@ -10,7 +10,7 @@
     - [Doule-sided tape](#doule-sided-tape)
       - [Dimension](#dimension)
       - [Use of the mold](#use-of-the-mold)
-      - [Use](#use)
+      - [Precisions](#precisions)
       - [Store](#store)
   - [Troublesshooting](#troublesshooting)
 
@@ -29,6 +29,7 @@ This document will provide your teams with the essential steps and instructions 
 
 - One roll of double-sided tape (25m) per group
 - A mold to ensure the cubes a straight during the taping
+- The rubik's according to their slice
 
 ## Process
 
@@ -42,7 +43,8 @@ This document will provide your teams with the essential steps and instructions 
 
 - The cubes must be properly aligned
 - Once assembled, the cubes should form a compact block
-- Use one piece of tape for each cu√be
+- Use one piece of tape for each cube
+- 1 box of cubes correspond to one bloc of glued cube
 
 ### Doule-sided tape
 
@@ -77,8 +79,7 @@ The pieces of tape should measure approximately 2.5cm in width and 5cm in length
 
 <img src="../images/step7.jpg" style="max-width: 45%">
 
-
-#### Use
+#### Precisions
 
 One piece of double-sided tape will be placed diagonally on the cube faces.
 
