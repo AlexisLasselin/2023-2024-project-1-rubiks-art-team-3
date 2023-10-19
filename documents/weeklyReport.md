@@ -136,7 +136,7 @@ Mathis Kakal.
 
 ## Update of the functional specifications
 
-Update the functional according to the reviewers' feedback and add of the new fresco.
+Update the functional according to the reviewers' feedback and add the new fresco.
 
 Done.
 
@@ -199,7 +199,7 @@ Mathis Kakal.
 
 ## Print of the fresco
 
-Print in real size format the fresco and placement on the library.
+Print the in real-size format the fresco and place it in the library.
 
 Done.
 
@@ -465,9 +465,9 @@ Alexis Lasselin, ALGOSUP & Arthur Lemoine (Team 4).
 |-|-|-|
 |A day and a half|A day and a half|<span style="color:green">10/20/2023</span>|
 
-## Collect the teams' rushs
+## Collect the teams' rushes
 
-Collect the rushs made by the teams during the project to make the video montage.
+Collect the rushes made by the teams during the project to make the video montage.
 
 In progress.
 
@@ -489,9 +489,9 @@ Clémentine Curel, Mathis Kakal & Laurent Bouquin.
 |-|-|-|
 |An hour|Half an hour|<span style="color:green">10/17/2023</span>|
 
-## Creation of the molds 
+## Creation of the moulds 
 
-Creation of molds to help the teams to tape the Rubik's cubes straight.
+Creation of moulds to help the teams tape the Rubik's cubes straight.
 
 Done.
 
@@ -515,7 +515,7 @@ Clémentine Curel.
 
 ## Creation of the final presentation slides
 
-Creation of the slides and repartition of the parts amoung the team.
+Creation of the slides and distribution of the parts among the team.
 
 In progress.
 
@@ -539,7 +539,7 @@ Laura-Lee.
 
 ## Management of the teams
 
-Deciding if the teams will work on their presentations or on the taping of the cubes. If the group is working on their presentation, they will not have the mold, the tape and the scissors.
+Deciding if the teams will work on their presentations or the taping of the cubes. If the group is working on their presentation, they will not have the mould, the tape and the scissors.
 
 In progress.
 
@@ -575,7 +575,7 @@ Victor Leroy.
 
 ## Transport of the approved boxes
 
-After the verification of the taping, all the boxes are tranported to the library for the final installation
+After the verification of the taping, all the boxes are transported to the library for the final installation
 
 In progress.
 
@@ -611,7 +611,7 @@ Laura-Lee Hollande & Clémentine Curel.
 
 ## Set up the planks
 
-Plan where the holes will be on the planks depending of the metal rails on the wall.
+Plan where the holes will be on the planks depending on the metal rails on the wall.
 
 In progress. 
 
@@ -647,7 +647,7 @@ Mathis Kakal, Clémentine Curel, Alexis Lasselin & Victor Leroy.
 
 ## Video montage 
 
-Create a documentary about the project with the rushs of the eight groups.
+Create a documentary about the project with the rushes of the eight groups.
 
 Not started.
 
@@ -701,7 +701,7 @@ Documentation
 
 
 <!-- add graphs -->
-<!-- with target and colors --> 
+<!-- with target and colours --> 
 
 
 <!-- ## Update of the test plan
