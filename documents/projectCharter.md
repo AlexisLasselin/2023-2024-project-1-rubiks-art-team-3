@@ -97,7 +97,7 @@ Therefore a lot of attention will be put into the designing and making the fresc
 
 ### Objectives
 
-=> Review with group
+<!-- => Review with group -->
 
 Build a fresco at the entrance of the school
 
