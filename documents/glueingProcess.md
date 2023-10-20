@@ -1,6 +1,6 @@
 # Glueing process - Team 3
 
-- [Gluing process - Team 3](#gluing-process---team-3)
+- [Glueing process - Team 3](#glueing-process---team-3)
   - [Overview](#overview)
   - [Reminder](#reminder)
   - [Materials provided](#materials-provided)
