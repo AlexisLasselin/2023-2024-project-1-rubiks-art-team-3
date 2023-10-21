@@ -457,13 +457,13 @@ Laura-Lee Hollande & Mathis Kakal.
 
 Collect the planks, the screws and some tape at Bricomarché and collect tapes from Amazon.
 
-In progress.
+Done.
 
 Alexis Lasselin, ALGOSUP & Arthur Lemoine (Team 4).
 
 |Time allocated|Time needed|Deadline|
 |-|-|-|
-|A day and a half|A day and a half|<span style="color:green">10/20/2023</span>|
+|A day and a half|Two days|<span style="color:green">10/20/2023</span>|
 
 ## Collect the teams' rushes
 
@@ -475,7 +475,7 @@ Mathis Kakal.
 
 |Time allocated|Time needed|Deadline|
 |-|-|-|
-|A day and a half|A day and a half|<span style="color:green">10/20/2023</span>|
+|A day and a half|A day|<span style="color:green">10/24/2023</span>|
 
 ## Meeting with the customer
 
@@ -541,13 +541,13 @@ Laura-Lee.
 
 Deciding if the teams will work on their presentations or the taping of the cubes. If the group is working on their presentation, they will not have the mould, the tape and the scissors.
 
-In progress.
+Done.
 
 Clémentine Curel.
 
 |Time allocated|Time needed|Deadline|
 |-|-|-|
-|Three hours(One hour a day)|Two hours|<span style="color:green">10/20/2023</span>|
+|Three hours(One hour a day)|Three hours|<span style="color:green">10/20/2023</span>|
 
 ## Help of the groups
 
@@ -565,19 +565,19 @@ All the team.
 
 Verify and test the taping of all the groups before transport to the library.
 
-In progress.
+Done.
 
 Victor Leroy.
 
 |Time allocated|Time needed|Deadline|
 |-|-|-|
-|A day|Five hours|<span style="color:green">10/24/2023</span>|
+|A day|Seven hours|<span style="color:green">10/24/2023</span>|
 
 ## Transport of the approved boxes
 
 After the verification of the taping, all the boxes are transported to the library for the final installation
 
-In progress.
+Done.
 
 Victor Leroy.
 
@@ -601,7 +601,7 @@ Alexis Lasselin.
 
 Test how to remove the tape from the planks and the Rubik's cubes.
 
-In progress.
+Done.
 
 Laura-Lee Hollande & Clémentine Curel.
 
@@ -613,7 +613,7 @@ Laura-Lee Hollande & Clémentine Curel.
 
 Plan where the holes will be on the planks depending on the metal rails on the wall.
 
-In progress. 
+Done. 
 
 Laurent Bouqin.
 
@@ -625,13 +625,13 @@ Laurent Bouqin.
 
 Fix the six planks to the wall.
 
-Not started.
+Done.
 
 Team 3 & ALGOSUP.
 
 |Time allocated|Time needed|Deadline|
 |-|-|-|
-|Three hours|Not started|<span style="color:green">10/21/2023</span>|
+|Three hours|Three hours|<span style="color:green">10/21/2023</span>|
 
 ## Make the documentary script
 
@@ -645,7 +645,7 @@ Mathis Kakal, Clémentine Curel, Alexis Lasselin & Victor Leroy.
 |-|-|-|
 |A day|An hour|<span style="color:green">10/23/2023</span>|
 
-## Video montage 
+<!-- ## Video montage 
 
 Create a documentary about the project with the rushes of the eight groups.
 
@@ -655,61 +655,39 @@ Mathis Kakal.
 
 |Time allocated|Time needed|Deadline|
 |-|-|-|
-|2 weeks|Not started|<span style="color:red">10/26/2023</span>|
+|2 weeks|Not started|<span style="color:red">10/26/2023</span>| -->
 
+## Installation of the fresco
 
+Placing all the Rubik's cubes on the planks with industrial tape. This task includes a last check of the chunks, taping them and placing them. This task also includes the verification of the straightness of the Rubik's cubes.
+
+In progress.
+
+All the teams (1-8)
+
+|Time allocated|Time needed|Deadline|
+|-|-|-|
+|Three days|A day|<span style="color:green">10/24/2023</span>|
 
 # KPI
 
-|Description|Deadline||Target %|Actual %|Next week %|
+<img src="../images/doc.png" style="height:300px">
+
+<img src="../images/budget.png" style="height:300px">
+
+
+|Group | Start | End | Total hours | Number of boxes| boxes/hour|
 |-|-|-|-|-|-|
-|Functional specifications|10/03/2023|100%|100%|100%|
-|Creation of the fresco|09/29/2023|100%|100%|100%|
-|Preparation of the first oral presentation|10/02/2023|100%|100%|100%|
-|Design of the fresco|10/02/2023|100%|100%|100%|
-|Verification of the functional specifications|10/03/2023|100%|100%|100%|
-|Update of the fresco|10/08/2023|100%|100%|100%|
-|Technical specifications|10/09/2023|100%|100%|100%|
-|Verification of the functional specifications|10/10/2023|100%|100%|100%|
-|Division of the work|10/11/2023|100%|<span style="color:green">100%</span>|100%|
-|Quality assurance of the Rubik's cubes|10/13/2023|100%|<span style="color:green">100%</span>|100%|
-|Rubik's cubes patterns|10/23/2023|19%|<span style="color:green">100%</span>|100%|
-|Quality assurance of the patterns|10/23/2023|19%|<span style="color:green">100%</span>|100%|
-|Test plan|10/19/2023|50%|10%|100%|
-|Library set up|10/19/2023|0%|0%|In pause|
-|Verification of the test plan|10/20/2023|100%|0%|100%|
-|Grid on the library's wall|10/20/2023|33%|<span style="color:red">0%</span>|In pause|
-|Order of the materials|10/16/2023|100%|50%|100%|
-|Receive the materials|10/19/2023|100%|0%|100%|
-|Transport to the library|10/23/2023|0%|<span style="color:green">90%</span>|100%|
-|Fixation of the fresco|10/25/2023|0%|0%|66%|
-|Filming the creation|10/24/2023|33%|<span style="color:green">50%</span>|66%|
-|Creation of the videos|10/25/2023|0%|0%|0%|
-|Preparation of the oral|10/24/2023|0%|0%|0%|
-|Documentation|10/26/2023|50%|60%|75%|
-|Notation of the Rubik's cubes|10/24/2023|0%|<span style="color:green"> 14% </span>|100%|
+|1|10/18 11h54 AM|10/18 3 PM|Two hours and half|33|13,2|
+|2|10/18 11h54 AM|10/19 9h45 AM|Five hours 45|33|5,7|
+|4|10/18 11h54 AM|10/18 5h21 PM|Five hours 21 + |44+15|8,6|
+|5|10/19 9AM|10/19 2h40 PM|5 hours 40|33|6,17|
+|6|10/19 9AM|10/19 12AM|Three hours|33|11|
+|7|10/19 9AM|10/19 11h54 AM|2h54|33|11,4|
+|8|10/18 2PM|10/20 2h45PM|8h15|33-15|2,2|
 
-<!-- Budget kpi -->
+This graph shows the evolution of the Rubik's cubes taped to each other by the eight groups.
 
-<!-- creation of under table for example 
-Documentation
-- func
-- tech
-- test plan -->
-
-<!-- separer des kpi -->
+<img style="height:300px" src="../images/boxesHour.png">
 
 
-<!-- add graphs -->
-<!-- with target and colours --> 
-
-
-<!-- ## Update of the test plan
-
-Add test cases to the existing test plan.
-
-Clémentine Curel & Mathis Kakal.
-
-|Time allocated|Time needed|
-|-|-|
-|Two days|On-going (Half a day)| -->
