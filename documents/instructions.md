@@ -2,6 +2,11 @@
 
 This document, dedicated to the installation of the fresco, is intended to be used by the team 1; 2; 5 and 6.
 
+## Before starting
+
+- Ask JP to give you one wooden plank from the storage room
+- Use all the stuff displayed on the table in the library (glue, spatula, hair dryer, etc.) for the preparation of the panels (see below)
+
 ## 1. Clean the panels
 
 To clean the panels, you will need:
@@ -22,9 +27,11 @@ Obviously, it will be the hardest and the longest part of the installation, so i
 
 To prepare the setup, it will be mandatory to use the metallic rule to be sure that the cubes are aligned with the panels and straight, then follow the steps below:
 
-- Ask JP to give you one wooden plank from the storage room
 - Place the plank against the left side of the panel (entrance side) straight, you can use a bubble or laser level to be sure that the plank is parallel to the panel to the panel.
-- Place the metallic rule under the panel, between the panel and the electric electric railing and make it perpendicular to the plank (once again, you can use a bubble or laser level to be sure that the rule is perpendicular to the plank).
+- Place the metallic rule under the panel, between the panel and the electric electric railing and make it perpendicular to the plank (once again, you can use a bubble or laser level to be sure that the rule is perpendicular to the plank). The following picture shows the setup:
+
+![Setup](../images/preparationSchema.jpg)
+
 - Glue the first part of the chunk and then place it against the plank and the rule. Once it's aligned, push it against the panel and press it for 15-20 seconds.
 - Repeat the same process for the other parts of the chunk, then for the complete line.
 - Once the first line is done, you can remove the metallic rule, because it's supposed to be straight, and then repeat the same process for the other lines.
