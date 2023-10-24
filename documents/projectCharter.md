@@ -14,12 +14,12 @@
 ### Document Approval
 | Role | Name | Signature | Date |
 |---|---|---|---|
-| Director of Operations/Project Manager | Clémentine Curel | | |
-| Project Manager Assistant | Laura-Lee Hollande | | |
-| Quality Manager | Mathis KAKAL | | |
-| Fresco Master | Alexis LASSELIN | | |
-| Fresco Builder & Software Developer | Laurent BOUQUIN | | |
-| Courier | Victor Leroy | | |
+| Director of Operations/Project Manager | Clémentine Curel | <img src="../images/clementineSignature.png"> | Sunday, October 22nd, 2023 - 01:42PM |
+| Project Manager Assistant | Laura-Lee Hollande | <img src="../images/lauraLeeSignature.jpg"> | Sunday, October 22nd, 2023 - 01:42PM |
+| Quality Manager | Mathis KAKAL | <em>mathis</em> | Sunday, October 22nd, 2023 - 01:42PM |
+| Fresco Master | Alexis LASSELIN | <img src="../images/alexisSign.png"> | Sunday, October 22nd, 2023 - 01:42PM |
+| Fresco Builder & Software Developer | Laurent BOUQUIN | <img src="../images/laurentSignature.png"> | Sunday, October 22nd, 2023 - 01:42PM |
+| Courier | Victor Leroy | <img src="../images/victorSignature.png"> | Sunday, October 22nd, 2023 - 01:42PM |
 ### Table of contents
 <details>
 <summary><em>click to expand...</em></summary>
