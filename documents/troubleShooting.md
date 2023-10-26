@@ -16,6 +16,8 @@ You will need a spatula and a source of heat to heat the glue in order to remove
 
 It is recommended to start from the top to avoid any accidents
 
+<img src="../images/boxGrid.png" style="height:400px">
+
 2. Gluing
 
 Before reassembling the chunks, you will need to clean the glue from the panels and the entire Rubik's cube to start with a clean slate.
@@ -36,5 +38,4 @@ Remember to take precautions when disassembling and gluing the Rubik's Cube to a
 
 ## Pannels that bend
 
-If you notice that a panel is starting to come loose, you should first locate the center of the panel and remove the chunk that is there (refer to this document for instructions). Once that is done, you will only need to drill through the board and the wall to add a new screw before reattaching the chunk.
-
+If you notice that a panel is starting to come loose, you should first locate the center of the panel and remove the chunk that is there (refer to the previous for instructions). Once that is done, you will only need to drill through the board and the wall to add a new screw before reattaching the chunk.
